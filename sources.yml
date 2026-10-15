@@ -20,6 +20,7 @@ sections:
   # so a BNM cyber guideline lands under Financial Sector, not twice.
   - name: Financial Sector
     first: true
+    always_tag: [Finance]
     feeds:
       - name: Google News
         google: '("Bank Negara" OR BNM OR "Monetary Authority of Singapore" OR OJK OR "Bank of Thailand" OR "Bangko Sentral" OR "State Bank of Vietnam") (cyber OR "technology risk" OR fraud OR scam OR resilience OR RMiT OR TRM)'

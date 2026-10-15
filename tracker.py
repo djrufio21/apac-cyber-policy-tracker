@@ -196,6 +196,9 @@ def build(config, now):
         for it in candidates:
             text = f"{it['title']} {it['summary']}"
             it["tags"] = [name for name, r in tag_res.items() if r.search(text)]
+            for tag in section.get("always_tag", []):  # e.g. everything in Financial Sector is Finance
+                if tag not in it["tags"]:
+                    it["tags"].insert(0, tag)
             it["countries"] = ([section["country"]] if section.get("country")
                                else [name for name, r in country_res.items() if r.search(text)])
             it["closes"] = parse_closing(text, it["published"]) if "Consultation" in it["tags"] else None
