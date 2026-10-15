@@ -140,6 +140,9 @@ def keywords(title):
 def specifics(title, generic):
     """Names and amounts: capitalised words after the first, and numbers (not years)."""
     words = re.findall(r"[A-Za-z$][\w$.,]*", title)
+    # In Title Case Headlines every word is capitalised, so capitals say nothing about names.
+    long_words = [w for w in words if len(w) > 3]
+    title_case = long_words and sum(w[:1].isupper() for w in long_words) / len(long_words) > 0.6
     found = set()
     for i, w in enumerate(words):
         token = re.sub(r"^[a-z]+(?=\d)", "", norm(w).replace(" ", ""))
@@ -147,7 +150,7 @@ def specifics(title, generic):
             continue
         if re.search(r"\d", token) and not re.fullmatch(r"(19|20)\d\d", token):
             found.add(token)
-        elif i > 0 and w[:1].isupper() and len(token) > 3:
+        elif not title_case and i > 0 and w[:1].isupper() and len(token) > 3:
             found.add(token)
     return found
 
