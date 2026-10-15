@@ -22,7 +22,9 @@ sections:
     first: true
     feeds:
       - name: Google News
-        google: '("Bank Negara" OR BNM OR "Monetary Authority of Singapore" OR OJK OR "Bank of Thailand" OR "Bangko Sentral" OR APRA OR ASIC OR "Reserve Bank of India" OR SEBI OR HKMA OR "State Bank of Vietnam") (cyber OR "technology risk" OR fraud OR scam OR "operational resilience" OR RMiT OR "CPS 234" OR "data")'
+        google: '("Bank Negara" OR BNM OR "Monetary Authority of Singapore" OR OJK OR "Bank of Thailand" OR "Bangko Sentral" OR "State Bank of Vietnam") (cyber OR "technology risk" OR fraud OR scam OR resilience OR RMiT OR TRM)'
+      - name: Google News
+        google: '(APRA OR ASIC OR "Reserve Bank of India" OR RBI OR SEBI OR HKMA) (cyber OR "technology risk" OR fraud OR scam OR "operational resilience" OR "CPS 234" OR "cyber resilience")'
     require_cyber: 'cyber|technology risk|tech risk|it risk|fraud|scam|mule|resilien|outsourc|cloud|data|digital|ai\b|artificial intelligence|rmit|trm|cps ?23[0-4]|phishing|authentication|payment security'
 
   - name: Malaysia
@@ -82,25 +84,25 @@ sections:
 
 # Headlines must match one POLICY word and one CYBER word. Matching is case-insensitive
 # and starts at a word boundary ("regulat" matches regulator, regulation, regulatory).
-require_policy: 'bill\b|act\b|acts\b|law\b|laws\b|legislat|regulat|guideline|guidance|framework|consult|code of\b|policy|policies|strategy|directive|circular|licen|complian|mandat|requirement|rules?\b|amend|standard|penalt|fine\b|fines\b|fined\b|parliament|minister|ministry|enforce|gazett|draft|notice|probe|investigat|ban\b|bans\b|order\b|orders\b|roadmap|agreement|mou\b|cooperation|summit\b|declaration'
+require_policy: 'bill\b|act\b|acts\b|law\b|laws\b|legislat|regulat|guideline|guidance|framework|consultation|consults\b|code of\b|policy|policies|strategy|directive|circular|licen|complian|mandat|requirement|rules?\b|amend|standard|penalt|fine\b|fines\b|fined\b|parliament|minister|ministry|enforce|gazett|draft|notice|probe|investigat|ban\b|bans\b|order\b|orders\b|roadmap|agreement|mou\b|cooperation|declaration'
 require_cyber: 'cyber|data|privacy|digital|telecom|telco|5g\b|ai\b|artificial intelligence|online|internet|scam|fraud|critical infrastructure|cloud|encrypt|hack|breach|ransomware|social media|platform|spectrum|sim card\b|deepfake|infrastructure|nacsa|mcmc|csa\b|imda|pdpc|bssn|komdigi|cert-in|meity|esafety|oaic|technology risk'
 
 # Countries detected in text, for sections that cover several countries.
 countries:
-  Malaysia: 'malaysia|malaysian|bank negara|bnm\b|nacsa|mcmc'
-  Singapore: 'singapore|monetary authority of singapore|mas\b|imda|pdpc singapore'
-  Indonesia: 'indonesia|indonesian|ojk\b|bssn|komdigi'
-  Thailand: 'thailand|thai\b|bank of thailand'
-  Philippines: 'philippines|philippine|filipino|bangko sentral|bsp\b'
-  Vietnam: 'vietnam|vietnamese|state bank of vietnam'
-  Australia: 'australia|australian|apra\b|asic\b|oaic'
-  India: 'india|indian|rbi\b|reserve bank of india|sebi\b|cert-in|meity'
+  Malaysia: 'malaysia|malaysian|bank negara|bnm\b|nacsa|mcmc|fahmi|anwar|dewan rakyat|putrajaya'
+  Singapore: 'singapore|monetary authority of singapore|mas\b|imda|csa\b|cyber security agency|pdpc'
+  Indonesia: 'indonesia|indonesian|ojk\b|bssn|komdigi|jakarta'
+  Thailand: 'thailand|thai\b|bank of thailand|bangkok|etda|ncsa'
+  Philippines: 'philippines|philippine|filipino|bangko sentral|bsp\b|dict\b|cicc|manila|national privacy commission'
+  Vietnam: 'vietnam|vietnamese|viet nam|state bank of vietnam|hanoi'
+  Australia: 'australia|australian|apra\b|asic\b|oaic|esafety|canberra|home affairs'
+  India: 'india|indian|rbi\b|reserve bank of india|sebi\b|cert-in|meity|dpdp|new delhi'
   Hong Kong: 'hong kong|hkma\b'
   ASEAN: 'asean'
 
 # Topic tags, matched against the headline and summary.
 tags:
-  Consultation: 'consult|public feedback|seeks? views|seeks? feedback|feedback on|comments? on draft|draft'
+  Consultation: 'consultation|consults\b|public feedback|seeks? views|seeks? feedback|feedback on|comments? on draft|draft'
   New law: 'bill\b|act passed|passes|passed|gazett|comes? into force|into effect|takes? effect|enact|amendment|new law'
   Finance: 'bank\b|banks\b|banking|financial|fintech|payment|insurer|bnm\b|bank negara|monetary authority|apra\b|asic\b|rbi\b|sebi\b|ojk\b|hkma\b|bangko sentral|rmit|cps ?234'
   Telecom: 'telecom|telco|5g\b|spectrum|mobile operator|sim card\b|sim registration|isp\b|gsma\b|itu\b'

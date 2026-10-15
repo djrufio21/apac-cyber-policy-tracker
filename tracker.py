@@ -161,6 +161,8 @@ def build(config, now):
                 print(f"  ✗ {section['name']} / {feed['name']}: {error}", file=sys.stderr)
                 continue
             kept = [it for it in items if policy_re.search(it["title"]) and cyber_re.search(it["title"])]
+            if section.get("country") in country_res:  # country sections: the headline must be about that country
+                kept = [it for it in kept if country_res[section["country"]].search(f"{it['title']} {it['summary']}")]
             print(f"  ✓ {section['name']} / {feed['name']}: {len(kept)} relevant of {len(items)}")
             candidates.extend(kept)
 
