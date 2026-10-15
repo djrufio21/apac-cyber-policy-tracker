@@ -1,0 +1,76 @@
+name: Policy tracker
+
+on:
+  schedule:
+    - cron: "13 23 * * *" # 7:13 AM Malaysia time, daily
+    - cron: "13 9 * * *"  # 5:13 PM Malaysia time, daily
+    - cron: "7 0 * * 1"   # 8:07 AM Malaysia time every Monday: also sends the weekly digest
+  workflow_dispatch:
+    inputs:
+      digest:
+        description: "Also send the weekly digest now"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write # commit the new edition
+  issues: write   # open the weekly digest issue
+
+concurrency:
+  group: policy-tracker
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Decide whether this run sends the digest
+        id: mode
+        run: |
+          if [ "${{ github.event.schedule }}" = "7 0 * * 1" ] || [ "${{ inputs.digest }}" = "true" ]; then
+            echo "digest=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "digest=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build the tracker
+        run: |
+          if [ "${{ steps.mode.outputs.digest }}" = "true" ]; then
+            python tracker.py --digest
+          else
+            python tracker.py
+          fi
+
+      - name: Commit the new edition
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs briefs
+          if git diff --cached --quiet; then echo "Nothing changed."; exit 0; fi
+          git commit -m "Policy tracker $(TZ=Asia/Kuala_Lumpur date '+%F %H:%M')"
+          git push
+
+      - name: Open the weekly digest issue (GitHub emails it to you)
+        if: steps.mode.outputs.digest == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create weekly-digest --color 0B5AA6 --description "Weekly policy digest" --force
+          # Close last week's digest so only the current one stays open
+          for n in $(gh issue list --label weekly-digest --state open --json number --jq '.[].number'); do
+            gh issue close "$n" --comment "Superseded by the new weekly digest."
+          done
+          gh issue create \
+            --title "Weekly APAC cyber policy digest: $(TZ=Asia/Kuala_Lumpur date '+%-d %b %Y')" \
+            --label weekly-digest \
+            --body-file digest.md

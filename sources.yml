@@ -1,0 +1,111 @@
+# What the APAC Cyber Policy Tracker watches.
+#
+# Most regulators publish no RSS feed, so each country uses a Google News search for its
+# regulators and laws. Write the search in plain words under "google:"; the script builds the link.
+# A section can also list direct RSS feeds under "url:".
+#
+# Every headline must contain a POLICY word and a CYBER word (lists at the bottom),
+# so general news about the same agencies is dropped. A section can override either list.
+
+settings:
+  title: APAC Cyber Policy Tracker
+  days_back: 7          # how far back the page and the weekly digest look
+  max_items: 15         # per section
+  closing_soon_days: 60 # consultations closing within this many days are flagged at the top
+  keep_days: 120        # dated archive pages older than this are deleted
+  github_user: djrufio21 # mentioned in the weekly digest so GitHub emails you
+
+sections:
+  # "first: true" sections claim shared stories before country sections do,
+  # so a BNM cyber guideline lands under Financial Sector, not twice.
+  - name: Financial Sector
+    first: true
+    feeds:
+      - name: Google News
+        google: '("Bank Negara" OR BNM OR "Monetary Authority of Singapore" OR OJK OR "Bank of Thailand" OR "Bangko Sentral" OR APRA OR ASIC OR "Reserve Bank of India" OR SEBI OR HKMA OR "State Bank of Vietnam") (cyber OR "technology risk" OR fraud OR scam OR "operational resilience" OR RMiT OR "CPS 234" OR "data")'
+    require_cyber: 'cyber|technology risk|tech risk|it risk|fraud|scam|mule|resilien|outsourc|cloud|data|digital|ai\b|artificial intelligence|rmit|trm|cps ?23[0-4]|phishing|authentication|payment security'
+
+  - name: Malaysia
+    country: Malaysia
+    feeds:
+      - name: Google News
+        google: 'Malaysia (NACSA OR MCMC OR "Cyber Security Act" OR "Online Safety Act" OR PDPA OR "Digital Ministry" OR "Personal Data Protection" OR "cybersecurity")'
+
+  - name: Singapore
+    country: Singapore
+    feeds:
+      - name: Google News
+        google: 'Singapore ("Cyber Security Agency" OR CSA OR IMDA OR PDPC OR "Cybersecurity Act" OR "Online Safety" OR "Digital Infrastructure" OR "data protection")'
+
+  - name: Indonesia
+    country: Indonesia
+    feeds:
+      - name: Google News
+        google: 'Indonesia (BSSN OR Komdigi OR "PDP Law" OR "cyber security" OR "data protection" OR "cybersecurity bill")'
+
+  - name: Thailand
+    country: Thailand
+    feeds:
+      - name: Google News
+        google: 'Thailand (NCSA OR PDPC OR ETDA OR "cybersecurity" OR "data protection" OR "Personal Data Protection Act")'
+
+  - name: Philippines
+    country: Philippines
+    feeds:
+      - name: Google News
+        google: 'Philippines (DICT OR "National Privacy Commission" OR CICC OR "cybersecurity" OR "data privacy")'
+
+  - name: Vietnam
+    country: Vietnam
+    feeds:
+      - name: Google News
+        google: 'Vietnam ("cybersecurity law" OR "personal data" OR "data law" OR cybersecurity OR "digital technology law")'
+
+  - name: Australia
+    country: Australia
+    feeds:
+      - name: Google News
+        google: 'Australia ("Cyber Security Act" OR SOCI OR "critical infrastructure" OR OAIC OR "Privacy Act" OR "Home Affairs" OR "cyber security strategy" OR eSafety)'
+
+  - name: India
+    country: India
+    feeds:
+      - name: Google News
+        google: 'India (CERT-In OR MeitY OR DPDP OR "Digital India Act" OR "Telecommunications Act" OR "data protection" OR cybersecurity)'
+
+  - name: Regional & Global Bodies
+    feeds:
+      - name: ASEAN Secretariat
+        url: https://asean.org/feed/
+      - name: Google News
+        google: '(ASEAN OR APEC OR GSMA OR ITU OR "Counter Ransomware Initiative") (cybersecurity OR cyber OR "data governance" OR "digital economy" OR scams OR "AI governance")'
+
+# Headlines must match one POLICY word and one CYBER word. Matching is case-insensitive
+# and starts at a word boundary ("regulat" matches regulator, regulation, regulatory).
+require_policy: 'bill\b|act\b|acts\b|law\b|laws\b|legislat|regulat|guideline|guidance|framework|consult|code of\b|policy|policies|strategy|directive|circular|licen|complian|mandat|requirement|rules?\b|amend|standard|penalt|fine\b|fines\b|fined\b|parliament|minister|ministry|enforce|gazett|draft|notice|probe|investigat|ban\b|bans\b|order\b|orders\b|roadmap|agreement|mou\b|cooperation|summit\b|declaration'
+require_cyber: 'cyber|data|privacy|digital|telecom|telco|5g\b|ai\b|artificial intelligence|online|internet|scam|fraud|critical infrastructure|cloud|encrypt|hack|breach|ransomware|social media|platform|spectrum|sim card\b|deepfake|infrastructure|nacsa|mcmc|csa\b|imda|pdpc|bssn|komdigi|cert-in|meity|esafety|oaic|technology risk'
+
+# Countries detected in text, for sections that cover several countries.
+countries:
+  Malaysia: 'malaysia|malaysian|bank negara|bnm\b|nacsa|mcmc'
+  Singapore: 'singapore|monetary authority of singapore|mas\b|imda|pdpc singapore'
+  Indonesia: 'indonesia|indonesian|ojk\b|bssn|komdigi'
+  Thailand: 'thailand|thai\b|bank of thailand'
+  Philippines: 'philippines|philippine|filipino|bangko sentral|bsp\b'
+  Vietnam: 'vietnam|vietnamese|state bank of vietnam'
+  Australia: 'australia|australian|apra\b|asic\b|oaic'
+  India: 'india|indian|rbi\b|reserve bank of india|sebi\b|cert-in|meity'
+  Hong Kong: 'hong kong|hkma\b'
+  ASEAN: 'asean'
+
+# Topic tags, matched against the headline and summary.
+tags:
+  Consultation: 'consult|public feedback|seeks? views|seeks? feedback|feedback on|comments? on draft|draft'
+  New law: 'bill\b|act passed|passes|passed|gazett|comes? into force|into effect|takes? effect|enact|amendment|new law'
+  Finance: 'bank\b|banks\b|banking|financial|fintech|payment|insurer|bnm\b|bank negara|monetary authority|apra\b|asic\b|rbi\b|sebi\b|ojk\b|hkma\b|bangko sentral|rmit|cps ?234'
+  Telecom: 'telecom|telco|5g\b|spectrum|mobile operator|sim card\b|sim registration|isp\b|gsma\b|itu\b'
+  AI: 'ai\b|artificial intelligence|generative|llm\b|deepfake'
+  Data protection: 'data protection|privacy|personal data|pdpa|pdp law|dpdp|data breach|data leak'
+  Critical infrastructure: 'critical infrastructure|critical information|cii\b|ncii|soci\b|essential services|critical information'
+  Scams & fraud: 'scam|fraud|phishing|mule'
+  Enforcement: 'fine\b|fines\b|fined\b|penalt|enforce|probe|investigat|charged|sanction|compound'

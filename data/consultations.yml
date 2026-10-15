@@ -1,0 +1,14 @@
+# Consultations you want tracked by hand, shown in "Closing soon" until their closing date.
+# The tracker also finds consultations in the news automatically; add one here when
+# you know the exact closing date or the news hasn't picked it up.
+#
+# Example (remove the # at the start of each line to use it):
+#
+# - title: Draft Guidelines on Cloud Security for Licensed Entities
+#   regulator: MAS
+#   country: Singapore
+#   closes: 2026-12-15
+#   link: https://www.mas.gov.sg/publications/consultations
+#   tags: [Finance, Consultation]
+
+[]
