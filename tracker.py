@@ -128,15 +128,38 @@ def fetch(feed, cutoff):
     return items, None
 
 
+GENERIC = set("""act bill law laws digital data cyber cybersecurity security ministry minister government
+new national policy framework guidelines guideline strategy agency authority commission court bank ai the
+says launches launch issues calls sets plans warns""".split())
+
+
 def keywords(title):
-    return {w for w in norm(title).split() if len(w) > 2 and w not in STOPWORDS}
+    return {re.sub(r"^[a-z]+(?=\d)", "", w) for w in norm(title).split() if len(w) > 2 and w not in STOPWORDS}
+
+
+def specifics(title, generic):
+    """Names and amounts: capitalised words after the first, and numbers (not years)."""
+    words = re.findall(r"[A-Za-z$][\w$.,]*", title)
+    found = set()
+    for i, w in enumerate(words):
+        token = re.sub(r"^[a-z]+(?=\d)", "", norm(w).replace(" ", ""))
+        if not token or token in generic or token in STOPWORDS:
+            continue
+        if re.search(r"\d", token) and not re.fullmatch(r"(19|20)\d\d", token):
+            found.add(token)
+        elif i > 0 and w[:1].isupper() and len(token) > 3:
+            found.add(token)
+    return found
 
 
 def same_story(a, b):
     if difflib.SequenceMatcher(None, a["_key"], b["_key"]).ratio() >= SIMILARITY:
         return True
     shared = a["_words"] & b["_words"]
-    return len(shared) >= 4 and len(shared) / (min(len(a["_words"]), len(b["_words"])) or 1) >= 0.5
+    if len(shared) >= 4 and len(shared) / (min(len(a["_words"]), len(b["_words"])) or 1) >= 0.5:
+        return True
+    # Different wording, same specifics: e.g. the same firm name or the same fine amount
+    return len(a["_spec"] & b["_spec"]) >= 1 and len(shared | (a["_spec"] & b["_spec"])) >= 2
 
 
 def build(config, now):
@@ -146,6 +169,8 @@ def build(config, now):
     tag_res = {name: rx(p) for name, p in config["tags"].items()}
     country_res = {name: rx(p) for name, p in config["countries"].items()}
 
+    # Country and regulator names are too common to identify a story on their own
+    generic = GENERIC | {w for p in config["countries"].values() for w in re.findall(r"[a-z]+", p)}
     order = sorted(range(len(config["sections"])), key=lambda i: not config["sections"][i].get("first"))
     results, failures, seen, total = {}, [], [], 0
     for i in order:
@@ -175,6 +200,7 @@ def build(config, now):
                                else [name for name, r in country_res.items() if r.search(text)])
             it["closes"] = parse_closing(text, it["published"]) if "Consultation" in it["tags"] else None
             it["_key"], it["_words"] = norm(it["title"]), keywords(it["title"])
+            it["_spec"] = specifics(it["title"], generic)
             match = next((o for o in seen if same_story(it, o)), None)
             if match:
                 if it["source"] != match["source"] and it["source"] not in match["also"]:
