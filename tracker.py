@@ -454,6 +454,24 @@ def write_archive(config, today):
     (DOCS / "archive.html").write_text(page("Past editions", body), encoding="utf-8")
 
 
+def write_json(sections, now, extra=None):
+    """docs/latest.json: the same items in machine-readable form, for the Telegram bot."""
+    import json
+    def item(s):
+        out = {k: v for k, v in s.items() if not k.startswith("_")}
+        for k, v in list(out.items()):
+            if isinstance(v, (dt.datetime, dt.date)):
+                out[k] = v.isoformat()
+            elif isinstance(v, set):
+                out[k] = sorted(v)
+        return out
+    data = {"generated": now.isoformat(timespec="seconds"),
+            "sections": [{"name": sec["name"], "stories": [item(s) for s in sec["stories"]]} for sec in sections]}
+    if extra:
+        data.update(extra)
+    (DOCS / "latest.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
 def main():
     config = yaml.safe_load((ROOT / "sources.yml").read_text(encoding="utf-8"))
     now = dt.datetime.now(dt.timezone.utc)
@@ -473,6 +491,7 @@ def main():
     (DOCS / f"{today.isoformat()}.html").write_text(html_page, encoding="utf-8")
     (BRIEFS / f"{today.isoformat()}.md").write_text(render_markdown(config, sections, soon, failures, now), encoding="utf-8")
     write_archive(config, today)
+    write_json(sections, now, {"closing_soon": [{**r, "closes": r["closes"].isoformat()} for r in soon]})
     if "--digest" in sys.argv:
         (ROOT / "digest.md").write_text(render_digest(config, sections, soon, now), encoding="utf-8")
         print("Wrote digest.md")
