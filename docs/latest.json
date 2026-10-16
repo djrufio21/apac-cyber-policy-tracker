@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T10:21:24+00:00",
+ "generated": "2026-10-16T13:55:18+00:00",
  "sections": [
   {
    "name": "Financial Sector",
@@ -76,13 +76,12 @@
      "closes": null
     },
     {
-     "title": "Anwar says AI Governance Bill to complement cybersecurity, data laws",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDhYV0Z5LUxnTm5LUENIUnhjUExYX1E3M1NqY2VLY196VGJ4OHlwc1VVZVQzUFBTdmxRcmxBYnM3N0NWeE9IdjVCUGxJSjJhUENEaHB5WS0teUhib2hXcUFKSE5Va2dtY3NfeHNUVjVBWTQ0R0syZ09DcWJzZmlWZFZpTW1jcy00YTJIUXdVVnFqUER6VUdvYW9aNDAtODVpVnk1SlVtR0ZiR211OUJJZXZxazlvZ9IBuwFBVV95cUxPQ1B5WklsSVZiV1FtbTFFN3BxVzh2a1BqOVU0Ukg1cWxoWDYzbHdmcC1oaUVrZU52UFFScW8zeUszT3VZMHVhbWZ6dUFKVWNJZl9raVNnZ3V5VmVnUlBYM3dUVVVSdjJrZ2lLaldWNjNlWGxHWkNIdDF1S2xSQkNiNnNRNmxUV05OVDNMNzd6bVFGZXFCeVpaeUJWRURSS0FPQVFiYmZkTGROclNwRTM2WmwzNTN0QkE1d2pN?oc=5",
-     "source": "NST Online",
-     "published": "2026-10-15T03:45:56+00:00",
+     "title": "Malaysia Calls For Stronger ASEAN Cooperation On AI-Related Cyber Threats",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91TUM5aC11cmJqNlRMN0xhdU5rZHRnSnN2bnBnTE9xVVdGUy0xTENUZWM5dTMtZ1JERlBXRmZXWXF5c2lHbkxPaXlBYWVYSWpCY21DZ1NpVEc?oc=5",
+     "source": "Bernama",
+     "published": "2026-10-14T12:39:28+00:00",
      "summary": "",
      "tags": [
-      "New law",
       "AI"
      ],
      "countries": [
@@ -92,12 +91,13 @@
      "closes": null
     },
     {
-     "title": "Malaysia Calls For Stronger ASEAN Cooperation On AI-Related Cyber Threats",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91TUM5aC11cmJqNlRMN0xhdU5rZHRnSnN2bnBnTE9xVVdGUy0xTENUZWM5dTMtZ1JERlBXRmZXWXF5c2lHbkxPaXlBYWVYSWpCY21DZ1NpVEc?oc=5",
-     "source": "Bernama",
-     "published": "2026-10-14T12:39:28+00:00",
+     "title": "Anwar says AI Governance Bill to complement cybersecurity, data laws",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDhYV0Z5LUxnTm5LUENIUnhjUExYX1E3M1NqY2VLY196VGJ4OHlwc1VVZVQzUFBTdmxRcmxBYnM3N0NWeE9IdjVCUGxJSjJhUENEaHB5WS0teUhib2hXcUFKSE5Va2dtY3NfeHNUVjVBWTQ0R0syZ09DcWJzZmlWZFZpTW1jcy00YTJIUXdVVnFqUER6VUdvYW9aNDAtODVpVnk1SlVtR0ZiR211OUJJZXZxazlvZ9IBuwFBVV95cUxPQ1B5WklsSVZiV1FtbTFFN3BxVzh2a1BqOVU0Ukg1cWxoWDYzbHdmcC1oaUVrZU52UFFScW8zeUszT3VZMHVhbWZ6dUFKVWNJZl9raVNnZ3V5VmVnUlBYM3dUVVVSdjJrZ2lLaldWNjNlWGxHWkNIdDF1S2xSQkNiNnNRNmxUV05OVDNMNzd6bVFGZXFCeVpaeUJWRURSS0FPQVFiYmZkTGROclNwRTM2WmwzNTN0QkE1d2pN?oc=5",
+     "source": "NST Online",
+     "published": "2026-10-13T16:00:00+00:00",
      "summary": "",
      "tags": [
+      "New law",
       "AI"
      ],
      "countries": [
@@ -200,6 +200,21 @@
      "closes": null
     },
     {
+     "title": "Databricks Partners with EDB and IMDA to Support Singapore’s National AI Strategy",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOanZuR0Q1MEVrUnR6Z0RWVHV1dWhfVXRVVlhHT1A4UEE5Y0FQU3lHd0dsNk1mbWZTVV80S2JDT1BWb0ZGVENIRmFmSzN2MkZsMHRET1o0MVk1UGcyZVVITFJMTmsyN1pPZXA0c2hVZlJZOEtUb2Nya3BFQlR2S2tZbXQ3RVk1YjNyMlV4dVYwN0FLSTdwVTU4dGt2TWQxMHpvbnFfWQ?oc=5",
+     "source": "Singapore Economic Development Board (EDB)",
+     "published": "2026-10-14T07:00:00+00:00",
+     "summary": "",
+     "tags": [
+      "AI"
+     ],
+     "countries": [
+      "Singapore"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
      "title": "IMDA launches guide to help businesses test how AI agents act",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDE1czZWRFdfV2xqVk83Zmg0TmNuX2c1Q0Y5SUJHcG82ZGRDQ29PazQ4YWZvdHNic0s3TE5hS0Z0VEVYSC10dFNpa01WcTlGX2oxOXNUMV9VM1BWWDB5amxjc3RJSTVlaUhKcDFnbzdTRTdjMk96eXVnTnhhMEdibEEyT3o3VTl5TVM5Z21FRWFXVzMyUUtad3pWR0JnUXVmd3R6NW4tRnJGcjZHdFZOUWQ2WF8yZFhFampPNGxMSUJtSnhvQnc?oc=5",
      "source": "The Edge Singapore",
@@ -238,6 +253,19 @@
      "tags": [
       "AI"
      ],
+     "countries": [
+      "Singapore"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "Singapore to develop national tool to block cyber threats under new strategy, says Shanmugam",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLWZIa01mQ1ZlbUNSbVcyMnFfcmJfOF8yUVFVX0Rna19JTThrTUJNdlVkWXI2SWZ3WmR5QUprUEt6NENKR2hYS2NZS1pycmM4cGxNMXdJYkJQLU5hc0JmNUwwdEotZzk3ZVFWOW51YlhVelRqZUdqNUxqRldMRnNpRkNwTnlhX1BpREduR2tFR25ZRVNuemp0VUVKZUJaQ1hFa3BGZWMxZEFaZ2pSOXp5Qk9MVlZXZENsejhpSmFFQlprWGhmSkdpRVAtcw?oc=5",
+     "source": "The Online Citizen",
+     "published": "2026-10-13T12:48:10+00:00",
+     "summary": "",
+     "tags": [],
      "countries": [
       "Singapore"
      ],
@@ -368,6 +396,22 @@
      "tags": [
       "Finance",
       "Scams & fraud"
+     ],
+     "countries": [
+      "Thailand"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "Thailand issues personal data protection guidelines for AI development, use",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2hqUEtxeThuNjZ5VW5OXzgtM1d5MVBYc2VzNlJRVzFzUmZPX0JkbkFodzFzUmdmU2hvSVRrNGZ1VVBuSmV2V1l3UHZBQzlBQnJNSFFOLUlkS0VrMmJhdS1aVFBvZWRycVJfY1FJaml4Rkw5aGtZbkhLcnZBQWxCdXZodGVVVWhfbm9GLVh6UllBckJ2OXpNUThyUktQZV8yUU9yaU5aOXI5akJnZWQ3NHVGUXZaVXNz0gFaQVVfeXFMT3Qzb3Awa25JWmx6UTRJVzV6eER5c2R1d1pIaWJtLUlzanZFRVhrTmU2ZGxoQWZySzNKWGwtamNJSFRTSXd3MDBxUzR3UWctYWtPQUhPWGN6QUxB?oc=5",
+     "source": "MLex",
+     "published": "2026-10-12T08:50:21+00:00",
+     "summary": "",
+     "tags": [
+      "AI",
+      "Data protection"
      ],
      "countries": [
       "Thailand"
