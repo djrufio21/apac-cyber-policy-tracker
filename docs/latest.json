@@ -1,20 +1,37 @@
 {
- "generated": "2026-10-17T01:15:59+00:00",
+ "generated": "2026-10-17T12:55:25+00:00",
  "sections": [
   {
    "name": "Financial Sector",
    "stories": [
     {
-     "title": "How Cloud-Native Infrastructure Is Helping Indian Stock Brokers Meet SEBI's System Audit and Cybersecurity Standards",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDRrTHNWRXNWNlhzZENzdHJwdXZ0X2IxdU9BcXZIRTZTUElIV0FYeUFVcG5xVEt1RzE4d1VhSGItN1RZM1ppdTNQTlFBOUdwbnMzMWoyOVo0c2ZNX3R2Qy0tOGZlbHJoTVZkOEwwcjJob1hpaHNMT3h6bjZfckRZc1h4Nm9tUU9CWnlERkdBSkRGdkVia0dfTlF6LWRmQVJnckZONHF4R3g0M05mMkZyOXJKa2pNWVpiSWhVV2g4SVpaZ0JxMjJN?oc=5",
-     "source": "Nasscom",
-     "published": "2026-10-15T05:21:05+00:00",
+     "title": "RBI rules allow bank fraud reporting at any hour, including midnight | One should keep complaint number, details safe | Inshorts",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMkN6QXdGQnFabVhIQ1JYaE5SaGZ1eEloNk40VjdYdngtUzY1ODlOYW93aGhMYnc5Q2FEaVBnRERCU0R5cy1kRTRRdl9wXzBybHJmemZiaFlxTXRxaFhRd3k4VF91T0pOUEpWc2k0dVl5Z0RodWJzTUdWWFZWRGRJd3M2bjI4a05FeWtkemw5T243cEVkY1hkdlRKTFVTUjZQM1NuUG5qSzlGOWhpS2FNTUptbWhQcW_SAbcBQVVfeXFMTTJDekF3RkJxWm1YSENSWGhOUmhmdXhJaDZONFY3WHZ4LVM2NTg5TmFvd2hoTGJ3OUNhRGlQZ0REQlNEeXMtZEU0UXZfcF8wcmxyZnpmYmhZcU10cWhYUXd5OFRfdU9KTlBKVnNpNHVZeWdEaHVic01HVlhWVkRkSXdzNm4yOGtORXlrZHpsOU9uN3BFZGNYZHZUSkxVU1I2UDNTblBuaks5RjloaUthTU1KbW1oUHFv?oc=5",
+     "source": "Inshorts",
+     "published": "2026-10-17T07:24:34+00:00",
      "summary": "",
      "tags": [
-      "Finance"
+      "Finance",
+      "Scams & fraud"
      ],
      "countries": [
       "India"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "HKMA launches ‘ART’ Framework to guide responsible AI use in banking",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNFhPYXROMHBSa0dWU2Jpb080WTkxTjRJdUVnQm1nOXlXQ205aE9yb0dyMFJGWjFBRU9vaWljYk1BLUdudGZ3R3dxN25rNldxaExra2VyVDcyTUZHQlJzTGJwYllOOWxFVEV2R05hbzQ2TmFWRFNRUzUyd0tJcHY4VGhac2FKRVpJZ09GbnFGcG9KTHJadzhuZWFIcVpTc3pSdkVhdWRabjFqY1AzWkJaS3VlZi1ubVc3U0podQ?oc=5",
+     "source": "The Standard (HK)",
+     "published": "2026-10-15T09:47:54+00:00",
+     "summary": "",
+     "tags": [
+      "Finance",
+      "AI"
+     ],
+     "countries": [
+      "Hong Kong"
      ],
      "also": [],
      "closes": null
@@ -31,6 +48,7 @@
      ],
      "countries": [],
      "also": [
+      "Cyber Daily",
       "ifa",
       "Lawyerly"
      ],
@@ -151,10 +169,10 @@
      "closes": null
     },
     {
-     "title": "MCMC probes Facebook post suspected of insulting Islam by mocking Quranic verse",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPajZ1UmcwV0huMm9TSUppUk5ZajYyVnVnd05WTHdLSUJVMk5CUDFGZkJNdFFmMTVaSHZuclJZVkZPdEp3WmxCbElBWmFod05PRWpkMzAtWG1Fanl1RkREOWhRUC1PUWlYWTd3NUVfUi14azNVckxTaVMtYjJZdFBQbmhTWW0wWlNGd0pBQXpwQUJuaGdDSjRHUTB3aWRCVVBiT2huTFA4cm5ERWtHVEJBMjE3UDhKZ3h2ZGlqQUR5NUV2bVByS194dlcyZll6Zm8xMmhj?oc=5",
-     "source": "Malay Mail",
-     "published": "2026-10-11T01:38:57+00:00",
+     "title": "MCMC probes individual over suspected insult to Islam on Facebook",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONmxmaHJ2VTJUaWhrY0hxYTVnYzhEQ203VDVGd0dkSGRtOHB0TmZCU0F2WWtMa09aRUNoV05RaVNoYTdSTVFTV3VXZXZ5V01NX2MxdTVNOFNkWWdzRWpGRkhJNE1VaHRBdmgzZlNBRDJSTktMd1hTSWJlUlNTRXRDcXNHNkJjcFpSMVpONmx5SzIzaVdxRHlha1BMQVdObk1UOFBsam9JalZYSnlXbnc?oc=5",
+     "source": "The Malaysian Reserve",
+     "published": "2026-10-11T05:21:07+00:00",
      "summary": "",
      "tags": [
       "Enforcement"
@@ -417,22 +435,6 @@
      ],
      "also": [],
      "closes": null
-    },
-    {
-     "title": "Thailand issues personal data protection guidelines for AI development, use",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2hqUEtxeThuNjZ5VW5OXzgtM1d5MVBYc2VzNlJRVzFzUmZPX0JkbkFodzFzUmdmU2hvSVRrNGZ1VVBuSmV2V1l3UHZBQzlBQnJNSFFOLUlkS0VrMmJhdS1aVFBvZWRycVJfY1FJaml4Rkw5aGtZbkhLcnZBQWxCdXZodGVVVWhfbm9GLVh6UllBckJ2OXpNUThyUktQZV8yUU9yaU5aOXI5akJnZWQ3NHVGUXZaVXNz0gFaQVVfeXFMT3Qzb3Awa25JWmx6UTRJVzV6eER5c2R1d1pIaWJtLUlzanZFRVhrTmU2ZGxoQWZySzNKWGwtamNJSFRTSXd3MDBxUzR3UWctYWtPQUhPWGN6QUxB?oc=5",
-     "source": "MLex",
-     "published": "2026-10-12T08:50:21+00:00",
-     "summary": "",
-     "tags": [
-      "AI",
-      "Data protection"
-     ],
-     "countries": [
-      "Thailand"
-     ],
-     "also": [],
-     "closes": null
     }
    ]
   },
@@ -459,17 +461,15 @@
    "stories": [
     {
      "title": "India, Vietnam hold 4th Security Dialogue, review counter-terrorism, cybersecurity cooperation",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeW8tb184UFdMUFZ5LXA3b3VNVndZNHdxOFlFbVFBTHBLYUw1eWcydGFVSnRickxjQlJkR2YxNVIzUjFsQTF6d0Y5WENzbC1fdFJRT3FSaUZQT2dSOTlNLWk1T0tGZ3dJem1qdHVtc0JRTThfMUtfRHZ2Nld5V3ZmSFVWTG5WY19vakc5M1FsLUt3dlUxc0NGM2hlTG41UVd4eEVrWFVMakxhaVpoV3o1TUJuNjB5OEN0bGowcFRCbl9vOGxCY1JaRHZRQnprRHpK0gHQAUFVX3lxTE95by1vXzhQV0xQVnktcDdvdU1Wd1k0d3E4WUVtUUFMcEthTDV5ZzJ0YVVKdGJyTGNCUmRHZjE1UjNSMWxBMXp3RjlYQ3NsLV90UlFPcVJpRlBPZ1I5OU0taTVPS0Znd0l6bWp0dW1zQlFNOF8xS19EdnY2V3lXdmZIVVZMblZjX29qRzkzUWwtS3d2VTFzQ0YzaGVMbjVRV3h4RWtYVUxqTGFpWmhXejVNQm42MHk4Q3RsajBwVEJuX284bEJjUlpEdlFCemtEeko?oc=5",
-     "source": "The Tribune",
-     "published": "2026-10-16T15:40:55+00:00",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeW1CUHExTHB4MWVPMGFxbTVscXJ4N2JZWDUxbkc0NEtXdFViejFCRzJNb3hpQVdnZG9mYjQ3d3R1dEVvOEpONzNaUExTMEJQMDdMYXc2QUlLc2loRDg4cWsteWR6by1mU0syWEpaaEVzeW1WeDNTUlpWanBoaUYydHgycnJfN1ZqbkdSUWd1QUh4RXdtSWJ4ZTFsSTUwSkxoelFBaG1idkZyWEFWVG96WTRhcWhyUE9xOThPVFFENFZQekZpbUxrWTJ1NmowUQ?oc=5",
+     "source": "Malaysia Sun",
+     "published": "2026-10-16T11:46:00+00:00",
      "summary": "",
      "tags": [],
      "countries": [
       "Vietnam"
      ],
-     "also": [
-      "Malaysia Sun"
-     ],
+     "also": [],
      "closes": null
     },
     {
@@ -535,21 +535,6 @@
      "also": [
       "The Express Tribune"
      ],
-     "closes": null
-    },
-    {
-     "title": "Government-Funded Group Helped Push Australia’s Digital Censorship Bill",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM0lXRHhnSXBZS2dXd0pFblNJcUlQZWc1bGoxUVhUYkZBbkxVeUxGTWh0TWpWNEFvM3h3WjNqUUxueEcxUF94NEN6TXlmOEljb0J5NXhFUW9paXFOaHF6eUU4OGd1NFFjMTFwZUwzSmNreHBaWlJYRDNldC1lNE0wcFpn?oc=5",
-     "source": "Reclaim The Net",
-     "published": "2026-10-13T19:36:53+00:00",
-     "summary": "",
-     "tags": [
-      "New law"
-     ],
-     "countries": [
-      "Australia"
-     ],
-     "also": [],
      "closes": null
     },
     {
@@ -664,8 +649,6 @@
      ],
      "also": [
       "ANI News",
-      "MorungExpress",
-      "Express Computer",
       "IBM"
      ],
      "closes": null
