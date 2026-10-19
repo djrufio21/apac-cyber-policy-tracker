@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T13:12:59+00:00",
+ "generated": "2026-10-19T01:09:13+00:00",
  "sections": [
   {
    "name": "Financial Sector",
@@ -17,6 +17,35 @@
      "countries": [
       "India"
      ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "Bombay High Court: Banks Must Issue Reasoned Orders Before Marking Borrowers as ‘Fraud’",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYmNaU2tXb0Zzd1dNQUxXOEZxSjVMQ0FLekZIelRxY09UVG11NzNjOGRVdHl1YWdiZGNRbXdnb2JQbWY4anRCaTBpMHRpVEQzcEpSNlJyQnlteTZza0k3UVU5NHlkeUhaSGhrcUszc0hPNzRQTExIX3gyMXQxaEVYd3BkOXBSSHhJc3JRWFIxZzY4ZFhJT3FCT1RXZDY3YjVKTU1ockctS3ZJWUJ6?oc=5",
+     "source": "TaxCorp AI",
+     "published": "2026-10-15T21:50:01+00:00",
+     "summary": "",
+     "tags": [
+      "Finance",
+      "Scams & fraud"
+     ],
+     "countries": [],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "‘We will find you’: DOJ targets COVID relief tax fraud in criminal probe; defendant gets 5 years",
+     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdUstNER6akYzbVQzR3RkTlFqNTg1LTRpMjJvcnlfSWpGbnlOcFV6aU1nY2w2bUFKaGI3U2lLOFM3YUo5QUdsbmJhYkhLR2EwN2Nvb2JsRldzbUVqSUZ0TGtWNGNBVkRJNXpTNGs4VE9ZRjNBTDBYX253Um9DdW85QVllQm1xdFVjdGd6djhVcExkU2FCRzJudWhKeVcza2ZLNHNMWGluOFozdm5IUk9uMmNUU0dRZFJ2dEoxVXFYVkZ0Y0lnT0FqSVRsWDdvT2pZbWtxbWViVU0yMi1UeGdPVFdWaFdLUm56OXItaExwWWFWeFNxcXpFOWhhaUNiNUtwX3g1ejU4UEliQdIBigJBVV95cUxPdUstNER6akYzbVQzR3RkTlFqNTg1LTRpMjJvcnlfSWpGbnlOcFV6aU1nY2w2bUFKaGI3U2lLOFM3YUo5QUdsbmJhYkhLR2EwN2Nvb2JsRldzbUVqSUZ0TGtWNGNBVkRJNXpTNGs4VE9ZRjNBTDBYX253Um9DdW85QVllQm1xdFVjdGd6djhVcExkU2FCRzJudWhKeVcza2ZLNHNMWGluOFozdm5IUk9uMmNUU0dRZFJ2dEoxVXFYVkZ0Y0lnT0FqSVRsWDdvT2pZbWtxbWViVU0yMi1UeGdPVFdWaFdLUm56OXItaExwWWFWeFNxcXpFOWhhaUNiNUtwX3g1ejU4UEliQQ?oc=5",
+     "source": "The Economic Times",
+     "published": "2026-10-15T17:54:00+00:00",
+     "summary": "",
+     "tags": [
+      "Finance",
+      "Scams & fraud",
+      "Enforcement"
+     ],
+     "countries": [],
      "also": [],
      "closes": null
     },
@@ -48,7 +77,6 @@
      ],
      "countries": [],
      "also": [
-      "Cyber Daily",
       "ifa",
       "Lawyerly"
      ],
@@ -112,6 +140,19 @@
      "closes": null
     },
     {
+     "title": "Communications Ministry, MCMC to study expanding CoPA metric to key economic areas",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTVWT1V6ZlR3QXZ3Y3B2OGkwbWNwZE5ZYl9URGdhY2pVaDNLOVhVWmFLbDJCTHNOdWw5WXIzZUtEX2JyU1hSZF9lZjZhMUhvbTh1Mk9WWDN3a2cxLU5ua3ZSd1dsZm5adGZrcERLMGtuRTcyclh1U0xDODBxN2dhNXp3UlZXRk1wNjE0UnUxak83R3Bob2Q0LXFpdGkydzdwaHVMdFMyR1RnaFpRUEJ6UWp0TmRpVFg5dTJPWlhnZm9DZkk?oc=5",
+     "source": "The Malaysian Reserve",
+     "published": "2026-10-17T10:13:38+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "Malaysia"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
      "title": "Malaysia Calls For Stronger ASEAN Cooperation On AI-Related Cyber Threats",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91TUM5aC11cmJqNlRMN0xhdU5rZHRnSnN2bnBnTE9xVVdGUy0xTENUZWM5dTMtZ1JERlBXRmZXWXF5c2lHbkxPaXlBYWVYSWpCY21DZ1NpVEc?oc=5",
      "source": "Bernama",
@@ -128,7 +169,7 @@
     },
     {
      "title": "MCMC probes viral video over allegedly misleading Budget 2027 tax claims",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSW96YUhGTVR5WEdlYmhzTWQ4aGhESkJCc2t3WXNrSFJvZHo0NEJQU3VnVXYtYk9Bc0lPQXpMNzdIbEkwZl9wWTB3cEtNQ0RZcDVwYnhBbmNsR21PVDhYTEJZZEhRS01mR3hGd2l3bzVKRDAzX2JydmlxdGRhWm9mRDFYUk1rWUtrTXBaaXkxc2hTSmI4aFkybll5NWVIY0FLWlZjWVVSSVRVclFFX21vWFR0bGZNR0F5YUE?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcXdDRDhaaVVKTGVSQzJCNWp4YnJnSzhxNzExcVZ5RWxHSV9LMUUzMmRxX0M0STNJZDFBNWcxNnFTVlphWjJ1NlBvdDgwUlprdVpkQ2cyZlhPYzVtY2toSEpLRUtFdEt4OUFNZzhSRjBvRHpZNWh1X2lHX0FxLTY1Um9DY0ZybHZVTTRGelM3VWVFakhNWWdiRHpzSWJjNzZ5SG51WVA4ZkdQMlhzdHdsbmFsT0cwYU9GXzR0WGYtM3ZYTEtGWTM0?oc=5",
      "source": "The Vibes",
      "published": "2026-10-13T04:28:00+00:00",
      "summary": "",
@@ -146,6 +187,19 @@
   {
    "name": "Singapore",
    "stories": [
+    {
+     "title": "Singapore tightens rules for data centres and cloud services. Is it good for business?",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdmhnU1pMZnJtXzhYRWtvNW9jVVZsZGhfQ2dmRnNZQVVjazgwUVIzOTZSUVB0MjlwX3lQRmRDdUpqTUg3VDh0cVBpbHZybTBJV29JWFpaLVBodFBkdVNyOTJQUG15djBhTS1UeWUtS1JKTlM1NjZGLUJkV0dKQUlEV0VrcTlobklLSXRBZFFubUs4X2w4djhPNE5kUmhkSVVwSEJwNnMzOU9FRXlwVDRQSkFqUG5sZlE4?oc=5",
+     "source": "| Asian Legal Business",
+     "published": "2026-10-18T12:00:00+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "Singapore"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "Singapore, India formalise cybersecurity cooperation on incident response and threat information sharing",
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVXVHMHNiRGN2QmZhLXVEN1dKVmhKWnJZSFpIRWVnZkU2OTBsVzdDUUhzVGdMU1picjZsZjdxVXN2MXBnM3lmYlBHVFA2ajdFU09WSUpSMWk3RzF1WGZsTElzZHlsVjBkcjFBcllOSm93aWY5RTBpd19Jak9ScUhjTGE0SmpXM0lEY1FNLUZ6d05aRlhWbmFUUkhmUDBCNkdBQTFmd3JsOUVtWGxOamMxc2NSb3Y3LUszbFNmTWUtRlhzOWJWRUdnSVd0UUotcVdTdEhCcjhQcF9VdWs?oc=5",
@@ -203,21 +257,6 @@
      "closes": null
     },
     {
-     "title": "Singapore launches AI testing framework and cyber resilience taskforce",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUZkQ040WjRKU2g5V2d0VG5MMnJNdF9zT3BiaFR0MEFCTS1wOXNZaWZPaFMydmh4N1ZtRHBXbkNxbmx5WS1QQ2ROc3lQakMwN1NKeG1ZZ2xkSnR4LWhKQktNTmFHclVzVEYwV1ZyOHprMi1hWHR5cjBPNnNLanRpbVZ0cmRjZFFIMEVLSGIxVEtNdkUxcV8xSmxRNllscXlRdUpwRVZzYUE2RjhFR1BXdzRuQQ?oc=5",
-     "source": "Telecompaper",
-     "published": "2026-10-14T05:13:36+00:00",
-     "summary": "",
-     "tags": [
-      "AI"
-     ],
-     "countries": [
-      "Singapore"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
      "title": "Singapore updates national cybersecurity strategy to protect essential services",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ29Ub0lEQ04tTDlMVEZJUHF1Tjd1bE1yVnV1WTJYM2QtU0VtNnhWV1hjc25lRVpfVmpGQ2FEdTJmb0tQb1lkQV9aZjU1Ti1JZmNwNFhBd2NzS3VfdmpMY2FOQnViWXJRWXU3bFA0Z0huNlBOU09lSHc2Z2hNWHdzblRrZHBydFpibkg0RDBGTldueU41WDBtVGRVaGREVTQ?oc=5",
      "source": "Yahoo Finance Singapore",
@@ -229,9 +268,7 @@
      "countries": [
       "Singapore"
      ],
-     "also": [
-      "Tech Edition"
-     ],
+     "also": [],
      "closes": null
     },
     {
@@ -333,22 +370,6 @@
      "closes": null
     },
     {
-     "title": "IMF, World Bank Debut Anti-Fraud Framework at Bangkok Annual Meetings",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmFwT1lJSE1LZ0xBZlZnMGE0SDdycW03WmhjZ0o4a2RNYTdWVGtORlBFcHFQWmUxRWRIWkNhWHZ6VVNsd2swRTRSOVpXeDFONlRKdTE3eDdNTkhzWG94aEVmOGJCRWNOdnAwc1EtdHZwWU9acm1yUmpOT1BMVUg2SFdaNU93SkZRVzRWUFFKZExaVUpDSVg0Nms2NA?oc=5",
-     "source": "Securities.io",
-     "published": "2026-10-14T06:04:03+00:00",
-     "summary": "",
-     "tags": [
-      "Finance",
-      "Scams & fraud"
-     ],
-     "countries": [
-      "Thailand"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
      "title": "Thailand Issues AI Privacy Guidelines for Training Data, Prompts and Deletion",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2FtSFZfZTI1TFFYQnRpUlYxeExsbDB4TkZNWVBQYkFCTWVLMC1UWTk1TEc1MW5XVExVUzQ1ZWxpaE1FenNKN0JneS1sUW5uRGxkR2hNS2VXWlhsUnd1VlRYVm9zeXZSdUc4SXBzV2hTbUhwQUxtbFFnZWdqOU43em9UdEE2dVk?oc=5",
      "source": "The420.in",
@@ -369,19 +390,6 @@
   {
    "name": "Philippines",
    "stories": [
-    {
-     "title": "New DICT chief faces task of putting house in order amid digital ambitions",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa2NZbjJuYTNwUTJsdFdhNnFoMGdKekljV0gzVVU1TDhRdUNvdmRPeDVyWk1EakdUakJXNHBXLTJ3TWUzZ3FwakNTQ3VEYUhrbTdMNml6M281bEstYktTUWh0WTVUOWNtWHhIa0d1dG52WUFDY0ZpdHkxLXNMc2lOSEZwVVZuaUQ3eFBEZHFhVkJaODBRUkUxR3hnY0dYM1B0RjRjUkRGNmcyaFM2d0ZMTnBR?oc=5",
-     "source": "Rappler",
-     "published": "2026-10-15T07:46:17+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Philippines"
-     ],
-     "also": [],
-     "closes": null
-    },
     {
      "title": "Philippines Reaffirms Commitment to Cybersecurity Cooperation at Singapore International Cyber Week 2026",
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLS1KZFJDV29lUVRXV1JNQVJXUnJkS1Jib3hkU3FoLUdrakFDako4T2Q1LWRpQkRlQWhFSkZHbGx6a1NaYXNuejBoRGxXanQ1TVVjXzFPbmpsdU9TSm9RSDRZZjFFTFpmeXQ2cDNoa1hLZDc0cnVBUHRZeWN2bFJOd2ItRzF1MmlQdkViNzdqdnctaGVHVUcwQjhYQVlrVFVhQld4U0hiNkU2VEFsT0lGdWRsN1lFWXBITWdHc0N6SU1VOXNFVzU1MmRuQ1RORjh4OFRXVW14N1RNOFk?oc=5",
@@ -538,21 +546,6 @@
    "name": "India",
    "stories": [
     {
-     "title": "Moral, Accountable, National Sovereignty, Accessible, Valid (MANAV) Framework, MeitY, 2026: Safe and Trusted AI Governance.",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMRml3UlBNRWdCSDFLeUREcTZYOWRPV2N0THQ5ekpiczVOcXJIdUhwR21icGRNQ0tMNmZjS0JSR3JoZms3VlFOY1h3ekNIV2NKUzI3VzRsMm9zbE9WU1hQWnpmZ0hCTm8?oc=5",
-     "source": "IMPRI Impact and Policy Research Institute",
-     "published": "2026-10-16T03:56:41+00:00",
-     "summary": "",
-     "tags": [
-      "AI"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
      "title": "India Needs Quantum-Safe Digital Security Standards: MeitY Panel",
      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN1lDZ3RhMFprWldNZFJtc2dOSGRIb2wtZ0lIb2NxMHE3U3ZWb3RwODZsMUVQNXJ5TXpWRzhzbHZCYklRT3JHRmpTMlF3elk0bDhMZ1VQemN4bGxPcWJOVnBlTU1pd0hpOE5VUXZJOWs5eElNZGRKTWc3Vjh3dmdXRXBaYm9pMlgxQVlXYjVQLVJycWJYcVRETEZSVFYxbWJUNTFHWjdEVGVXN3NCZ2VYbDhqU2N2LWpMWDRLOXM0VnJHeXhZSDRoOWtnbzZkek3SAdQBQVVfeXFMTzRhT08yejJRY1VKaEVNRi00eGVFdmlvcjk0STVRelpBajhhRnlrb0NFc21PTTF1aGs1TWMxTGZtU1J6Q19IY0tETE9aeG9sX3hob25VdDFoMGFodVpCZXRBTFBfaWJLb2pQNmN5TmUzWUMwTnFMNUIxWGpkOHJhMDJER0xFNUR0NERwWVdxUzdnLUJ4S294WlZtV29wVEZyTzdGSW1hWTBtYUxnMGlMSUhpSDEzSmpVN2ZTYlV5MWNCQjlvaVp5a243LVFNSVdkUzk2Sk8?oc=5",
      "source": "Deccan Chronicle",
@@ -614,6 +607,21 @@
    "name": "Regional & Global Bodies",
    "stories": [
     {
+     "title": "EU supports Timor-Leste’s public and private sectors in preparing for the implementation of the ASEAN Digital Economy Framework Agreement (DEFA)",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOV93ZlJvbXkwd0JzeTBJTnozdWpyQ0RVSUVxYmJGV2pBWVl0dDB4Y1I3dWdNZjFFdXZBdTQzSEtqUW1LX3RCRUFfTjFwTDNpaGVTR1ZfWFJlT0lLMUw4alQtTzU5UGtfMzR5X1pmQWdPekRLMzVfNEVvaUlSajNrM1NFZ3I0djg2N09sWW55S25PZXVmeHE1ekNQSUUzU0tsb1BfWEV0SU90MzVZcXBESGJubVJnUFlQYm02dGt5NVU3ZUVsMzRBNkVhVHVoY0VpVnVtUGVWeHJaMTVHSzhBLXIzcFd1d1U?oc=5",
+     "source": "EEAS",
+     "published": "2026-10-16T07:51:31+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "ASEAN"
+     ],
+     "also": [
+      "Facebook"
+     ],
+     "closes": null
+    },
+    {
      "title": "ASEAN seeks tougher action vs online job scams targeting migrant workers MANILA – ASEAN member states are pushing for stricter laws on online recruitment, faster removal of fake job postings and closer coordination with digital platforms, law enforcement",
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb09RMGpEeTh0Nmx1enFqUmlUY18yWGhoc1NTVHRJTkVMTGt3WVpkWDN1aTM1ajJqVGptNWlkUlF1VjlFaUx2TGl2elV3UFY3c3RRc2FJRmdxelVOTW14SVl4SEFwTl9Zd0szZzNmRjJ4ekpYbERteUh0S29CRl9mSTlyZXRHc2EwZGRQOHVibGdPZTlkalJvS1Z0ZTd5Sk90VGV2TUtydDRMUUhUaVNvVWpmZ2liSXZkcUFJSmhlbnRHeDhnMDZnN2ZjNXlYTlpybnQxbg?oc=5",
      "source": "Facebook",
@@ -640,9 +648,7 @@
      "countries": [
       "ASEAN"
      ],
-     "also": [
-      "Facebook"
-     ],
+     "also": [],
      "closes": null
     },
     {
@@ -650,19 +656,6 @@
      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeFR5NmQzUTVnNDk5UklVWGZFODg1d0x4bnAzZDJFdmtVNUxaa0JsUEt2NlNKbU1MdXZrQ09SczZ3Rk1yYmlSVnRRX3VMWjNNYVktUm1NUThCOTljTGRTUzN0N054NVpYNjNncTJYcXlGRFZJbWFoSjRyMXpZdUd3WWdLNDlVSmZVYURKTHJKTGNYVWpnZF9jSFlVVTNCMTczMHRJYnpxRVQ5Zk9PUThISllWbDZhaTdXTThSNVlEaXhnOTVrNFhlem5qdXVaNGx1cmxySlVZRzVnWEpKNGJ6MEMwY0cwT3NZakJPUWln?oc=5",
      "source": "ASEAN Main Portal",
      "published": "2026-10-14T07:38:09+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "ASEAN"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "EU supports Timor-Leste’s public and private sectors in preparing for the implementation of the ASEAN Digital Economy Framework Agreement (DEFA)",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOV93ZlJvbXkwd0JzeTBJTnozdWpyQ0RVSUVxYmJGV2pBWVl0dDB4Y1I3dWdNZjFFdXZBdTQzSEtqUW1LX3RCRUFfTjFwTDNpaGVTR1ZfWFJlT0lLMUw4alQtTzU5UGtfMzR5X1pmQWdPekRLMzVfNEVvaUlSajNrM1NFZ3I0djg2N09sWW55S25PZXVmeHE1ekNQSUUzU0tsb1BfWEV0SU90MzVZcXBESGJubVJnUFlQYm02dGt5NVU3ZUVsMzRBNkVhVHVoY0VpVnVtUGVWeHJaMTVHSzhBLXIzcFd1d1U?oc=5",
-     "source": "EEAS",
-     "published": "2026-10-13T07:00:00+00:00",
      "summary": "",
      "tags": [],
      "countries": [
