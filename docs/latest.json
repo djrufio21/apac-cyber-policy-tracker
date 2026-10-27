@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T02:00:50+00:00",
+ "generated": "2026-10-27T15:18:37+00:00",
  "sections": [
   {
    "name": "Financial Sector",
@@ -16,22 +16,9 @@
      "countries": [
       "India"
      ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "RBI Tightens Cybersecurity Rules for Banks and Digital Payment Providers",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSlRGZ0l0UDBsM2ptVExoTG1iQUo0N0lWcTFqcTNxNE9DNHgxWEEtTVh1aTZSenVYUFlLZWhLWEM2dmM3alBLdWpsSl85RU1QMlBqemxrQ2xtMVNBeGVzcE1kRGJRMnRQTmxXTVpCS2xFMnYyVHFwUTFVUEpfSUZuRzJrWWhlaTNhT1VrNGpjak9nN1JQeG9RZ2RTWVZwNVQzZkE?oc=5",
-     "source": "Bold News",
-     "published": "2026-10-25T05:16:46+00:00",
-     "summary": "",
-     "tags": [
-      "Finance"
+     "also": [
+      "News On AIR"
      ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
      "closes": null
     },
     {
@@ -46,22 +33,6 @@
      ],
      "countries": [
       "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "HKMA’s ART framework sets rules for agentic AI in banking",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlFhRU1CT3hwZngzOUREM24tWjRfSU80OWg0YjdRNlhXVW54clJoYWt1YWs3Y012Yk1aTV9GMTRObzBpeEoyQjZHcjNOREpoeloydGZHMmFReHk0b05BMEFVOEhTZXd4amxSNFk2ZVh4VnB0c2pWMU5qbm1OTzdoc1c5cTBYdEE4RExoUEs3UlUzYXp2RFE?oc=5",
-     "source": "FinTech Global",
-     "published": "2026-10-23T17:56:19+00:00",
-     "summary": "",
-     "tags": [
-      "Finance",
-      "AI"
-     ],
-     "countries": [
-      "Hong Kong"
      ],
      "also": [],
      "closes": null
@@ -99,33 +70,19 @@
      "closes": null
     },
     {
-     "title": "Kerala High Court Orders SBI to Refund ₹3.73 Lakh to Cyber Fraud Victim, Upholds Zero-Liability Protection Under RBI Rules – The Legal Affair",
-     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUFZvY1VIS2tDOWdrRTd1SG1tYy1JSVFJSWx5ZVN1UWsyVEs3eEhodmRueWFsbTlvVkNCRk1ndTJ4TFY3dXhUVlZCamFscndodFd2MXdCSV9OSHZLWkRkSEJDbGd5NGUxQU9KbjdsYTlDUEFNb1lkdG1YanMtVW5OLTA1NzJVWU9JRVRaNm1jY1hUY2pBNkJ2MDNZQnpMeXhCeU1wejFOZlQxa2NTYVZoTENKT0tkT0RVYnNWR0tBQ2hXTmpNYVJuTmk2UzdndDhqei1idDBFekZ0eExURWtpYzFIVlBhUUE1all4M3RDdDFQajRa?oc=5",
-     "source": "The Legal Affair",
-     "published": "2026-10-21T13:51:07+00:00",
+     "title": "Why ASIC Will Not Receive Some Scam Reports Under Its Draft AFCA Guide",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVFZNNzZBY0t1T3ZPM3ZkdmJzLW1LbWI3cVpXYk9pVWZoeUxxd19GdlpmSERkNGN6YWZmazVwYjN4RUxVVi03NUgycVBqV3FSRHhKV2FJeXYyaTVXVlcwaTBWRHBRaWtQVnBaM3JxckxVbUs3Y3BCdEZROUxLc3J5UkVrellUcHctM3hDNFdwTkFkMklTNHRnVkxITmJfaXpvbXN1SWF5RV9keFNPR1g1ZkhrRzJFc25OWEN0Rw?oc=5",
+     "source": "Finance Magnates",
+     "published": "2026-10-22T07:00:00+00:00",
      "summary": "",
      "tags": [
+      "Consultation",
       "Finance",
       "Scams & fraud"
      ],
      "countries": [
-      "India"
+      "Australia"
      ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Sydney firm linked to suspected scammers investigated, $138m feared lost",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUJ2M052VXBLT3hBX0h2VnpsSlhHRXNleUdmWjNIZElIVlBYckFMMExSenlLbkotVmVpMGV0Y0Q1MXM0bUNzYm41NXhuQmFZa3JlcjZhN1A1LXZERENMclVTVTBHZ1RfZlVqbzFVZGVnY25fdVFwMmREcmlfcGtUNlBFdXRTVzd0cEhuNGpRcGR6X0h1NV95NFJxXzRteXJsNVFWc1RkSU5WLXBPUmhxcw?oc=5",
-     "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-     "published": "2026-10-20T18:00:00+00:00",
-     "summary": "",
-     "tags": [
-      "Finance",
-      "Scams & fraud",
-      "Enforcement"
-     ],
-     "countries": [],
      "also": [],
      "closes": null
     }
@@ -134,6 +91,22 @@
   {
    "name": "Malaysia",
    "stories": [
+    {
+     "title": "Anwar says AI Governance Bill to complement cybersecurity, data laws",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDhYV0Z5LUxnTm5LUENIUnhjUExYX1E3M1NqY2VLY196VGJ4OHlwc1VVZVQzUFBTdmxRcmxBYnM3N0NWeE9IdjVCUGxJSjJhUENEaHB5WS0teUhib2hXcUFKSE5Va2dtY3NfeHNUVjVBWTQ0R0syZ09DcWJzZmlWZFZpTW1jcy00YTJIUXdVVnFqUER6VUdvYW9aNDAtODVpVnk1SlVtR0ZiR211OUJJZXZxazlvZ9IBuwFBVV95cUxPQ1B5WklsSVZiV1FtbTFFN3BxVzh2a1BqOVU0Ukg1cWxoWDYzbHdmcC1oaUVrZU52UFFScW8zeUszT3VZMHVhbWZ6dUFKVWNJZl9raVNnZ3V5VmVnUlBYM3dUVVVSdjJrZ2lLaldWNjNlWGxHWkNIdDF1S2xSQkNiNnNRNmxUV05OVDNMNzd6bVFGZXFCeVpaeUJWRURSS0FPQVFiYmZkTGROclNwRTM2WmwzNTN0QkE1d2pN?oc=5",
+     "source": "NST Online",
+     "published": "2026-10-26T23:24:33+00:00",
+     "summary": "",
+     "tags": [
+      "New law",
+      "AI"
+     ],
+     "countries": [
+      "Malaysia"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "MCMC probes spread of content allegedly insulting King on Threads",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeDVBci0xVzVFZkVLZjZyNDJoYnZLdlZvZlYtUzFQZnJlYXc0UzRjd2dOTnlidkZmMldnczh4Ulhsb1dKY2tfVUFFWHFIMlNqQ084SGwwQ3Exd3QzdzBHWVFpZTFTSnNjV193UUx0TTV5dFoyeVprMFRjWGd3YWZZVWpxRWxVZFhaZHF1YlAxWWRoUVdKQWZLdzZMY2pkNklGWDkzc0JDZUhpNXJoVXNn0gG0AUFVX3lxTFB6Umk3S2JCR1E2SDdFUnQ3MnJlV3RPWHNpMnpIRWdLcC1fNk4yX3JVUE1BNUgyV0ZZZ1VoVkRLbjZPdzYxMHZtVzhrb21HbVVPWVRqWXpYelRDcC1na1pvQnM4S2xoRjlFZi05Y0k2TDRzVlAxNlJyc19IbWJzdzY2aUpKVDg1aWhIOE5pWC1nMFo4X0VfUmZnRHZlekhsanl3LUFOV3NDbzAzWFBzejhJb21iQw?oc=5",
@@ -196,6 +169,21 @@
      "closes": null
     },
     {
+     "title": "Bank Negara Malaysia revises Policy on Risk Management in Technology to include Cyber Security Code of Practice",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbFhuSFE2N1ZQQ05OaUNuNG9Wd01BVVFSdFAySExNbnZlaE5fcUgxV2lTNEJTNEVmYWg1TGlIX1VCb0MtRENONHZPbWg5YW55ME5idE9kbC04YmdLVm9qZ09Ta3dEbHY4dVlQRkNsRk5waUFfenM0T0p1M2ZtcUUtb043RDBfcnhndGlXLWRqZDFpUjc0VTZUX2NPYkY5N0c3T2NYQVFqZzhrMDhnMjJKOTNycnlVYThxc2VtM1hfWG5mZTZZOWl4VDZqbWhycVJDaDAzTFN5Y0FXWXd1MF9najBoSlpZRHdCV3Bncml4cllWdkpYQXdVQWNDWWl0dTg?oc=5",
+     "source": "Rahmat Lim & Partners",
+     "published": "2026-10-23T01:06:39+00:00",
+     "summary": "",
+     "tags": [
+      "Finance"
+     ],
+     "countries": [
+      "Malaysia"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
      "title": "ITU supports Malaysia in developing cybersecurity strategy monitoring framework",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUl9ZLWdZRUNNNklFVDQxUTZXSFBMUXI0Z0hWLV9ockFfb0tSUjN2cS1IRG40Nnh3MVdMNWVGY09seUoxUWk3Wl8wQnJtaDhibVMtNVQyamNPRXNGYjVNd2paWThBX0xpa2RCaG1majFXdlo4dTh2elVlQWctY083bURielhSS3BDV0lvcUFLOUdfS2RoazZsWTlRaUF1WnZOSVJtUzFyY0RnX2lKQnhfWlNwSGlWSUNUN2c?oc=5",
      "source": "Tech Review Africa",
@@ -241,6 +229,21 @@
      "closes": null
     },
     {
+     "title": "Waze says it adheres to strict privacy policies after Malaysia bans civil servants from using app",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWFNTYVdnNnRrLURGMkJDa2F1NkE1TE9aVWFLLXhYMjBTMDlKU25oWjhQVThxOVVlTGdNR05vdDNIdE1oZHFKWGo5cU1RNmJkZkRmMXFoSF9FLUNBUnF2WjNUNjdzbUw1YTJXZXlwZk05eTZ2RTJhT0x2NWs5bTdZVXR5MlJQMGNZTUw0TU1tQ1NVdlRnRmk4dHlPeVBZbmc4YUJCdmRvdFdvSGE1TmkzVE5lcmpEdjhfd2w3SV9HeTdvOUJiLTNvb1JuVDd3QQ?oc=5",
+     "source": "TNGlobal",
+     "published": "2026-10-22T08:33:39+00:00",
+     "summary": "",
+     "tags": [
+      "Data protection"
+     ],
+     "countries": [
+      "Malaysia"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
      "title": "Waze rejects claims of collecting sensitive government data amid Malaysia’s ban",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQUphbzI4NXRVdHN0SDFJd28xd3pEOXVuNkRuck1PZXpjMkVnVmxWX1BVcUFzam1IVnA5S3NNWmtWWGZGYkZ5ZVM0dGd5eHZUMndLeEE0MWx2R1FVcDJ2ZUU4b0NhVFJ4NmhHY2RUYjM4b3phWlJMdWM0OTZYcFd2VlA2WFJrRk9peV82MUo4MHdic25HQVpLeFRXeWhaX0RUQU52YzYzMWMxUlM2a0NlV0JEeGhSdFk?oc=5",
      "source": "The Sun Malaysia",
@@ -267,35 +270,6 @@
      ],
      "also": [],
      "closes": null
-    },
-    {
-     "title": "MCMC seizes phone, SIM card in probe into suspected insult against Negeri royals",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSVFSTC1yZDc3dmNTT2FqbHNwLV9aSU90VHJrLTNONGpOUjdSelBMQ04zM0pPUGhRMEhuSHJEcnBBcmhuUHEzNnVLeVlLMjRlUEFXdllmVGlpWVpSa0RHS3RIX01OSzRpbDFXUnJ3UG9rN2hSVHFGR3ktRzJFZXZSSk5odC0tZWlhOWFEX0Q3SFhQeVdqT0ZjVnF1MUxBN3ZqMUlvWjZkZFMtRFFDVWlsRlRzbTgtTmJxOEZ1ZW9Kbmhjekl4c2FWWGd0NjNkUQ?oc=5",
-     "source": "The Vibes",
-     "published": "2026-10-21T07:27:00+00:00",
-     "summary": "",
-     "tags": [
-      "Telecom",
-      "Enforcement"
-     ],
-     "countries": [
-      "Malaysia"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Malaysia, Indonesia to establish inter-agency cooperation on online child safety",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX0JiZnhBcHlxR1cyZlJLbVRBc2NzbmFfeEJ6YkJZcE9tMEdXel9QWDBMbDlTQjIwZDh5VWU0Mmw3cWZDY2ZTS3pFVVhONFVhYTFfc3g1SnREZUhGOHJ4ZzdaUmFjOS1rblBUeER5eW1Lam1OMjdQYmQwUHBLR05Ud3l3ODdoSVVxZ0g0eWtGd291akpfRm1uWndkeGhFME5EY2h3VFNrSV9ZUENsblNWRVBpTV9iaUlyZ1lRUDlTQWdCdmdhNWQtU3V0ZE01eU5qcC02VVdYOA?oc=5",
-     "source": "Free Malaysia Today",
-     "published": "2026-10-20T09:19:00+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Malaysia"
-     ],
-     "also": [],
-     "closes": null
     }
    ]
   },
@@ -303,21 +277,18 @@
    "name": "Singapore",
    "stories": [
     {
-     "title": "Simba faces possible fine, licence suspension over alleged unauthorised spectrum misuse, Singapore News",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52dnRCUWpJSi03Q08teHVPbW0tRzJ6VC1HSHJpRDFyeUZtblhGM041Q1g0V293Tlk1dlpfSDBSS1RLLXpBcUtCZUdhVjRkWkM4NWZ3ZlhSeVI3djdCUk5NTHh0SHU1SjV1eEtFaWxoMUs0VlBDRVE?oc=5",
+     "title": "Simba says services, plans and wallet balances unaffected amid IMDA probe, Singapore News",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pakxlZUxCQWYxUnl5Zi1wNUhjTWlqemozYVRxR01sSXhEbTEzSW1xdnhDUzhjb2R1WnlTa29OMTluZVNuM2k5X2IzMHI2MEFLeEdqUEQ5M21XY0JXOEtmcmJNbEVjcWtTcHZIZlN0R2tRU1Q3b293T2tB?oc=5",
      "source": "AsiaOne.com",
-     "published": "2026-10-26T10:38:04+00:00",
+     "published": "2026-10-27T07:13:43+00:00",
      "summary": "",
      "tags": [
-      "Telecom",
       "Enforcement"
      ],
      "countries": [
       "Singapore"
      ],
-     "also": [
-      "Telecompaper"
-     ],
+     "also": [],
      "closes": null
     },
     {
@@ -337,10 +308,10 @@
      "closes": null
     },
     {
-     "title": "IMDA escalates Simba probe over intentional spectrum misuse; operating licence at risk",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZUVHZERxNldXVy1Vd1V3bXlOSzFfQ3lzcDI5QXJzX1VJVzVuUFRyNVVwc0hwRnlCVnk0QTJyaWZUbzBTMlk3dEs5N3VsN1Q4LVF5SUZ3ejQxTkZGR1gwX3JFUV9TWnRzVWFIN2RMaGJ4QlgtaW92emkwUXJ0R19NelRzTE56b0gtN0puWjBnODRzSElEaWNOQ2FTZzJEVFcxOHphVDNQdzM0bWtrWmF0WE02aVZoYUF3UnR0M0tjbC1zZEMzX2FXaGpzdE8?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-10-26T01:59:00+00:00",
+     "title": "Singapore considers penalties against Simba over alleged spectrum breaches",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSU9DZW5jdzd4X1owbVA0bW9KOEJMY0lzeUZtamNnWVI3SnVKTHl3YmhvcEZPWkdpYTg3UVYxNjk2N3ZlNjd5LTdvUVBFMXZ3VERmQ3hhOTh3WVRzbkNCUzJsU2RrQjBlU3ZzRFlpN3BDMXZoU2lja09RdHhySktUNnVMMkpFNlJOVWhKczBQSVczNFVqZWZPVWtrdWNTOE1vQ1ZLNFVuM0dCQ1Ywc0ZPMkdsWnhHZWdR?oc=5",
+     "source": "Telecompaper",
+     "published": "2026-10-26T04:56:08+00:00",
      "summary": "",
      "tags": [
       "Telecom",
@@ -349,7 +320,9 @@
      "countries": [
       "Singapore"
      ],
-     "also": [],
+     "also": [
+      "The Straits Times"
+     ],
      "closes": null
     },
     {
@@ -396,6 +369,19 @@
      "closes": null
     },
     {
+     "title": "Singapore and Indonesia sign cybersecurity cooperation agreement",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObHhxdXJ4c1g5TEJLMkUzT1hTWDh5bjRwMDRKcy02YmY4OUIxRWRaa3Y1VU5HRWdvX1NiQ1Nhc3pRTlNiTFJCLUNjZDNrbDYxUW9KVWkteXJ4V01KZFNlU0VQNUlKbFpWWW1YUnlaR1FNeGdSVndHRXhJX1BZWkdiVW55ZEItX2J0QzAtX0hYWGhsR1Rmc1dzQzdvb1Vfc3lPNk1DOVh3?oc=5",
+     "source": "Tech Review Africa",
+     "published": "2026-10-22T17:33:53+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "Singapore"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
      "title": "Firms here should ‘act now’ to fix critical PHP vulnerabilities: Singapore’s cybersecurity chief",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcmJ2U3N2bWJrWGttQnNWNEt6U1ZQU3NSYlhvU1o0S05wN0VZaHZxQnhZejJpLXNwa2tXbVpfZU1IeWtLR0IwNDd0d2dlZ0RuQ2JxQXJ4U1dyb3I4bUFGT0c1a19md1ZtbDU3d19RR0I4QnZVbDRKNm5fS211a2IxOHZzS2h3RWhrcjlDR2NrV3V6SGFacUlPQ0tjd3lLNmE2dDdKVC1R?oc=5",
      "source": "The Straits Times",
@@ -429,10 +415,10 @@
    "name": "Indonesia",
    "stories": [
     {
-     "title": "Singapore and Indonesia sign cybersecurity cooperation agreement",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObHhxdXJ4c1g5TEJLMkUzT1hTWDh5bjRwMDRKcy02YmY4OUIxRWRaa3Y1VU5HRWdvX1NiQ1Nhc3pRTlNiTFJCLUNjZDNrbDYxUW9KVWkteXJ4V01KZFNlU0VQNUlKbFpWWW1YUnlaR1FNeGdSVndHRXhJX1BZWkdiVW55ZEItX2J0QzAtX0hYWGhsR1Rmc1dzQzdvb1Vfc3lPNk1DOVh3?oc=5",
-     "source": "Tech Review Africa",
-     "published": "2026-10-22T17:33:53+00:00",
+     "title": "What Police and Komdigi Ministry Agreed on Digital Security",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMTEwUkhXUHBtLTh5aWthOUl6a25FaEJDTTY2Sm1nNE1yRXRhTVBpLUQ0Snc2VEU3MGdWTnd6R2JCa2MxdVpFSE1uX2tnZXg4WnRiMTZKYzZJTTctWTR2Sk1HQi1MSlpqXzVLNzdfVmFyb1dDTXc1VVpMTWNuSXBTNVFvbWFiX29LWnR5aDctTzNxcmxDSnBB?oc=5",
+     "source": "Tempo.co English",
+     "published": "2026-10-27T09:05:15+00:00",
      "summary": "",
      "tags": [],
      "countries": [
@@ -442,14 +428,12 @@
      "closes": null
     },
     {
-     "title": "Indonesia says planned AI regulations will not stifle innovation",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2RweG1NaUx3c0ZuanFzSkRUNlRmTi00ZU1JSEthcWRRV2NEbnctUzdYNktkejRsLTZGYTVMNWtTU0lreEMwRzZPYlowVFZqUFZVdkp4RWhoeDY1Tk1oRkYxLVFNUHJXZnZwcUUtN3JaRmVXRjd4bWNHc25POWlVVE05ZmM4UFJHVUdLUlJTeVhJRGZsdXJFd3ZhT3oyWElBTTVsZlBFM2R6RlnSAVpBVV95cUxNZENTeU96RUx1VGowWXVOZk9USVl6RF9XcUtVeTZOdVVDdU5qS3B5ME4yTk1ES2VHS3FqZ0xJUVlVR3JETUZHZV9mQzlvbVVnSlJWTHpkUnBIcnc?oc=5",
-     "source": "MLex",
-     "published": "2026-10-20T03:41:03+00:00",
+     "title": "Indonesian police, digital ministry step up online safety efforts",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU09rV3d0anJMVXBwMzdRQzY2eDF1R190OFQ1aWRYVjR5SDhiWE13Tng3OFBObVJybUJTSElSMDF0Mk9yUjJKQ29Vb0JIdnp1Z1BoTFdDU0laQ1dTQWQxeUtwZXFwVHBwaHhpMEQ2TUVGNkgza2hGZ084eUtwOUppZlcyVDNPdTlyV1o2Y0h1ZE8tMTF0djJLX1lLNlkzbTVlRE9mSkpzbmQ4d9IBqgFBVV95cUxPU09rV3d0anJMVXBwMzdRQzY2eDF1R190OFQ1aWRYVjR5SDhiWE13Tng3OFBObVJybUJTSElSMDF0Mk9yUjJKQ29Vb0JIdnp1Z1BoTFdDU0laQ1dTQWQxeUtwZXFwVHBwaHhpMEQ2TUVGNkgza2hGZ084eUtwOUppZlcyVDNPdTlyV1o2Y0h1ZE8tMTF0djJLX1lLNlkzbTVlRE9mSkpzbmQ4dw?oc=5",
+     "source": "ANTARA News",
+     "published": "2026-10-27T05:24:10+00:00",
      "summary": "",
-     "tags": [
-      "AI"
-     ],
+     "tags": [],
      "countries": [
       "Indonesia"
      ],
@@ -461,6 +445,21 @@
   {
    "name": "Thailand",
    "stories": [
+    {
+     "title": "AI Must Serve Humanity, Not Control It: Thai Senator Dr. Nophadol In-na at BRICS Parliamentary Forum",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRnA3YS11c3E3ckc5SDVzeUxBXzZ2bVdTczh0VmY2ZVFBQk5Hb0dnSnZYcnNLWmw2UGlzdjEwLTEzb1d1TnFVYURBNlhfUzFOTDNwZ1VLWlBuQldyV1VFdTAzaHFFLXRSblF4YVdVV01INkdjMnQxSjdsRzZLYkFwTlBmQjJGX2t4YTBnUlc1ZFRMUQ?oc=5",
+     "source": "The Impressive Times",
+     "published": "2026-10-27T12:38:47+00:00",
+     "summary": "",
+     "tags": [
+      "AI"
+     ],
+     "countries": [
+      "Thailand"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "Thai minister orders urgent PHP system checks to protect personal data",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02UzZsQnhINHE4VDAxcGs4R2IxdXBuQ0k4WVgxRXIxNmFPeXFDbHNReG1HUmN1cW9Ka3BxS183M0pkSjZ1RzZqUVNVdEVOZTNERmphemZtUjdKdXU5MzhELV93?oc=5",
@@ -495,12 +494,30 @@
    "name": "Philippines",
    "stories": [
     {
-     "title": "Philippines companies urged to standardize cyber defenses across branches",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHNka1VnY2t0TC1FdGg0Qk0wZTRfa3hYRUNob1p4Yk5kRmFFQlR2dVpkdWE3LWhpV1JCSE0yeUhOemRMalpPb1J3TGJVUWxCVjdsVUExVzhnRGo2azZjSTFrSzBmamIzT0hNTkd0cVZyUVVadms5cEhTclFoZ0xaWXk4MzNhM2RyR1ExaVZxbEwzNWN0bkQ4?oc=5",
-     "source": "Traders Union",
-     "published": "2026-10-26T12:57:36+00:00",
+     "title": "Companies urged to standardize cyber defenses | Business World Philippines - newspaper",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ0I3OVpnYmJweDZwOVN0VkU2NUNZZ2RLMUI1MmlDR1JCRDFGMFV6QjhzZDVDRnVQeGdqUm1uUXJuUlFuUHZYYmFVYk82UVQwYUkzcXE3bTFOaWNkUl8yWkpBbHBlWFFmMUlXUGtybTYzUHdtMzlWa3RLdzVMSk5LOUdhUHU3dFNBSWNidFpibWV1dFdLZHVjd290aU1MZHhMVDY2MVoxTEttTUJuUFdZcUNwT1Q?oc=5",
+     "source": "Magzter",
+     "published": "2026-10-26T22:25:58+00:00",
      "summary": "",
      "tags": [],
+     "countries": [
+      "Philippines"
+     ],
+     "also": [
+      "Traders Union",
+      "The Chronicle PH"
+     ],
+     "closes": null
+    },
+    {
+     "title": "CICC flags NVE as 'clear and present danger' to youth By Raymond Carl M. Dela Cruz MANILA – The Cybercrime Investigation and Coordinating Center (CICC) on Wednesday flagged Nihilistic Violent Extremism (NVE) as a \"clear and present danger\" to Filipi",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0pWdG9uZHNvbkZ6RklWbV91YTRWckZxSmRzWXFpaVktSC1Gd01lTkVURldxMzdWdGNJRzl3NHRkRUU1b1RKRkgzVWpud2ktQUFjM2ltU3dvNDNXT0lvQ0tJdHUwQUN1V2pTaVNLdWs5dm9MbFlIbWdTWGpHNUYwSnMzcUpRRWVsU1B6UGd6OFhfY1lHRi1lVFpHdmlFdFJYY0EwczVaSHZiMkNSaWpIdmNNZHlqc1lGa2V3eDN1SnhrRzE3VWplcG90ZzhILV9Zak50Yg?oc=5",
+     "source": "Facebook",
+     "published": "2026-10-21T13:06:46+00:00",
+     "summary": "",
+     "tags": [
+      "Enforcement"
+     ],
      "countries": [
       "Philippines"
      ],
@@ -512,6 +529,22 @@
   {
    "name": "Vietnam",
    "stories": [
+    {
+     "title": "Vietnam introduces new penalties for cybersecurity and personal data protection violations",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQUx4UEpoREpyN3VlcFBrdnNqSFBiMV91WmJlYVUyd2lyYWI2NzM1Z1pGcmt4eVk1U2VWV0pUNzhWZWpucHpPeWNNSVgxbmhsNm9FRkJ4Z0NaMkRFQ2R4VHJUdG0xQ2oxbkVMdHl1YklGaTE5NTdKMGhaZHdCZjhRNEhrd3BjZnpJYmZJVlNpcEhWT0V2Z3l4TFRqcXhFQVNzaGlNOUhfcFNnSFdsWlBXOEM1QU9NclhvLWNjdlVWb3N6cVZyMm9ldGduclptYm5aUmJheVc3OEhocmxyVi1ORUhBbjRkSUs4MVMySw?oc=5",
+     "source": "Allen & Gledhill",
+     "published": "2026-10-27T06:45:00+00:00",
+     "summary": "",
+     "tags": [
+      "Data protection",
+      "Enforcement"
+     ],
+     "countries": [
+      "Vietnam"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "Vietnam proposes five-tier data security risk framework in new draft law",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcFV4V1AwTmJmb08yTDF4eXpUYWFPalQzb3NrZHlKbllHbTR6LW11bGJkeW5LcUlucEtfUURxRUo2b2pKYUZUelR2YjlPS2pPR1h2Uzk3eFMwVW05YXV2Y1dOb0R3UUFEd1JPVjltNFJPRks4RGliOWZIWkFkR2Yta0c3eW1WWVc5NEdpcHl0aTF2TVhWQ2NtLUtNamtwa3pLVzh2dzJsZ0V1N1FPMGRJ?oc=5",
@@ -535,22 +568,6 @@
    "name": "Australia",
    "stories": [
     {
-     "title": "Australia has toughest data breach fines in APAC: report",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZG82N0ItSVptcnR1a3R2TUJBRV81dHJwU05qNGl1bGFibHotRzBtd2FRYlBoRUJ5QXhCbzdKWlJka2VjRDZpZ3JrbEdfTEdUZUtHejVRYjV4NDJVRHR2aUNmVDJmZml2T3h5d2c4UjVkS0laVVhDbTVRNDBETFowMVlTMFEyQXBuYVRxVUdfNlFoWmU1azNrWFBwQl83OU0wZm55M0JZTlNrQTFuSGt2aWVRM0lNY3BqdEloSngxcEdodnZ3?oc=5",
-     "source": "Technology Decisions",
-     "published": "2026-10-22T22:17:54+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection",
-      "Enforcement"
-     ],
-     "countries": [
-      "Australia"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
      "title": "Australia Plans To Sue Meta, TikTok And Three Other Platforms Over U-16 Ban Compliance",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWZaclVLNG9DSU8wZjk2ZzJJX3JCcjdheFlIUWRCUkM4NGFfWE4yTmdfVlNZQURFbnBNVHpCQTZhaEJBQUE5elh3NHlUazVtT2dSWk1LejhDbTZ2OUVIRUhXQndqTjdleXFzSG9RN1Q1cU5QbW5acXBHWmllV0E1QVBKWGxmYlBtdU1lZ3N6U21hM2I4SUlTeld3NDdvVkU4cDlnVkkxZ1d0QUItZVdMM0t4aEFrd1E?oc=5",
      "source": "Net Influencer",
@@ -561,80 +578,8 @@
       "Australia"
      ],
      "also": [
-      "Storyboard18",
-      "TechStory",
-      "www.tokenpost.com",
-      "The News International",
-      "Bloomberg.com",
-      "The Straits Times"
+      "Storyboard18"
      ],
-     "closes": null
-    },
-    {
-     "title": "Australia-Indonesia Strengthen Cooperation to Combat Scam",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ1hQRTJvVFREeG9QUGFEdGFMb3cwWFAtb3lrdENXMTJwVjBKczNNSV9UNERTVlZja01LVFBUb1dTeGFuWE53WUFQZFVTZXNkUVhid0NhYVUyNWxQalpIVkZWSVNGZlV3WDRJaS1EZmhpdXluOEQ5SmY5czhBN1lyR2lEa2dWQW5ZVWlsYmJZWkRJUFFEYmpWRXAwYl9oZkdsNWo3bnFRT0U?oc=5",
-     "source": "Kompas.com",
-     "published": "2026-10-22T08:42:31+00:00",
-     "summary": "",
-     "tags": [
-      "Scams & fraud"
-     ],
-     "countries": [
-      "Australia"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Australia’s Social Media Age Verification Law Demands Aren't Working, So It’s Going to Court",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YMUlyZ0ZZTmthVU5ZR1pCMUxnMzQ1a2hXZDRxaU9hYnE4bGNrSlA1Q3hEUWhtQVNIOV9RaHBSY2FTQXd3ZTZ4SzRGY0F4Wnk5ZHFhYTBiN2JFZ0tOMTlKd3lZbnI2MVpvOGZhV1d4c0dPSWk0d0E?oc=5",
-     "source": "Reclaim The Net",
-     "published": "2026-10-20T18:08:47+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Australia"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Platforms are failing, not the law: Australian minister says as it prepares to sue YouTube, Facebook, Tik",
-     "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPUnZpbWdNYnNfS1B0SWctdC11UjlLN3JaLTZuYXBKcmItYXA1QUxMZHhOQmltY0F0Z2twUHBOekNjMGZYaW1jNUE4b3VxMGFKNC1ZMW1VS0swX1Bpbm9fM1pxa2pfRWZUY3BXRzd4WThXWHZfZVZ3X3ZvSHhscVYtaGtXWUdreXJlR3E5RUVzWE9uREhfeFhCa2NPNnNUTnRvWHg4RURaTk93Y1I3Rk52UklXcFdJZDNqZ1ZGNVZSeXk3cWxDVEVSYXRLRjNHR0NrckVOVmVJb0luWHd1Q0stYS15bDJ5SHlyZkxmRDRhMXFpdTNndThuVnZBRWxTcjFBaEpoQ0poZnlkbmxGal9WZ01aM2FBNWVWTzVxVkZVRnRUWEZEbjN2WXhkNFh5SUtGTF92QVVRb3E2MXIydDJsWVJJNG53aDY2NzF5T25VM2p4SllkZUdsdnRYYWlaaGJMZHfSAecCQVVfeXFMTnRRb0xycW4yLUhBZGp2U3IxNkhzUmp6Nk1LTFBCRmxkZGhQYzlnZGcwLV9OaWEyR2hQcFIxZHFJNUc1T19JUlZXUkFKQ24wN3BMbXlZT2MxZGtSZl9HUGpDZGR3TC16bUt0ZHZnZkRtNHAwc0VlMXlOZnBGMDZsQm40dUVXVEtNbGNZY1RmWGt5TEhWc2dUQlJMYTZoX3FOblp6SWFMRXdtNHBmM3NJSjRLQzc2ZEVHS2hfRUEySEszYzZYdEl4aHpSNlk0dlhMSTVQN0p3Wnl0dnduOWlNY29RTVd0VjFyTGJLQTk3cEFxMEVIaXlkYmtVY1BGV24td3Q4ODVSRWtBMXNUTHN3UFU1MVZPYVE0R2cxamtIcFlKR0xBR0VGT19QSjNwWnlSc0NqeFBabWNYcnpkMkVZNWVJRVVrUEM4MGdOLWlSVlYyUjJEaEpqWEp4eG1KVXhaWWxNVkhmV2s?oc=5",
-     "source": "The Times of India",
-     "published": "2026-10-20T13:36:00+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Australia"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Australia Prepares Court Action Against Five Platforms Over Under-16 Rule",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKeTBibHBCX3IwVlg3S2ttbU1ETkMtWTBpMmVMQkFWOTVMUE9QNXpQdklCZDF5eUdJX18yU08zYlZEbkd5aUR1RGUxbEs3TVlqX1BLaldLT0RaNUk?oc=5",
-     "source": "TOKENPOST",
-     "published": "2026-10-20T09:53:46+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Australia"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Australia to Sue Five Major Tech Platforms, Including Facebook, Over Under-16 Social Media Ban Violations",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zNUxtQkFza2NUR2wtMFFYb0ItMTFoZzhpQ3diTEo3WUlPbURackJzSDVMdE8xaEp2WkpPZTBsbW4zMzJPLWpaendoNFFoclB0Nko4SmlidDJVQ3ZxeGZrYjdOc19BN0FMQ19TelJn?oc=5",
-     "source": "news.sbs.co.kr",
-     "published": "2026-10-20T06:59:18+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Australia"
-     ],
-     "also": [],
      "closes": null
     }
    ]
@@ -643,13 +588,14 @@
    "name": "India",
    "stories": [
     {
-     "title": "ESET India’s Cybersecurity Strategy and AI Security Roadmap 2027",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa2dDX1FTZXl2WGI0dVJETUM4Z0YtNm9kdG5Wdmk1V0o0RUNub2U0U0pNRXI1aldFRTVtcjNia2t4eFFzSHprbmNEekRISlkwR3BDZVoyVlAzd1ZlZUNvcHotaVlGV3pjNFMwVG5QZG9taFZkTVlyWURobmdvY240akZVdHE0SEFtclVpZGdvLTk?oc=5",
-     "source": "IT Voice Media",
-     "published": "2026-10-26T12:40:16+00:00",
+     "title": "Why journalists fear India's data protection law could curb investigative reporting",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTkgzSEhTR29Ed2tGT2FDeVpPQjRyRmNQbmU1OU9odjhycDBEUGZjSFRzTFMyLUZDSk5GQmxKRmx4bl8yTzBrdmRRUTZPSUE5clh0dzBkdE1zMG5aNi0tVmxTWU9oUV9EbmxkNzNfUEh0bkQ3dkRSVlYwVmJHaHRwMUZ6Nnd4amFrT01ndndNbm91bk9fdmhpUDV0NFNkYTjSAaQBQVVfeXFMT0dMd0ZRRzJaT1dOMHVKMkdrbW1sOGR5QWdybWJFQmlnWHFhel9Fc3FLcTVYWEpnVDZWb3k1NkVRWXhuYmJ0cDZud1kzLWlSeFo4U2d6b2I5aGRxLWZCbTVLWGowTDZxbURyLU9ubE9CeDBWLWdyNW5oakVhQzk5ZFI1bFFldUoyeXVBSlRKTWFSSTloNllUOXctcXlkQUtnRklnZXM?oc=5",
+     "source": "CNBC TV18",
+     "published": "2026-10-27T14:31:56+00:00",
      "summary": "",
      "tags": [
-      "AI"
+      "Data protection",
+      "Enforcement"
      ],
      "countries": [
       "India"
@@ -658,13 +604,109 @@
      "closes": null
     },
     {
-     "title": "Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMzVJVGZ4dzlETTR0blJzd0diQm56UmNJb3hRUzZjcldFTEhYSGJOS21hWU41RzdvLXhiOHIxTE1UQnlPaDY1QzZxdmhvUFlrdHAtUkpuQktuOVZpS09HY2huQU9LQ1lvRkFBS19NeUQ0N1M4UFVJSlBuTlhjaHJiYWI4dzFwUjZMcTk2c3ZvcnpFYkZpMTQ3ZUFSWVBUa2t4NWd5ZV81NDZUVmpRSS1VdnZZNEYtcUE?oc=5",
-     "source": "Deccan Herald",
-     "published": "2026-10-26T11:17:18+00:00",
+     "title": "Supreme Court issues notice to Govt of India on news publishers’ plea challenging data protection law",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmdSTkQ1N1phbFhDaFZRc3BKenQ1TWRmdmtwaTJMX2tWWkc2NkRyQ2Y4SmRHd0w5Y3JzY2lmUHZSUUFKcTNyUlVuRTFLcmktc1FLM0NKUVVaYkNHM3RHaTNwa0lDeXVIWFlMSFlqZXVkMmFrZmdhMzN6eFBWbUhLUVhINjlweGZSQnhRTks4VWgyZ1Y3QXRsREpPZkdndC1uUHVZVXdtUHpFWWNKdVBDTkZuN2xmN2NYU3MtWUVzX2ZZdw?oc=5",
+     "source": "PGurus",
+     "published": "2026-10-27T12:08:57+00:00",
      "summary": "",
      "tags": [
       "Data protection"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [
+      "Legal Service India"
+     ],
+     "closes": null
+    },
+    {
+     "title": "Data protection law challenge: SC stresses balancing privacy rights with press freedom | India News",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORGV3UDZJZWNFV1J2WGxiakhSLWFrTjBlX29HdTJtVFd4WV9JWFVtQ0docUZobmlRQ283N2UzRUhkM0ZnUlkzcnFFX2dpdGczd29PZldpZTdJWjhhY0pNaFJJbGhvbUJqSUxhb255Y0lHYXdqcFZsdHd0dkpWRmc4anFLR2tvdmdpVkM4WXhHLUJMSXJ6VDBYaEUyZndyX1lwRlNocS1BX2l4Smw2RTFkdHM5NjdjbzRPTTJEeGY1S3UzU1FNUTRtUHl3SlZQSnhyUklqX2RORmR3LWloSjh0VnpB0gHnAUFVX3lxTE9iX1VYMVlzU2NNWUdLWkI3dDNDdGpUelpJdDVBTDZVc05GUEFNV3BvOHNWN2VqNzhrdG1WZWpWX3FjQkhobnYwRTl0T0dXTXFtZ1F2U09sSkNKUE9kX3FXc2FyYWdlM2ZUMUVaQzZWWFMwc1ZTTW1WdzBILVVoY3QxSkpEOTh4MTZwRkVaMzF6eUJMdEZWVUppbHZfNkE3YVlUWkFhbFFoZ0JwRFBNNnVTOGh0ZGRGNDFUY2pNbDk2NW9BRWhYZnIwZ1FnZTdrZTlpQkRxRkszYl9wQWdDb2RQTTZ6S01Cbw?oc=5",
+     "source": "Hindustan Times",
+     "published": "2026-10-27T08:09:58+00:00",
+     "summary": "",
+     "tags": [
+      "Data protection"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [
+      "The420.in",
+      "Moneylife",
+      "The News Minute"
+     ],
+     "closes": null
+    },
+    {
+     "title": "How India's privacy law could affect journalism and why media groups oppose it",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzZWUVpLT2xKd092QzZBbXRIQjNPRDNhaXptYlFwVk5KZGtGbzMxS283Z2FlTFgxY1lQanFRNTZGS2RTUkp5R3VKM2RlT2tKUExKODdkVVBYenF2UkJNUnhqNEdmNmtkbVExYlZPTHA5aVpyOWd1U0daeERLTEd3cmRwZ3RROWlPNms2S3VPMlcwdUY0NWt3T2hWSmExTHZDVVNvbWxfRG9DUVZSV1Q1VnYwbUZ6OXRweXpyejBuLXVnTHc10gHKAUFVX3lxTE1hZnV0eUxFMURaQ0tvYUVzcVFHdmxsRmdUbXRINzlIcGNSRGxrRm5zMk1HdHgwY3Y1T0E4ZElfNXpCNzBPZDRLdDhsanp0UjlJZTA2a0Q1UktFQ2sxMklScXR1Ty1ONzdnQjh6ci0wUXkwSkVKR0RaQ2U4WktVTVRxQVJYUnpiUWpmOXExYlBmODFBeGhMQ09hV3BrMDBoVUZ6ZTJCYnJGUTFxWGtpaUY5S2RYbThRdUF5cWM0eGtlOVZEWElRR2ticUE?oc=5",
+     "source": "Telegraph India",
+     "published": "2026-10-27T07:49:17+00:00",
+     "summary": "",
+     "tags": [
+      "Data protection"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "Beyond Subsidies: India Targets Rare-Earth Chokepoints, Cybersecurity and Overseas Plants in Next EV Policy Phase",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcFpISVF1alFFekt6WHV5ZDYzNU1NT3hRVkRCZVV3c0tTZlQ2cXVIUlZMdDNOSFhKX1A0eV9JRzRCLU4tWFc3eHJaQXpyMHRoNk5GYjVKczhEelhaVWhaQ0hiUF9wSUxsTE5OZGlvcnZxZzBkaGZyUVRaaHpjbmY5WUQ4SnVKcW5ueElMRHZGV3ItZlJ6T2tBTTFhdkJTZXNPa3UtbnpSeTNKVzl4bVl5QzRXOFlpRmVTdXNlcnpwSHN0a2hBd19fQXZNY211d3hjWHk2ZHVVRVNwR0FrRmZpT0pqVdIB6wFBVV95cUxPdlE5bUZ6SDFpTGhCTy1xZUhfNklzZHF3V25JUUxTaFpKUnZPd0F5MDZIczhGNnNaTXVvTTE3WExqVHFQdVM0VHl2QktXWFd2WjdlMms5cGZvUDdxWGl2ZFJKeUVvWXE2WjJFQWFTZm5pNjVSeXV5VDdpd0M0ZmtONWpWdy1CWHBrTTkteDNVU1lmMWR0T1RiazVWaWdWVEw4MHpjZnNjenBncmM2dUhIMlFacDhBUGR6ZkEyd3RXQU85bHFtQmlXR1BPTnZ2UmJ3b1BycTFNUm54ZVJpSXhyWHRoV3RLOUVzb1dz?oc=5",
+     "source": "Autocar Professional",
+     "published": "2026-10-27T06:44:51+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "Day 27 | DPDP Act: Who Is Protecting Your Personal Data?",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xRHRRSkxWTFFPWnNMSXNacFVoY2dHMWJyU1VWNXQxb0JCa3o0NlNsbE9uZkNTTmh5SGNZeFBWdjVZdnJXX2pzYjlPcEhadGpJV3N1UVdsYnVaQl83OW1OcHdyRzlSRW9BNlR0aDZXVlI?oc=5",
+     "source": "The420.in",
+     "published": "2026-10-27T04:32:37+00:00",
+     "summary": "",
+     "tags": [
+      "Data protection"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "Indian publishers contest Modi government’s privacy law",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaktiZi1pcm90MmNVSTFEclVMaUlwR3ZranE3M3ZoWGpzSEdDWVhheWtRMFB2Vkd2cXFUck9PSlAxaWprU0s2M0l5YnIzUlhPaFBBdWpsRGNzRU1iZlNBUkNGYmVGYzRCcV9qXzV2czdhZ040dlVUOU51YUVwZDBIdFJnZHM2WFU5bXdENW8xby1QWllTVU1GTEVjWkNKRURxVHNOSXVqcWJCSXVsWDVyNGFSY9IBugFBVV95cUxQODJOVG4wUXpBNmhlWFR2XzRRWFRvUnF4Q3VqTjJOMkpjOG5YQ3NGNHRyUXZhY3JkRzhLdDZsV3lEeWRLSVBsOUdmcjhBNUFIdHFIRFJxUkdDaVc3Zy1Xb1JfajF2U0FsTllVOFpvVEVodVJGenRfX2ZDcXBjUDdSSlZOQW1INjNRZEExRlViYUJuNTU2Ull6LXFoWTBRdFBKYV85cGRPcHBubEpxcXo5WjdEaEgxdmFjTXc?oc=5",
+     "source": "The Hindu",
+     "published": "2026-10-26T13:05:58+00:00",
+     "summary": "",
+     "tags": [
+      "Data protection"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [
+      "Deccan Herald"
+     ],
+     "closes": null
+    },
+    {
+     "title": "ESET India’s Cybersecurity Strategy and AI Security Roadmap 2027",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa2dDX1FTZXl2WGI0dVJETUM4Z0YtNm9kdG5Wdmk1V0o0RUNub2U0U0pNRXI1aldFRTVtcjNia2t4eFFzSHprbmNEekRISlkwR3BDZVoyVlAzd1ZlZUNvcHotaVlGV3pjNFMwVG5QZG9taFZkTVlyWURobmdvY240akZVdHE0SEFtclVpZGdvLTk?oc=5",
+     "source": "IT Voice Media",
+     "published": "2026-10-26T12:40:16+00:00",
+     "summary": "",
+     "tags": [
+      "AI"
      ],
      "countries": [
       "India"
@@ -706,21 +748,6 @@
      "closes": null
     },
     {
-     "title": "India’s Financial Regulators Review Cybersecurity and Stability Risks at 30th FSDC Meeting",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQODNrWkgyMUhvLUdNN0FPN2JDT2JQXzBTclZJV3NNX3pGc3oyRnVwRzlWSTNraXVPZVhqdk9MLU9DWXQyWlhGcjgyMDFfQlU2SW1HdmdLX0xYOWpKUDZNUHhMMEh1ZmZscVZieWtGZGRBaW9wM1dQZjBmRVo3ZU52cV9xalZMQlRqTGZwQ2xUN0l3VlI2eVBRUkF5ZUtlMDhnT29Z?oc=5",
-     "source": "www.nationpathindia.com",
-     "published": "2026-10-23T23:05:05+00:00",
-     "summary": "",
-     "tags": [
-      "Finance"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
      "title": "eMudhra should face India audit, licence suspension, says former CERT-In chief",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDhXNVJzUFl6dG9oTUFwbU9fY0FyTFZKbWdlWldOMWVuUzRHelZBN29pUkpXS2pZcmUyVmNYcXIwZm1EOWExNzU4czRXMmNXT3FjRlZvNFlISlp2WXhSdnBaMHBwNW1maHZkczFWcjNHMHpBZlBGY3JvMFB3RjR5NEVPR1pwSGRrbHNuNUJ2djV3UkR6T21YRFZNS2h5X1drS09ZSVRoTmk3d21jLTRXeE1iQXVPaWtDa2pKYkhkb3pEVG_SAcgBQVVfeXFMTTQxeWlSeUhqQ1BEZ1A0WnFOWlh0dGJJekgwRFh0bDBKOExrNDBvT1lSRVZ3MzNMSzI5QVRtZFNBcDY2N2lvRTlUN3Fua1FpQlpPZnZ6MnNtaVA2NVQ1SkRsUEFxVGVKZUxHVDdQWVYtOGo0MXhheGg3YWJFX0t0aEptXzlscG1FYXNyMFF4ME5GY3NDTE9mV3l6QjJZdzN1blVtaHRzUnR2Z19MbS1VSWdHbHVKZ05CdFo4a0hIWTBWV09wYnJMdVg?oc=5",
      "source": "CNBC TV18",
@@ -734,13 +761,13 @@
      "closes": null
     },
     {
-     "title": "AI and cybersecurity weekly: SBI reports cyberattack with 3900 users, India proposes AI governance guidelines, more | Technology News (HT Tech)",
-     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPREVFVHBqM1pYcC1SbEw4QkFHSEhfb004blRMb2dVVldrMld5YllWTGhvd1cyQUpLMUxMQlVpUzRMRUZpYmpIaXY1QjNBY0VxOTdydkVkQnVQLWQ0RmxtMlkxN0IwaUFjSGQ1YThxUmxmTTkxTm9MNE14ZllQM2xUa3lEa3Y1Zjg5blVWYllNbjN5dWxSaFp3S0lxZ19BUWF0dmdEQ0l6SWFGYWxGNHNZRlRrbmxVYlN3bG1BdmtEWnV1MVRkWWZaLWtrRS1PY3ZXMnE3TE1fMVFlMmdxUUxHLU1LbVpOQkFKWTYtOFp3MnJNLUgxZnRfalZOdDlJa1E4MkxPanF30gGLAkFVX3lxTE5MX1hiSlNPa3pwazFISTZBMmttZDhkVm9WRjlDVWk5RjhqSEtVczZ3VFhPYzIxYzB1dnhzT2dMOHQtTG5PNFhXbTJEdFpfaW9aNzVjWGV4TzUyQnFHTkdtcFFKcFA2b0RMdmdBY2xiMGJWNkp1SjRRN0dBZ20tZnhhUUZPOWxUMFFNZmlUR3dmOElmNTJLcHQxdWJMNUJNa29PdnZwcGg3Tk9mc0dOVkg0Qm5MNm54RHF4NVZvYnlubnNGWmdicXAxUDRLNUlVVTAzbHNUS1h1XzRzeGJiVzl0V2J5blBCSFF1Y0lGUmdqSWxxTHlBYlVjMVFpM2FEaFlmOF9RNFRQanhxaw?oc=5",
-     "source": "Hindustan Times",
-     "published": "2026-10-23T14:26:34+00:00",
+     "title": "DPDP, GDPR, and HR Data Transfers in Indian GCCs: The Compliance Bridge Global Teams Need",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUjN1c01PbXRNQ0FTMXEwOHB1SEZ3TV90V0s1Nm9HOGxHVktVNG8xeDRMbEVZX0x0UHhMdU14SkRnUGhNU1o1bnQyUEl1WnNfVkd1eG9ya09XRjNoUmF5YkdxTDhJdWJIVTRyYkhGLUp3bjZwOWIzbHpkWEZrVHNsZURJSFNPQW9Dc2hJdVZKSTdJVWN4NkZQYlJDNXc3ZDdYTmUtSzc3cFJXSUV0T2xUWHF4eThHOUJpYnVWZ19lckgtTzV0LWM0?oc=5",
+     "source": "Nasscom",
+     "published": "2026-10-23T08:54:49+00:00",
      "summary": "",
      "tags": [
-      "AI"
+      "Data protection"
      ],
      "countries": [
       "India"
@@ -749,13 +776,46 @@
      "closes": null
     },
     {
-     "title": "MeitY forms team to probe eMudhra security incident, says impact on Indian websites limited",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV1Mwdm1CSjhrN0x1bHl0R0F4dkJ4YWFxSHdqLTFMbVRmUDd4cEhWOGoxUnNVbkQyVUdGb0VLS0VoWUYzZEJrWGN0ZFpiV3p2Y211dXVsV3hhOHhfU3VLYXE3Q1ZWVTl0Tng5ZzdvY1ItZ2tTUExycFYzRkM2MG1CbEV6NHppdFFoZHV1N0tpdlowYTdrU0hPVVJHZHE0Y05VR2I2MDdCY0x1ZG5zeS1paG9ZTldjQ2Jmc19DaVg4SkQ3eUx5SHc5YVFFOVJYZw?oc=5",
-     "source": "Deccan Herald",
-     "published": "2026-10-21T16:46:32+00:00",
+     "title": "MeitY Probes eMudhra Security Lapse",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MMFJUZS1SOENJbVVqU3dVTWFtT2E4azh0US15OVJ3a01lbjFFYXNwdVpwYXducUk0M0V5emdKUDk4ZlFpWmpSNTM1VlhrMDJOTXNORmp6OUY3TDFsT0xFR3hPS2lyQmRHTkR5aVpyMzk5VjIxbVZVMw?oc=5",
+     "source": "India Business Trade",
+     "published": "2026-10-22T07:06:18+00:00",
      "summary": "",
      "tags": [
       "Enforcement"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "MeitY says eMudhra security incident had limited impact on Indian websites, probe underway",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNTByV3Nmb2E0RmpueVRWenQ0d2xaTWNSU3dZWjNPeVh3MlU1ZldCMmNQc1RYcHVrVmczY0R0QmJucFlNMlNnV1BfUDA0VHRkT2kyZVBWbTZGZHBDNDloWlBJNzNRY0w3b0s3RGNkU183UU9iNGFJTEFZbXE2Zk1ZNDJKYU9FTngxUms1dTRTY25CZC0zM1pOSWJpVWNCalB4WV9NdHpfYk9oWnk0SUFYbnVmb3JXcWIzb2pnZHBjbDNfRjdKanpYVTRhRTRFUXRROTBaR3ZSZGNZNU5sYkdZRE52TGFCdEdpSjRuadIB8wFBVV95cUxQYXZtc2ZYRlQ5bkw0QUNWSXhLaVdaUXhmeXM1VUR1aWhsZ1JwdGdvbVd3TkZKSW1YcXhHUEwzT3Iwb3R4dEhQSXJpdUlPcVRHWTNDNlZVbEtqQnZNRktRV21EUDczTWp1VDZ5WWFmcnBaTXN5ejJwLVVPVFA4WEpac1dqTXF5bFlFckVaRng3c01adUtvTENVVzRRNmFXQkp2ZkxPZkNreXVJSks3REh4RjZYWGlpbDg0MEFFbWFjQ09iWmYyRU1WV25EV3pSMkphSS1Banptbng0TVFzM2l3NlZfNm50cHVqLTkycUFUT25Ba28?oc=5",
+     "source": "BusinessLine",
+     "published": "2026-10-22T03:59:40+00:00",
+     "summary": "",
+     "tags": [
+      "Enforcement"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [
+      "Deccan Herald",
+      "Telegraph India"
+     ],
+     "closes": null
+    },
+    {
+     "title": "What Should the State Know? Rethinking Government Data Power under the DPDP Act",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWW82UjhyUTZORi1pajIyUzVJSWVQVjl5OTFJNWpqQTMyWlJKTmc2UC1VRE9zekVTb0dCcFNLcERsLTB0SXZHTEI4OEQ0WnppbW92TW1VNXJWSVlHTndlRlluTHkyV1hiYUpSbzhkcW95UnR6VHBZaWI5c0VGT0RNUjk2SWhtbC1EZzhBdmk0S1JxSm1qeHdQaWQ4d3d3aFBYaG1LbDhadXBVWXc?oc=5",
+     "source": "SCC Online",
+     "published": "2026-10-22T03:30:33+00:00",
+     "summary": "",
+     "tags": [
+      "Data protection"
      ],
      "countries": [
       "India"
@@ -768,6 +828,19 @@
   {
    "name": "Regional & Global Bodies",
    "stories": [
+    {
+     "title": "ASEAN Digital Economy Framework Agreement to enable trusted, interoperable data flows",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSmFmV1hzdlVoaVRmY1Ixek9WMndWTU5ZaEZXODdPU1gyc1JmaXlybzdxNHR1NjlEQ3lqbThMU080dXRoV2V1RzNLOFlxTmFlVUpYT0I1c0l1dWVueU5LaWU3QWNQYnB5cjdSUFk5VlFYV3lNV2l5OGRTbG01eU1UTWE1d0xfRFVWdWY0azdMUUo3STVPQVZuR2VRajBGTzBqTWRrT0Rad3czOEUxQjhRdTJrbnkyaDhSYjZHVVZoUkRDLUZOT3d3?oc=5",
+     "source": "vietnamnews.vn",
+     "published": "2026-10-27T13:34:00+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "ASEAN"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "Telecom Rules Alone Cannot Stop Online Scams, GSMA Says",
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFM0I5UW5NWkx0bGFJTzk1OXdPRk1jRmtKazdrOTBhQzZYMGpFeVd0VTlWY2t0bGx1TTdWRUh5UE1fQVYyNFZzVnJJQTVES0otTlBCME4wams5b0ZxbEo3bTl6THJzdFBrVlE2N1FJYy0?oc=5",
@@ -812,19 +885,6 @@
      "closes": null
     },
     {
-     "title": "GSMA Urges Telecoms Policy Reset to Boost Canada's Digital Growth",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM1lxZUd3NV9QZlRrQTJqaURmRjJJLW5HVFVfOE5hWGhjVEdnR3lxNksyeGE2VlpiQ0J0OE53aDFGSUNmR1pJZ1ZjVDZNQzNPbW1hNVV2MUdsd2p0c3FNMFRIZW9PVFR1MngzRVNBOTZMTEJXNFNPTXNMOTlZQmJlWDQzN29DR0JNZGNfTmJSRng3VmFTWV92bEhGZ0F5MU53emxsMzYxaHByZHYybXdGaFNtUzUtbEx3OWZUcF84QjJQUkU?oc=5",
-     "source": "The Fast Mode",
-     "published": "2026-10-22T01:49:53+00:00",
-     "summary": "",
-     "tags": [
-      "Telecom"
-     ],
-     "countries": [],
-     "also": [],
-     "closes": null
-    },
-    {
      "title": "DILG convenes ASEAN ministers against cybercrime, online scams",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVkpsV0wxUDlZS2lzWkFlNmVfZmt6YVlmSkZ6ZXBjaDlIYmFXYVotZkZkbXVXUmNvTzhWbU1KaGxBNm9GamlYTGcwYWlTTlBuSUlxZEJoUndzcFNfZ3J5U09QcHN1VkltTjVqQjdlTGRja3FhYzRnamppQ1RpUU9wS3lRRkpjdzF3QkpNRTFpSQ?oc=5",
      "source": "Philippine Information Agency",
@@ -834,22 +894,6 @@
       "Scams & fraud"
      ],
      "countries": [
-      "ASEAN"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "ASEAN ministers meet in Philippines to tackle cybercrime, scam hubs",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzZRUm9ENkhmLS0wcjhlR1FfeUlsLXpVWVM4MUg4TTgyMzRwQVM5VmcyVnE4cld6a1ZycUxFS1dpRXBISW9QVlNiWVNKckN5MER4WDNXaGlaY1FldzdrUXBBbGFhUFMzTk9zdmFlUVJhQk1MVVJDZzZLREVEQUpVeThibS12QkF2d1ZBSlpya2hqWUhCMF9QUG5kbTZGQWctaHR4QTlYazI?oc=5",
-     "source": "Arab News",
-     "published": "2026-10-20T14:03:00+00:00",
-     "summary": "",
-     "tags": [
-      "Scams & fraud"
-     ],
-     "countries": [
-      "Philippines",
       "ASEAN"
      ],
      "also": [],
