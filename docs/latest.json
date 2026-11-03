@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T19:26:39+00:00",
+ "generated": "2026-11-03T03:54:29+00:00",
  "sections": [
   {
    "name": "Financial Sector",
@@ -210,21 +210,6 @@
      "closes": null
     },
     {
-     "title": "Parcel scams prompt new safeguards as Malaysia plans postal law reforms",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM05sN181U3paclJKSm50S0lxd0c4bk03cVJLVVBNMVFGb1liNG93WFA3WkNRTkpERkcwWW5nNHY0WmgwaUdmeUhjZXVrZ3ptVkpYRW1aMkI2SWRvendhU3ZZTVBJelJhaDlvRGczSUFZMksybGotalpjLW94LTBWY2lNN2ozMmtOVzdqSTk4YjdFN1NCVm11Q09DQ2tBcFB5N3RPQ1lFckFIc2wwN2dqc2x2REQ4TkNE?oc=5",
-     "source": "The Vibes",
-     "published": "2026-10-31T03:39:00+00:00",
-     "summary": "",
-     "tags": [
-      "Scams & fraud"
-     ],
-     "countries": [
-      "Malaysia"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
      "title": "MCMC probes spread of content insulting King on Threads",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS0Mwa3QtYzh2c2NqSjFLbHo3UDJqLUVjY0JfTUQ0QmktMWduN1Q3eWFCSGgwNFBjVGM1ZEVTVjdGcW9WS3ZyUmIzb1UxdkFEbVRPdmhoejdGUTlja21MUlhxSm1RSTJjanJ2YzdNRWJpTEVZYTlzM1k2b2ZDZzd3S3A4SGdYZnZFcEc4T1l3RWg1RGdzckxOckd1RmFnc19FYUY0bzZXd3diX1k?oc=5",
      "source": "The Sun Malaysia",
@@ -327,6 +312,21 @@
      "closes": null
     },
     {
+     "title": "HK live app Chamet expands AI checks as Singapore tightens rules",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2MyVU4wSzR5WUYxM0lWektoakJjeHZ6Q2EzU2xSejNrVjdFaGs1SWJmUTdxanNjUDk1NnAtcVJXYWU1MTRrRkY3QWc2TjhiVnVDWWxTTjdDZUtCclhMdE9HMk5tSW5NSVhPWVJGb3dKTUtScXozVXVMQWdaa0N0TmlQTmF1MG1jT21LX3hub2pFYzZ4MVZsWQ?oc=5",
+     "source": "Tech in Asia",
+     "published": "2026-10-31T04:30:00+00:00",
+     "summary": "",
+     "tags": [
+      "AI"
+     ],
+     "countries": [
+      "Singapore"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
      "title": "IMDA Found 65 Apps Violating Store Policies",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaEd1Qlpud1VkbkpzNXU4OFgxRjFnUDNKOGdYZF91dHJWUG5JUUF4V1BVX0c2azFtRmxVWW9mZ202UTc4VDJqdWhqVFREazNvbVp1ZGw5UVZNaHE2MmVxRW40WUItdThxVnF4aDh5a3V4YXFfVzBpSlNDT0ZMY3NRX1Q1N1VkM2twMF9jTmdyc05FNlc3RE5uN1dObGhZdG0zdXk1elZ6Z043Y21TN201Uw?oc=5",
      "source": "DANAMIC",
@@ -398,8 +398,8 @@
       "Indonesia"
      ],
      "also": [
-      "01net",
-      "Press Release Hub"
+      "Press Release Hub",
+      "AFP.com"
      ],
      "closes": null
     },
@@ -414,7 +414,6 @@
       "Indonesia"
      ],
      "also": [
-      "OpenGov Asia",
       "Tech Review Africa",
       "The Japan Times"
      ],
@@ -439,21 +438,7 @@
   },
   {
    "name": "Thailand",
-   "stories": [
-    {
-     "title": "Thailand: New Policy Framework to Strengthen Data Centre Governance",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWjlOWmoyREZfQW5wUVo3bFVyMEJFRDJ4WFBQanlZaFMxT3BKVmo5Wmlvdjl4M25PVW5HNDhLS0xWUVFSWDAwdWE2Qm1TWFZSdFVmOXMweEZReGFiMllGelIyWUo1NVl3RTVISFYxZGtPTHdNaFpNSXFMZUFrRzZPSDNwTDc0SVNUTTRTcjRJV182cTFIMkE?oc=5",
-     "source": "OpenGov Asia",
-     "published": "2026-10-30T05:49:53+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Thailand"
-     ],
-     "also": [],
-     "closes": null
-    }
-   ]
+   "stories": []
   },
   {
    "name": "Philippines",
@@ -466,21 +451,6 @@
      "summary": "",
      "tags": [
       "Enforcement"
-     ],
-     "countries": [
-      "Philippines"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "DICT backs franchise bill for social media platforms",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTNWczZYX3g1ZXp4aS1uUDRNVlBlWGZOcXRfT192dG9Pc1h5WXZveDVsVzVzM3BsbTVoYl9vRWY0OGVFd015WF8xUGhVUDVXcnFfZ3YtYjhyTE9yTHQtRGxNcHRTd25aWmFJZU1VeTlxZF9OWXhYWWJuSjhIaHNFZ2xPUVNXZEVHc04tWjFPWG0yZkY1bWhleHR5RmVtb1U?oc=5",
-     "source": "Malaya Business Insight",
-     "published": "2026-10-27T01:57:07+00:00",
-     "summary": "",
-     "tags": [
-      "New law"
      ],
      "countries": [
       "Philippines"
@@ -547,14 +517,13 @@
    "name": "India",
    "stories": [
     {
-     "title": "Quick Heal launches AI-powered privacy platform for SMBs to simplify DPDP compliance",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQmtiblNGMHc3STBwQjYwa1RXLWxObDZtNUp6NWowaUYxcFhaY0pNeFZBOENMdGZEZGtBVEM0UldkVk4zcEI4MHFLRlA4SEZmRkljb19pYWRJMVNWa3lZWnpSOXljSU9XeDRXYWpJcElmaWQ4SjdzOU5WLVBCalBUZ0U5WHhPUDBEUHRwTjlRX25VQnhXTi05cG41TzZJVGRkRnI0QXJ2X0NwZ1JUdV95VUYwWUJXNDZQbXZZZ28taHRCRWF4V3FiWV9KXzU?oc=5",
-     "source": "Express Computer",
-     "published": "2026-11-02T16:47:06+00:00",
+     "title": "MeitY Launches New DEPA Framework to Boost India's AI Ambitions Securely",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd0pRQkhYb3BCSC1tdGl0RHdkMDhIdXNRbnJ2eVprYWRPSnVIN2w2MWJ5ZVNVcGttSDEzTFl1c1MxY2xDLWhVZ0I2Sy1GdzdyX2NPRldlT0wwMC1rRFhXRzBpbmhmc2tuWWt3d2lpZVFjaUhaQjNLSFNIUWFjY18yN3RsRnhwRHdGcDVpdExqX0lpRllwRUNiYXlUMHNBc1VVd2lWbk9nWnZJUVFFY2hGS1JPRTYyRF9NdlB2LVdnM1hrakhXWkpzcnBFMjNlNlXSAdQBQVVfeXFMTkp1bUdVaHlhVlNpM1haaVVwd0lVckJVTE9DaTE3QWd0MzUxQ0F0Qk9fRlVlcU9LOVVibjlJRzdHSzZDc1FoVjdvSEhzVWpVbS1CSTBzXzZnUUhoTTR2RDIyam5HbmJRM1RCQWd3Ykppb2Zhd0ZBUUtQZ280allKQTJmcDRtRkQzZzNvNlR4TUc3QlRUbjAtdF96X040Rk4zYUxMU2ZMeC1QVTg0MXROcy12dVduOGNxM3lKSXBET2wySmtWbHE2eWNNMlM1RTZvaWN4bkc?oc=5",
+     "source": "Asianet Newsable",
+     "published": "2026-10-31T09:00:44+00:00",
      "summary": "",
      "tags": [
-      "AI",
-      "Data protection"
+      "AI"
      ],
      "countries": [
       "India"
@@ -563,10 +532,10 @@
      "closes": null
     },
     {
-     "title": "MeitY unblocks Gamban after Inter-ministerial hearing, reverses Section 69A blocking order",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN18yV0JMRmF4d1BrRkQ2d25vYXY2RHprQ3Q4eWNiMXVlNmJMVDBHaEF2TXhSNVZmNDZVcEJjajN4Zk12S21FT0NwdzZkNVdzeURuV2M0RWNTQVBSODlPcFpMaGRiWnYtbXBMeWl2R0lZYklFOWRFNDM4dFZaRmJPZVRyVXE?oc=5",
-     "source": "MediaNama",
-     "published": "2026-11-02T14:45:45+00:00",
+     "title": "Cybersecurity in 2027: Recent Incidents Show Where Indian Businesses Must Act First",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVzM4UVVKVl9DbUNXZnZEcG5xZlEyMnlOM3lCZmZHVkp5TUJUYVVhVXYzbzNwb0NRRl9sMTRuSnVzN21Pc0dQcFZUSmppUGtjSk9DTExtM0pQVGdVd2lqUVBGUDVwS3o3U2M4X2dwdk5oanJpdTdWSVVvb0k1ZEUzbTRYcFMxZ1NRQ1V6WW9TQVd3SGs5YlhxTlZIdE80TXF0d1BBYm5BNGpENk40cUlyX0JNQndRZGg1cXNV?oc=5",
+     "source": "CXOToday.com",
+     "published": "2026-10-30T16:04:33+00:00",
      "summary": "",
      "tags": [],
      "countries": [
@@ -576,14 +545,27 @@
      "closes": null
     },
     {
-     "title": "MeitY proposes framework to unlock data for AI model training",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOXllamgxVEtjRF94MHA0ZEd2TzF6MjRjUUw0M2lpczdScWxPMjJHdk5US0VnMUFzYjZ0VUMzUUpOSFhhSk01cFc0c2dCMnZUOUwxNWlpWFFnc09NeXJ1b0dqWGg4Rjh5N0xxZ056ZnVQVlRkWTI0bW9QY3dmMXo0RXM0ZldYZmVLVUpQUElRNFlRbzViUlctcGFTMmJJQ1pJSGV1VEhPdEs5ZHJJLUg0QXNFOHFYZFhnaGfSAboBQVVfeXFMTTl5ZWpoMVRLY0RfeDBwNGRHdk8xejI0Y1FMNDNpaXM3UnFsTzIyR3ZOVEtFZzFBc2I2dFVDM1FKTkhYYUpNNXBXNHNnQjJ2VDlMMTVpaVhRZ3NPTXlydW9HalhoOEY4eTdMcWdOemZ1UFZUZFkyNG1vUGN3ZjF6NEVzNGZXWGZlS1VKUFBJUTRZUW81YlJXLXBhUzJiSUNaSUhldVRIT3RLOWRySS1INEFzRThxWGRYZ2hn?oc=5",
-     "source": "TechGig",
-     "published": "2026-11-01T02:10:27+00:00",
+     "title": "SC asks MeitY to add penalties to policy on unauthorised court video use",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeXVfbW8zZVRfQ3ZxeDBYbjEyLVFnX2wwRVB5bk8yTldtb2RPQlV0S1lhRHJudGhYT1NSS3dNMVpLUk43TTBOU2lTNDl2aEx2T0VXendIZ2xVTkNFRHhoelcxdGtrbFVldXJRQXBQVU1MbDVJRGpNd3YyckNiOHJOc1BqV1pXckxXWkRxZG96cG5ILVJBM0ZUeGIzcWprekc2d21aRWdzRUQzUjZoQ3JzT0c5ZnBqMzlkanRHeHBkY3lkT0pST2NrTmZaLUJZZkVFc25j0gHYAUFVX3lxTE5qZl9FekhSRHdnQmJNQmY3ZGV6eDVPMU1WRXd1QVpZNWVFT3lYWEJxTElIV24tdVlzX0hfMUZ4OG5rdEJMTlg0NS1GQXJFTXhPbE9WaDJUTkQ4MEZlMzBQVjQteld6SjNCeUZpYWMtT1I4VjZVTlM0dDFiOUhNR2ZlZTJMcE9MLTlwRGFvNlhnZjNRNkY3bXgyeTFXNUhIWFUxczVqdEROcy1GRmhIMVdnb1R0SnN6SlZjZXFfSExXa0FiOTZGcXZBVnNZaE5SYUxfX3RwZm5RUA?oc=5",
+     "source": "Business Standard",
+     "published": "2026-10-30T13:12:02+00:00",
      "summary": "",
      "tags": [
-      "AI"
+      "Enforcement"
      ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "Supreme Court mulls MeitY policy on court video misuse, watermarking and curbs on clip extraction",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ0hFYm9aZ2xpQzJJX240X0Q0bE1xTEtCZGJtUXo4ZlMxYTFZa19hU3FiSUQ3dmlGZjFTZGM0clYzODZLMV95Sm5fbUgtV1VOY0ZBajd0d3hQbk9GcHZUenh2dXlnemduZlBoaUVNR01lcG9rUWh2ZEVxTDdvTEZCU25ZTTlJMWg2MUo2UTlXLTFVcEwzcm5UQjVuT1I0U0x3YncwbWhlYk9DSEtIUGRqNlV6bVJRNmVoMGFvYkhZZ19tMlBlUWZuMF9YQVVhMnlCVTFzN2E3RXFiZG9BUnVNcW4yUk3SAeoBQVVfeXFMTjZkOU16TzdudG1iTE5STXVEWm5zWFRfTFpib3dsdWthbFl2cm1meFNqR1ZjOFdLV2RSYXR2dm95MktoVXV0OUlGWHNqaEFicVVmajdSMTVkSWxmR0MxUTltd1JmTDBvekVORlhWMlI5SEZBUXk0WS1qVmZ1NXRkZ1NpZEFpOERTRGlfU2JJamdBeExHdmt3TXd0WUdCV1V4bHJfUUZSV3NtbE11cUMwUEtPXzhPMnBKUWpVZU1iRE9XX0RJSEZwZmZ6Sm1MczZRN1Q2VzYxX1oxWm5URnNCN0duX2c3WElCVkhn?oc=5",
+     "source": "Moneycontrol.com",
+     "published": "2026-10-30T11:35:54+00:00",
+     "summary": "",
+     "tags": [],
      "countries": [
       "India"
      ],
@@ -629,24 +611,9 @@
       "India"
      ],
      "also": [
-      "The Times of India",
-      "TechGig"
+      "TechGig",
+      "Inventiva"
      ],
-     "closes": null
-    },
-    {
-     "title": "DPDP (Removal of Difficulties) Order, 2026: Clarifying Guardian Consent and Data Audit Obligations.",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wNGNyQjVRVDFXZEpBbDJNdXNEaWNyUk9QWENRUnlEaDg3UkpGRWRfTWZ5TzNUM1BYS25CSzB5TmJEV1JSNWVDUXo1QWpiVU45NEpMTU5lUktJSFdKOW1icnFMbUZRRmc?oc=5",
-     "source": "IMPRI Impact and Policy Research Institute",
-     "published": "2026-10-29T11:46:46+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
      "closes": null
     },
     {
@@ -696,6 +663,37 @@
      "closes": null
     },
     {
+     "title": "Is surveillance the real test of India’s data protection framework?",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeGptTzhlQ2dnZ1RNSzJILWNtMHgxa24tWWdTMFVSXzNDQmRRTXRXYXBrNFpwRUIwOVoxMTdCVVVxQlhyb2Nkd3JyZGpwMTFVQTFpS040QVpQMnREczlNS1FwWmgzcDBvaXJ3RW1ibk1RVEZuQmFMRTZld3FxbUtvZ25NbV9vVGRtdW1PMGxZX2lCZw?oc=5",
+     "source": "SCC Online",
+     "published": "2026-10-28T04:00:33+00:00",
+     "summary": "",
+     "tags": [
+      "Data protection"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "Why journalists fear India's data protection law could curb investigative reporting",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTkgzSEhTR29Ed2tGT2FDeVpPQjRyRmNQbmU1OU9odjhycDBEUGZjSFRzTFMyLUZDSk5GQmxKRmx4bl8yTzBrdmRRUTZPSUE5clh0dzBkdE1zMG5aNi0tVmxTWU9oUV9EbmxkNzNfUEh0bkQ3dkRSVlYwVmJHaHRwMUZ6Nnd4amFrT01ndndNbm91bk9fdmhpUDV0NFNkYTjSAaQBQVVfeXFMT0dMd0ZRRzJaT1dOMHVKMkdrbW1sOGR5QWdybWJFQmlnWHFhel9Fc3FLcTVYWEpnVDZWb3k1NkVRWXhuYmJ0cDZud1kzLWlSeFo4U2d6b2I5aGRxLWZCbTVLWGowTDZxbURyLU9ubE9CeDBWLWdyNW5oakVhQzk5ZFI1bFFldUoyeXVBSlRKTWFSSTloNllUOXctcXlkQUtnRklnZXM?oc=5",
+     "source": "CNBC TV18",
+     "published": "2026-10-27T14:31:56+00:00",
+     "summary": "",
+     "tags": [
+      "Data protection",
+      "Enforcement"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
      "title": "Beyond Subsidies: India Targets Rare-Earth Chokepoints, Cybersecurity and Overseas Plants in Next EV Policy Phase",
      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcFpISVF1alFFekt6WHV5ZDYzNU1NT3hRVkRCZVV3c0tTZlQ2cXVIUlZMdDNOSFhKX1A0eV9JRzRCLU4tWFc3eHJaQXpyMHRoNk5GYjVKczhEelhaVWhaQ0hiUF9wSUxsTE5OZGlvcnZxZzBkaGZyUVRaaHpjbmY5WUQ4SnVKcW5ueElMRHZGV3ItZlJ6T2tBTTFhdkJTZXNPa3UtbnpSeTNKVzl4bVl5QzRXOFlpRmVTdXNlcnpwSHN0a2hBd19fQXZNY211d3hjWHk2ZHVVRVNwR0FrRmZpT0pqVdIB6wFBVV95cUxPdlE5bUZ6SDFpTGhCTy1xZUhfNklzZHF3V25JUUxTaFpKUnZPd0F5MDZIczhGNnNaTXVvTTE3WExqVHFQdVM0VHl2QktXWFd2WjdlMms5cGZvUDdxWGl2ZFJKeUVvWXE2WjJFQWFTZm5pNjVSeXV5VDdpd0M0ZmtONWpWdy1CWHBrTTkteDNVU1lmMWR0T1RiazVWaWdWVEw4MHpjZnNjenBncmM2dUhIMlFacDhBUGR6ZkEyd3RXQU85bHFtQmlXR1BPTnZ2UmJ3b1BycTFNUm54ZVJpSXhyWHRoV3RLOUVzb1dz?oc=5",
      "source": "Autocar Professional",
@@ -713,6 +711,23 @@
   {
    "name": "Regional & Global Bodies",
    "stories": [
+    {
+     "title": "Asean banks to probe responsible use of AI",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGZIVS11dXVwdHlNUkpIM1pzMDMtNWNLZ2RtaUNuZjJraG4yU25ZT3dZV3BmbVU5cU9xdVdQNExidzJIVHN6amliUGdXWHpKQ1FRMUpzcUlXc3hfVGNyY0ZvLUFnU0JYODE0cGNfWk1vdlpVRk1tdlNfZU15SEp2WkN3cXZKcF9LQy1ZZG9rcWtQaTFyVmIzbldvZG1iSWk4T2VKd0RPa29GZGhNRTFId9IBtgFBVV95cUxNR1pqRTB2M0lBeWRXVXF4ejFyTzJjU2tSUC1JQTBxSzhFTG5ZTVNHREh5Y2Y2UDlFeU1EdDNKVGxDdnNpTERNdVhud09SRHo0VGJwZ0ZuM01nNWtsWUN3WEZUNHc1YTlrZWEwVkN5T2hETzUtZEhBZGRXT0JBMFdVSzlRU3E5TE81NXMtek11d1BUSVBrN294T0F5LUlXQ1loWWxVOGF3M2JSSGZROFNVQWgxUnhwdw?oc=5",
+     "source": "The Manila Times",
+     "published": "2026-11-02T16:16:00+00:00",
+     "summary": "",
+     "tags": [
+      "Finance",
+      "AI",
+      "Enforcement"
+     ],
+     "countries": [
+      "ASEAN"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "Telecom Rules Alone Can’t Stop Online Scams, Entire Ecosystem Must Act – GSMA DG",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObjJ6Ti1ObVR4andDVDlxbExtcmR4Vm9iMDlRTTlPQ0hkVndSNjlZWVg3bldtb3RFS1QwU19LNV94Tm1pSEk3TTlaaGxXTnF3NVlodUlHbTYwbHFqeG5zWGhCVDR0Z20tUU94NXV3TGNQLVdCakhlNHlGSDM5eFVxRklHRGZDTDhlMnoySHlGajhySkFSMHRVT2VZNDk5OHZMckE?oc=5",
