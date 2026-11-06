@@ -1,14 +1,14 @@
 {
- "generated": "2026-11-05T17:20:21+00:00",
+ "generated": "2026-11-06T03:23:15+00:00",
  "sections": [
   {
    "name": "Financial Sector",
    "stories": [
     {
-     "title": "RBI consolidates cyber security rules for non-bank payment system operators",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR2lPUDBvbjFwZk1yN1BiV3hMTUxaTnZVbU8ya0l3NTdVNVh2dEl0b2FBcjlTaVNPTW9PUXZLY29nR21RVjVfUzJtREJ6akNoSnhqNndNckVBN2Q4cUM3Q1ZzZ3RMUHd2cjhvcVVyQlZSN1NLbnUxbzQ1YXpBcTR1Y19qdXpWWDNiZ2tjbmZTYkJpUUtxTlNuUW55VVlRVHFuWm9qV0RDZEFpSXpkbmFsTTNmNV9FSl94d1lVUHJrYlh6WW1xeWNpY0FlSzRtSGpLUndYcUtyMlR0RlRDblVz0gHkAUFVX3lxTE4tVXpGS2sxVUdUZkJwS1dCZmJ3SWFGaTcwMVZOSXE3cDl5ald1UnFYRmRwWWJ2UVJUaENmLWZGd2J4QU9SV0d4azl5WFplNjJyMG41dkJpbmp5VmR2Tm5nYUJjOWZQU0N5SUhlVU53N0ZrQnU1T3dTREVMM2hLUDJoMmVwQWEtZ1BZWG0wQWJ1VzgwX3RXbmVObVhOVDh0ekxnakRnXzBwQ0pwZDh2UmJnbWw3eWNOWjJVQkdFWS1GQmZTV1VnUlRpNXVEdEk5bk45ZEo1VWo2SjV4dkk5SHhWZkNfNg?oc=5",
-     "source": "Business Standard",
-     "published": "2026-11-05T16:05:40+00:00",
+     "title": "RBI Consolidates Cybersecurity Rules For Digital Payment Operators",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUHRIbnFYc3RCUmEzMUVVVkpHWG4tY3AtRUxWTW44ZEF1VGxwd3NvSkJidmRtUjZKSmgxMHE2MkI1aERyNzZRc1gzbGdSc0xkdDRldkpxcFEyVFJ0MFlXOFVPRWZoR1ZwaU56di1UMF9aT1FkVF80TEg4V09jTVN6cUhGSG9BOHVpMkJXZTJ3?oc=5",
+     "source": "The 420.in",
+     "published": "2026-11-05T17:49:48+00:00",
      "summary": "",
      "tags": [
       "Finance"
@@ -16,9 +16,22 @@
      "countries": [
       "India"
      ],
-     "also": [
-      "Business Upturn"
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "RBI’s cyber resilience framework sets security requirements for non-bank payment operators",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONF9JYW5vc3BSaE5sNUxyT1dobE81cjRMNEJRUUlrMmNnd2ZmWjR6LTlmXzBIeVZBOWFucURScjdQeHFWRVpWRHRlLWVhY3llbTE2QUYxRWpQY3FKNUxDbkN2UWpXWlF0ZlhnbWhQNmZkb0FTMlhpU0dGT0tQektHVnA1UDNJaENpdWNRbks4U0F5M2l3RDdiWU0wMXdjY00wN3gtRWhoZzJSakZ0cUFtX2VCanVJQmZvNkl5djNIOExYSTQ?oc=5",
+     "source": "Business Upturn",
+     "published": "2026-11-05T14:07:36+00:00",
+     "summary": "",
+     "tags": [
+      "Finance"
      ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
      "closes": null
     },
     {
@@ -57,7 +70,7 @@
      "title": "RBI framework gives UPI fraud victims a path to zero liability",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX0lRX3RESmFPcVVpTzNPNDdRUFJyLW10YldPYkFYbElCeGdFR0VSMldMbG1Cei1DQ0E1YWl3dDJUV0tEMS1QNk9qbkdWQVZzMkp2SE9fZkdHeXhIR211V2dFYklSRkdfNExCdFRnVTJTLWVUMllITjJOQV9lOWtqZ01MOWZvc2w5NHhFak1tTU5SUEpFQ3VF?oc=5",
      "source": "Elets BFSI",
-     "published": "2026-11-02T08:00:00+00:00",
+     "published": "2026-11-03T08:00:00+00:00",
      "summary": "",
      "tags": [
       "Finance",
@@ -119,10 +132,10 @@
      "closes": null
     },
     {
-     "title": "RBI digital fraud rules from January 1, 2027: Will you get 85% of your money back after an online scam?",
-     "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOUjlxWlBUS043MlBWb0ktWlVXT2RncW1DU1NTNm9CMlNFdlJ3SDBTSTVKakd3bm9xdjR3MGsweGhuQnIzYmJqVlpHeWFORi1JbTBxcWRFdUI0ZDhHYTBNNWtMS1UyS2tPV2o5bktNb2JCOGFaRkxsQWVNU2FxME1zMktjR2d6dnhWZzBmOVpTQXgzWHFVcjhkaGZ5N3VFZ0FrZUhCQnh4MnR3aWxMZVpJc2NRZUdYN1A2cFVzdFA4U3JPSWRMZlotNDlYTFltcU1odktKdzdJVlVaVWFrWVBDT3VMNHE3THZpWmVqbWc2WU5TR2pvREUzcTJmaTh5TTRpZ3lZVDlZUlJ1Q2JlaktzNlVtYUdWbkk5Tl9lQ1BCZHVaOVJEWXZ4YktWYVdkYmtMdVpKNEFyS3dpYmZHWFZsUlZmdWVVVTFMcGhuN3RDYw?oc=5",
-     "source": "The Economic Times",
-     "published": "2026-10-30T08:02:33+00:00",
+     "title": "Bank fraud: 5 RBI rules to follow if money suddenly disappears from your account",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOGcxdmtnTWxNMFJoRW85MDIxdkN0TFVoSFR6RHlEREZvbXVQSWhBQVBzdkZWdnFSdkx4VnRhZ20xZUFzZXAwT0RqRW9LXy16MXZpU2oxVVdpWk5ZTmdPb19WS0FueWZIdVRCUHZ5ODRkU3Jza3plUmJ6RkxCYXN3czFEeHllUDFvRWh4YnM3UWxOQUlDaVlwdVBlVV93cmpBWUZLTDZnMjM3aGpyWllaRlpvblJVMVlKcGYxVFp5T29jcVBiMjh0S2FGYw?oc=5",
+     "source": "Zee Business",
+     "published": "2026-10-30T07:27:28+00:00",
      "summary": "",
      "tags": [
       "Finance",
@@ -131,9 +144,7 @@
      "countries": [
       "India"
      ],
-     "also": [
-      "Zee Business"
-     ],
+     "also": [],
      "closes": null
     }
    ]
@@ -142,12 +153,15 @@
    "name": "Malaysia",
    "stories": [
     {
-     "title": "Sharing footage of Kuching school attack could breach laws, MCMC warns",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM3MzLUF0aUpnazBmUDczamxqN2xkc2hNU3N0N0ZOeEVUaEgyQ2JtNHZqT1NnT0paSmN6Nm9uakVObVVaNEh5ZjJ3RjZiSjhlT1FRXzhHWWRwcmRFa2hPVkI0ejRHS0NOTk1UWEtGQ0hLdGFuOTI3MFo4ZWJDeDBpa3Y4ODRfcDlSWFg1d2txYndwRlRMazI5Qg?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-11-04T16:44:01+00:00",
+     "title": "Anwar says AI Governance Bill to complement cybersecurity, data laws",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDhYV0Z5LUxnTm5LUENIUnhjUExYX1E3M1NqY2VLY196VGJ4OHlwc1VVZVQzUFBTdmxRcmxBYnM3N0NWeE9IdjVCUGxJSjJhUENEaHB5WS0teUhib2hXcUFKSE5Va2dtY3NfeHNUVjVBWTQ0R0syZ09DcWJzZmlWZFZpTW1jcy00YTJIUXdVVnFqUER6VUdvYW9aNDAtODVpVnk1SlVtR0ZiR211OUJJZXZxazlvZ9IBuwFBVV95cUxPQ1B5WklsSVZiV1FtbTFFN3BxVzh2a1BqOVU0Ukg1cWxoWDYzbHdmcC1oaUVrZU52UFFScW8zeUszT3VZMHVhbWZ6dUFKVWNJZl9raVNnZ3V5VmVnUlBYM3dUVVVSdjJrZ2lLaldWNjNlWGxHWkNIdDF1S2xSQkNiNnNRNmxUV05OVDNMNzd6bVFGZXFCeVpaeUJWRURSS0FPQVFiYmZkTGROclNwRTM2WmwzNTN0QkE1d2pN?oc=5",
+     "source": "NST Online",
+     "published": "2026-11-05T13:53:39+00:00",
      "summary": "",
-     "tags": [],
+     "tags": [
+      "New law",
+      "AI"
+     ],
      "countries": [
       "Malaysia"
      ],
@@ -155,15 +169,12 @@
      "closes": null
     },
     {
-     "title": "Anwar says AI Governance Bill to complement cybersecurity, data laws",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDhYV0Z5LUxnTm5LUENIUnhjUExYX1E3M1NqY2VLY196VGJ4OHlwc1VVZVQzUFBTdmxRcmxBYnM3N0NWeE9IdjVCUGxJSjJhUENEaHB5WS0teUhib2hXcUFKSE5Va2dtY3NfeHNUVjVBWTQ0R0syZ09DcWJzZmlWZFZpTW1jcy00YTJIUXdVVnFqUER6VUdvYW9aNDAtODVpVnk1SlVtR0ZiR211OUJJZXZxazlvZ9IBuwFBVV95cUxPQ1B5WklsSVZiV1FtbTFFN3BxVzh2a1BqOVU0Ukg1cWxoWDYzbHdmcC1oaUVrZU52UFFScW8zeUszT3VZMHVhbWZ6dUFKVWNJZl9raVNnZ3V5VmVnUlBYM3dUVVVSdjJrZ2lLaldWNjNlWGxHWkNIdDF1S2xSQkNiNnNRNmxUV05OVDNMNzd6bVFGZXFCeVpaeUJWRURSS0FPQVFiYmZkTGROclNwRTM2WmwzNTN0QkE1d2pN?oc=5",
-     "source": "NST Online",
-     "published": "2026-11-04T12:59:19+00:00",
+     "title": "Sharing footage of Kuching school attack could breach laws, MCMC warns",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM3MzLUF0aUpnazBmUDczamxqN2xkc2hNU3N0N0ZOeEVUaEgyQ2JtNHZqT1NnT0paSmN6Nm9uakVObVVaNEh5ZjJ3RjZiSjhlT1FRXzhHWWRwcmRFa2hPVkI0ejRHS0NOTk1UWEtGQ0hLdGFuOTI3MFo4ZWJDeDBpa3Y4ODRfcDlSWFg1d2txYndwRlRMazI5Qg?oc=5",
+     "source": "The Sun Malaysia",
+     "published": "2026-11-05T02:32:26+00:00",
      "summary": "",
-     "tags": [
-      "New law",
-      "AI"
-     ],
+     "tags": [],
      "countries": [
       "Malaysia"
      ],
@@ -188,21 +199,6 @@
       "The Vibes"
      ],
      "closes": null
-    },
-    {
-     "title": "MCMC probes spread of content insulting King on Threads",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS0Mwa3QtYzh2c2NqSjFLbHo3UDJqLUVjY0JfTUQ0QmktMWduN1Q3eWFCSGgwNFBjVGM1ZEVTVjdGcW9WS3ZyUmIzb1UxdkFEbVRPdmhoejdGUTlja21MUlhxSm1RSTJjanJ2YzdNRWJpTEVZYTlzM1k2b2ZDZzd3S3A4SGdYZnZFcEc4T1l3RWg1RGdzckxOckd1RmFnc19FYUY0bzZXd3diX1k?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-10-29T17:26:37+00:00",
-     "summary": "",
-     "tags": [
-      "Enforcement"
-     ],
-     "countries": [
-      "Malaysia"
-     ],
-     "also": [],
-     "closes": null
     }
    ]
   },
@@ -211,9 +207,22 @@
    "stories": [
     {
      "title": "Fujitsu's survey project to establish a next-generation digital infrastructure business framework in Singapore selected for METI's Global South Future-Oriented Co-creation Project Subsidy",
-     "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPTUFYV19KbzU3TGc5TUhfaXV5UkhoZjRyTGJ2Yng1d0kxNzJDeEJkajlmNk1zMmhfQlFKcHhHNldxRmYzS1pGOWpoQ1FtTzhoeDZUTTM1VjBZT2pVVHl0T0hkVTJlR3hnV1pKcWNOTURPWkNwRk9xWWsxZ0V1cDJzajZDQmhaVEtxcVc3d016bFdpTFd2Q3lXdlliWnJocHQwMUZWS3FUU1JZb1R2ZHZEd3dLTURRNkFzX0REQUxqSVdNejFCQWQ1QVhsRXNPMFh2UUhyRzBOS3ctRjJuOE5Rcnh5M3Z0WW9wZnlTRFNNWkRla3ZxR2JNOW1MZ25tU3FIb2ZUY0lZM2Yxc0dfTWZ4cnM0MDRkYU51eGI4Z0NMamZCcXVFUjNRd1luclFtREQ2OFA0MTJfc3FsVkxMQ0FiTHZQU1hDMVF5QVhSQkFrd2JvcEdHaVdoRUhaSjRZT0FHQUozTWpfRkRhMl9BdUVaMmZaMGdEdFEyQU04?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxOR0FOWnZ3RFlYcmVER1U1YXU5d2pUa2U4dnpDcnp4SW9EMkw3RDFQblJaUzZGS3lETS1xZk1EMmdtbEhuS3hYc1BObkZzQXpYYmRZaFdwOHpOSTA3Ync5eklEQWR2YjNCWURyMG43cUVCQmc1UFZmQTY0TUhfdWZpcnBxdjBfSTEwd2RBa3Vmdl9sN3RaTUJoZklxem1CYWJzTTNpbm1pWjNzUENFdE5RZjN3YUI5a1ZpbkRsc3pndTB1ejJOaG9RR0k3S2NSR0RyU2k2SHdFYmRTcXZmbjl3YWZpU01kNWhmanl0Y1BLYWlMUEx4Q1JhT0M0T19RZTVTa3QxOVVhMGo3aHYyTTBkenBaM2hYWUx5VVJrLTZWQk0tWHkwVDI0VEpzWkZYdl90akN6d2tBck80Mk1nR193dEJUV3IyNllXR3dlTTFJazhJZHJmcHdzZzM3MnBBX0R6aFNEVy0xcE4xYkRVQ29HUHFKaTdTY1dXUnB2QTJOWEhMWFVESGh4ZnVmcEZYM0NxRWxtbg?oc=5",
      "source": "TradingView",
      "published": "2026-11-05T02:12:00+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "Singapore"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "Microsoft, IMDA unveil digital sustainability guidelines to spur green software development",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb2NJWXl0VmtFZFBUYlo3X1JkR3lTZUtDQWlwWHhhdGVzX0dhUGVxZ3drN0JxSDdWbXEtLUt5Z3lCUWVFRHdHaEw5bW5fQkdDMHJMalpEMU5DTmpWdHJNMFVucTliVGlUelJjbUtPMGNJNDkzM1otTDBXZXV6QUhKOVdfbHZiWWhEbkVQZFpEelkxSFZzMnFQal9sZXVDSWR3MzJ1UFVtR3RiMmowTlBtRVRTaThzUUJxVXJBYzBKcE1QdEoyc0Z6N05ROGtQSjg?oc=5",
+     "source": "Singapore Economic Development Board (EDB)",
+     "published": "2026-11-03T08:00:00+00:00",
      "summary": "",
      "tags": [],
      "countries": [
@@ -240,6 +249,21 @@
   {
    "name": "Indonesia",
    "stories": [
+    {
+     "title": "Indonesia's One Data law to enable government data sharing, complement privacy rules",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSnVPdm81WTRKN3hEY0FGYmRmd01SMzZsZWVaLXZPdktUV0tNcHNNWWZ2R05qWWI0eWN3TlY5M1E3a1E0M2Y4RlFFb1RlN0hkeXdvWi03TXpaeFJreHl1NTA4T3ZmVVl1T05nRnl3LTRVLVlxR28zWDc4NEVZczloYjBwZmZ1WXZNek0yVG5VNW5WNW5SRVRxTlRiVzU0bjVIRTRQYVdBM1h2ODJCTzhGYTZuMGo2Q3MyZVBESUJnUUtwU2VL0gFaQVVfeXFMTnFaOXcwWm9iRXdka3pBRlVtM2RGSUhXY1dJZUNQNDQ5QTUxVmZQazl3bW5HRHV6MC1IVmdNMDZIUnRUS1hBZzd2aUw4Y2RhQm5BWDhXdGlpcWJB?oc=5",
+     "source": "MLex",
+     "published": "2026-11-06T02:21:41+00:00",
+     "summary": "",
+     "tags": [
+      "Data protection"
+     ],
+     "countries": [
+      "Indonesia"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "Komdigi Investigates Report of Alleged Fore Kopi Data Leak, Will Be Sanctioned?",
      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaN2YxeExZQzhpTlhYTWZlZ0hkTFdRaWpaR09GUDJlMVJEMzU1RE1pbzFEanhiNHdwdlV2MFJiaVl6Z3pRNkZTVWdBRdIBQkFVX3lxTFBjR3RabU4xS3NsUTFLSEdYM2lKM0otbVZKLVJxb0NZYjJMOFNqLWpoRnNLUzQ3b0FaZVZ1dzBKcmUwdw?oc=5",
@@ -273,32 +297,18 @@
      "closes": null
     },
     {
-     "title": "Uptime Institute And Indonesia Ministry Of Communication And Digital Affairs (KOMDIGI) Sign Letter Of Intent (LOI) To Support Data Center Policy, Governance, And Industry Development",
-     "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQaE1OVUhtbUt4QUlWYUZQM0M1dlYtRjRCYm94Vk10YjRQM3FOTTlzaHV6N0dhdFc3MzRHY01pR1VXLTUzc2VsVWRGemFwd3dRZTdOS1RTUW95eE1Bc2V3QVE4R201cUQ2UnhwYmtFQ2hpU2xteDZNS2p6VnJrN01sX1BzX0ppeVVfMlFGUXN5cngwNWh5cmxzeWtQT2xzMFFHamdUQy1taVoySmM2QVptbVdFQ1VpQ0lsc0g1M0gyemlUbTNxXzBZRHB5NkN4enAzM2VsRXRDOW14Wlo1V2dydUZTcDdXR3lxT0NnWnh6Y0dLeTZCU013d3IteGpmNGJ2LUdTdHVfZ3RraUxNNkNQUTRMOHBkTE5mNDk4a2todjFTZU5rTXNXWG5tUG9CQUE?oc=5",
-     "source": "Menafn",
-     "published": "2026-11-02T09:00:43+00:00",
+     "title": "Uptime Institute and Indonesia Ministry of Communication and Digital Affairs (KOMDIGI) Sign Letter of Intent (LOI) to Support Data Center Policy, Governance, and Industry Development",
+     "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQS2U2aWktWGRfeU1EUDJfWVVEN25RMWZjb0k5aHFEaUNtNThTYW1mUEZyaVpSdm9KT2dyMHF6ZGVlWGI4dlRJNTl6dnZRd185Q1loMF91RFRrcy1FM3U2YXRzb2RuaUpMSzM5bXFDY0hVS0M2bUxfTndMYnY0ZXhOWF9KVU9GS215SUZfT2pnVXZlbFFNaXpfbmFQdExFdDdNOFBuendWSV9sd21NN1BVMmVBRk84UzN4d2ZCZi1INGtwS1MyZDI4dnRtTzQ0OUJxNjdaMVpVQU4zMTVhYnhvMzBRMm9ObjZzV01STE1rUlhucEZrdGRUM1hlaTl1OTdDZ05vLTJ0MUlIM0ZoTjNrZThBZThqMTZDODhLeXhUR1FQV0wzRDhiY0RQVWxNVWJqRWlEU1p5SGE1R20tdUFrQlFsNXRCdXhnWWlMNw?oc=5",
+     "source": "Press Release Hub",
+     "published": "2026-11-02T05:08:13+00:00",
      "summary": "",
      "tags": [],
      "countries": [
       "Indonesia"
      ],
      "also": [
-      "Press Release Hub",
       "AFP.com"
      ],
-     "closes": null
-    },
-    {
-     "title": "Indonesia calls for ASEAN-Japan cooperation to combat cyber threats",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSW9hMk5ETzdhTi1zMmVfLUZ4M0hkTVJXbU1IeTlGV2w2OEJzWmFaUjRieFVYaUdkTFM3R0VPSXRhRk1DS1h0UllVVVVLdnB3UFotcDVScGkwUFFZMnJMdmR3OE80Mm04Vkk1OUg5RjZoZHk5dlpVd1dfa2RzakVNdHpxNTJfbEo5MUw3UzlnMEdoNk5qYUNNTnBxMlkzZExjQmZOZzM1U2zSAa4BQVVfeXFMTTcxX1pid2tyRVp6dWpZRGIzQ2JMX2Rtc2VPeGpWcWZMYzZRNXQ2aW16aFg1QlVQX2JoRVlXWUU3WGk2QW5fOGQ0OUYtM0duNGVEUk9kNkFFMmdxam1obWZLZ2JZQlN1WHNVNnJFaWNQaDAxSHBueFNGU1pUWW9WUW4ybG96blE3NGF3Q1hNbl9zcjhMVmxscVF2VE5DNXpNZlBxaFpBbk5VSDlJWm9B?oc=5",
-     "source": "ANTARA News",
-     "published": "2026-10-29T22:48:34+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Indonesia"
-     ],
-     "also": [],
      "closes": null
     }
    ]
@@ -336,8 +346,8 @@
    "stories": [
     {
      "title": "Australian Privacy Regulator Closes Inquiries into VIQ Solutions, Finds Incident Far Narrower Than Reported",
-     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdUM0My10Y3YzMTVweXRiM1B1OFl0blljc25vLTBvb2dDeW5GYXhIeHRxUTNBTUFrSGRhdUs3dUR1MTNkOXJjVnFndW1iUk1LNzhwcUdxcFZUb3p5TEl0dkd5NURsdGthYzNyNTNBMjlYaHVySmNNQmltMXpaSkt0MUVfSDFEVnhWUkhXSzFFaEl4MEU3VDZFdnNFTVFjalZfbVYwanhMWm5CNEJ6Z2ppdFFxNnc3TUU4UmI1TThFNnhEb0g4aU5nTXB0ZUU2d0l1V3pGeHV0UV9KWHQzZm1YR1VmWkctX29reEdUM04zUmQxX2wtdjFIcW0zWEJQQQ?oc=5",
-     "source": "TradingView",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcmxFRlAzSHNWdDN1X1Y2WC1CRC1UNEV5UzZRR0hYM3JULXZZbjdoUnp5Ty13dkt3THpTNmpxeDFSMXFNbGZpV0JWN3dYT01uSTNfSk4zWm80MDZLTGZpTkZqVjZwYzQ1RUdHU3hMVFZIWngtbV9WRGd1VG5iekhjck5yM1RlY1hYRmFLV0ZfLUdvQ3Z5VXIzTWFjclJ2TXowWTFuaHpVRU1vbnRWOEp6TEI2Mldxd2QzVm9qS0FhMnlKdDFUNjY0MFRCYlpkYm1FTEJ1VHJKb3ZUdmxwZ0MyMzM0ekY?oc=5",
+     "source": "TMX Newsfile",
      "published": "2026-11-05T12:30:00+00:00",
      "summary": "",
      "tags": [
@@ -351,8 +361,8 @@
     },
     {
      "title": "Australian court hears challenge from Reddit to social media ban",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYm9JZXprVzFRT2JGTG5mWmo1b21NR01obENWT3Q1RHpnckpZdXhHX2ZPSDZUUE84SnoyVTdaQUZZQUpybU4tdmx3a09jUFNwcHhDeUN3YzBaNEZvSUpjcU02alZYVE82NkpxX1ZBSERseVNYeGMzTFRuRXBGdjRwZGhkTFVTNGd2LThua3pKX1BZQkE4R0VJcFB4SllCTlF3RUJsckhaTmNLUQ?oc=5",
-     "source": "www.malaysiasun.com",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnhiVXlHbmJRWThGR1pZMlV5WDFicXpNMTIxMWlpNUZtaDZ5ZzJjS2dHaENFcE0xVENZQW5Ic3RoZHhrRDFZU2V5Y0Z0WUZZUzVDS3lHSVhoeEhtaGZTdWlyRWJ4aVY4M3RybmFzTENfZENBNm5XYkIweXdfUVUxby1JZV95RFJtSU0yRDRMVGV1TGFKNWRhU3JuQjBaT0V3ODhtTWI2cw?oc=5",
+     "source": "https://www.irishsun.com/",
      "published": "2026-11-05T04:31:00+00:00",
      "summary": "",
      "tags": [],
@@ -440,6 +450,37 @@
   {
    "name": "India",
    "stories": [
+    {
+     "title": "India's CERT-In issues AI safety guidelines restricting automatic permission assignment",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNalhiUm84Smd6Y0tKYllSb0VOdUJaZ2NabWZ3b0o2dTF0SkU0eFdtcUtUTkkxNXFzeFVVamExXzVPQmdndkMwcmljZGxCT3llWThHS2pNVHZzWEJkTTdXTWFJYnVELXdnd1I2b2loZjFmekJlSUxIa1lsWWNEYm16djJQbzBUWEFVU2Qzb2pSSW1KSTY3d0twbk5tYlMzNTBuWjc5OWtoODdZNng5YzVkU25kSDJjUFpjcGc4ZFlTWjR3WnRwaWQ4TkpnblRGZw?oc=5",
+     "source": "NewsBytes",
+     "published": "2026-11-06T00:43:54+00:00",
+     "summary": "",
+     "tags": [
+      "AI"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "The Right to Privacy in the Era of Artificial Intelligence: An Analysis of the Puttaswamy Judgment and India's Data Protection Framework",
+     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOR0RVUnBJX1ZJSlR3UjlGVXc5MDBLWjJXcjZTeVJHdkl2MWRWSjBjNTZyN1MxblhwSWM2eTZtZ0xWWnI1NGNDMy1kWmRkcFQ5MHBjcGlkM2lIUlM1VXBwYmpLa2JKWHEzdkh3c1FmenJLbXU1R1VMRkVOSWtRZWtJdDBXSnFHWGc2bzZKTTVDR1FBTXY3ckxBblN5RnVlUFljc1ZwOS1JcTdESWI1V19VVzRBdXUyWGxmRGRZbXpXaUxwdTIzMDZiQ1M4SjBjc0NxeUNWcGFwWnVaMzZ0R3FZeVFvOFNQUlNxMkg4TXp6RGJ1N2Z0Q1MzejVNX1lLbWRlc3RR?oc=5",
+     "source": "The Chenab Times",
+     "published": "2026-11-05T23:56:31+00:00",
+     "summary": "",
+     "tags": [
+      "AI",
+      "Data protection"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "CERT-In issues guidelines in India to prevent autonomous AI misuse",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFQ3aUhaWUZ0ZUp3UjUtdWVpcERiMDNtcUFzeTZaVXJ2aWhIbGdHM0dXdDAxN2FoVnFOSmpQVk93bVBpV2lLallVdHFSa2xRZVpHX0c0VHZpTFpEOVRPVEpadWxDS0Jtb1VUaUR6UWJmcVJvSFg2ZnFzdW5DZVdNSm5ybElPX1M5WHZFdXRVSHNyRXJBbHpNQ2sycmhtOFh5ZEdZUW1VSVlMeGRLRzQxUDVsdw?oc=5",
@@ -565,21 +606,6 @@
      "closes": null
     },
     {
-     "title": "SARC and DataSurity partner with Goa government to drive DPDP compliance; Ranu Gupta leads major data protection initiative",
-     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRHhSblM3RzJiZ09HX0NaeGdNR0VjY1dQYko0dE0zRUZ0QkZDT0EtQ2NRY1V2a2ZnVWxSemx5cjJjcnBFaGx0SUtlY1k4U002VF93RFpUbHFLanRXb0hWMFVfNF9sWnFWSEluY1h1M0JCczhTeUlBdmRGa1Y4WGFlMy1ib0RHX2c3NDEzc3FPTlVyRF9LR2F4SmxqblhMZHYzUUFXaE01Q3pSQkctbWx3Yk9FdlI5WDBjMHdmZlZlbXB2VEhEeUJxQjVVNXFsbkVmd3M3X0Zza3k2d1RtUGtiM21VMVRyUlNVcTRWdFcyRnh0cmJyRWRzQml30gH-AUFVX3lxTFBmeHYtVDkyVXlCcVprRlVrbWFTMklrRGZFeTNTX1QwTHVuTFZieDVwVnZFRFlPTkRiQXRVZ1dKNkwxWnNPTmV5c0QwcFkySF96ZW5tNkk2MGN2WGhqcEtkQ0pHZEhKR3ozMkRDTksyUGdITVZiNlZPSkVGRDFSU0hJNVZWNmNqdDBxX1puc3pVeEhNWGVwRDNmQjBnWmV2d0R0V3pkaWZUVjRUN1p2a2pZUk1LZU11SUxNTGdjUjFwQk9CZ2hEMVh3aDA0ZTUtQUlLSklBU0hZRzJVTk9wVDBOWVpJRjI2cTktQjBlUTJvMWVkVEx6bG1kcHVqakF3?oc=5",
-     "source": "The Tribune",
-     "published": "2026-11-03T12:47:32+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
      "title": "Data protection Act makes journalism harder in India. It also comes with a business problem",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOckk3WGw3SjMxRkVFNHZ5SkhBVS15NWJRQ3BwdFJNSTlFRjc4VEE1WFUyQTZaSWkteno0SEN0YWhqbWMzM25yMXRvNnd5TzBoaWNGRFVIcWlwRElGbHRybHROQ2FIYUpvdHl0U1l0SlM5RFhVUVo0bWIyVGpadm5oMTBFYnhtU29vR2pyNUpOTTRuUdIBlwFBVV95cUxPTTh0NDlTXzY5Q0RXWlFQeG5uaEJiUjRic181YVpQYWlzd0lsRVdpVklEaWFBSVF3eExvNE9jZDh0N2l1MV9KSzVkT00xWGFzWndMUDNGdkI2VlZTOFRhU2FQd3dkZmlZajJwUmpGV0FlNS14UzRINERabHJmbEVBNTF1N2RLTUlickVLenA3ak9kb0hTTmo4?oc=5",
      "source": "ThePrint",
@@ -588,35 +614,6 @@
      "tags": [
       "Data protection"
      ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Seqrite takes AI-powered DPDP compliance to SMBs with new NOVA offering",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ3pURlZ3VmMwS05qWDRuWXRqQ2NlRzYyYlA5VElLWjBiRXRMMmV4YURScndGc3ZQTkZJbWhtLTBqNmc1YURBV3N0NjQ4MTBWS2tOQ211cDVjdV9JeVp4ZkprNmpwM2g4R0xlQkY4ajJCX21BVDBRNWw4UUZBMDV6X1lPRTNjT1NEVUV5cnNDbTJzcHZVVmgwYW1KTE1PXzNwVzMxa1F1ZVVScWUzOXBjMw?oc=5",
-     "source": "CRN Asia",
-     "published": "2026-11-03T00:07:57+00:00",
-     "summary": "",
-     "tags": [
-      "AI",
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "MeitY Revises CRS FAQs: New BIS Certification Guidance for India",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGFFUzlvSzJmMVp6aUR6SE1MRm9qNElGNUJQUjgxYWh6ZGZaRkd0aklaTXZ1bEl5dkNIdmpvWTY1ZDJwMzdaQzRyaTdEZGVjOUFIaXZsVWZ4cnJuRWo5UTU1SVhad19LcjRESDJ1djdRX29PNGZLbWFoV2dqVWlZT0dRb3lXUmc5MGFlNXdvc0JOaC1hZWdldmVoWExvNDJxdDZDdmlXRVU?oc=5",
-     "source": "MPR India Certification",
-     "published": "2026-10-29T18:28:47+00:00",
-     "summary": "",
-     "tags": [],
      "countries": [
       "India"
      ],
@@ -643,8 +640,23 @@
      "closes": null
     },
     {
+     "title": "Asean chief leads call for regional cooperation on 'ethical, safe AI'",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcDBfalVvLVU3RWE1TGtvenI0TGhXWHRhRkV3WkZkNmc2NHdVMVE0Q2xQeFBEUEN3V25sODBmMS0tLWpfRjFkSWdwcTRXaFFUQV9TbUpCR29pLWRtSkdETk5GWUhBYTdtOTVUQWdvNkdIejJ0TFRLUnliZ2h4R2swS3lwZ1A2YXVGV0dhQ2U4WGdoVW1INGk1OFhVakxBWUpYTy1hQnBvanplb3hHaTM4dEtNVTZZVF9vb3fSAb8BQVVfeXFMUFhacVJldGZpVXF0NS1jbk1qR3pGMjNWNE8welJNR0hZTFdaelY0R0Zack42Ym51dlJIaXBOSFp4T0JraFA3a2dyMVZQMGJkcncyR0lRQm1tY1hyRWZJdWVSMU5LdkoxWVQxRzFoNG9FS2pwZjU4VWdrY3d5aGdYMkg2ZlFvR251OXJZQTlBMkFRbW5wQUlMUjRzSERZTDZOdEJMRXktZnU2SWE0Ry1DQ2IwNHJYOUdLeDFjWlJDQUU?oc=5",
+     "source": "The Manila Times",
+     "published": "2026-11-04T08:17:00+00:00",
+     "summary": "",
+     "tags": [
+      "AI"
+     ],
+     "countries": [
+      "ASEAN"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
      "title": "Indonesia encourages OIC members to boost digital economy cooperation",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMi0xVGcxOVBQUWxnUW9zYXJuUW9URzVYTndsZWZvaWZHQ1pna1FaVS1UZFVuOWY1VFhnTE1UQjFKWWRZY0FieENCYXNONUdUbkdmLTZUdVlfeUlCTHlXTTlEakQxT2FtN1R0QW1nM1dJOEpFdVFYZnY4TlBqM3l6QU9ER3A2X0hGeVdZSzNQdlllc05PSUxRdWJGSF91dU5jcjc1ZWtOVTBwSzJXTXhYNNIBsAFBVV95cUxQMi0xVGcxOVBQUWxnUW9zYXJuUW9URzVYTndsZWZvaWZHQ1pna1FaVS1UZFVuOWY1VFhnTE1UQjFKWWRZY0FieENCYXNONUdUbkdmLTZUdVlfeUlCTHlXTTlEakQxT2FtN1R0QW1nM1dJOEpFdVFYZnY4TlBqM3l6QU9ER3A2X0hGeVdZSzNQdlllc05PSUxRdWJGSF91dU5jcjc1ZWtOVTBwSzJXTXhYNA?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTjRJc2ptNWFNckJlbFhPQzgyU3M1SXRRajQ2RzVNTlViMzh1dVJTTWIyZlZtZEJCSzlZS3R6WUl3NE9uckV4VDgtZmRncng1WTFlTXV1ZjlVY0Q5Q3hfLUNsX0EyTHJFN292YnJRUEtqZVdRaUtSZ0xxVjI2UW1VeTlmWmpyaWlLZ2czRTNTTHRaOHBZTWxodzB3TXY5Ym9ZaFFlT3dQUGZQQWPSAbABQVVfeXFMUDItMVRnMTlQUFFsZ1Fvc2FyblFvVEc1WE53bGVmb2lmR0NaZ2tRWlUtVGRVbjlmNVRYZ0xNVEIxSllkWWNBYnhDQmFzTjVHVG5HZi02VHVZX3lJQkx5V005RGpEMU9hbTdUdEFtZzNXSThKRXVRWGZ2OE5QajN5ekFPREdwNl9IRnlXWUszUHZZZXNOT0lMUXViRkhfdXVOY3I3NWVrTlUwcEsyV014WDQ?oc=5",
      "source": "ANTARA News",
      "published": "2026-11-03T09:44:42+00:00",
      "summary": "",
