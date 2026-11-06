@@ -1,14 +1,65 @@
 {
- "generated": "2026-11-06T03:23:15+00:00",
+ "generated": "2026-11-06T16:43:09+00:00",
  "sections": [
   {
    "name": "Financial Sector",
    "stories": [
     {
-     "title": "RBI Consolidates Cybersecurity Rules For Digital Payment Operators",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUHRIbnFYc3RCUmEzMUVVVkpHWG4tY3AtRUxWTW44ZEF1VGxwd3NvSkJidmRtUjZKSmgxMHE2MkI1aERyNzZRc1gzbGdSc0xkdDRldkpxcFEyVFJ0MFlXOFVPRWZoR1ZwaU56di1UMF9aT1FkVF80TEg4V09jTVN6cUhGSG9BOHVpMkJXZTJ3?oc=5",
-     "source": "The 420.in",
-     "published": "2026-11-05T17:49:48+00:00",
+     "title": "RBI meets bankers amidst rising AI cyber-attacks, mandates security audits",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZlYwSlVhaVlTajB1bXJlUGR3N1dCWUNUOF92RHpxQzVzT2RobnZjbkVkVFNQbDlUTm12cVZNUE42UjlsTEZTSWJybE01a2xONHptWVQtYnphVkZHQ05ncS03ckd3TG16V0ttbjBaOGE3Rkk0RjRpbDNXeGlfOU5fUDJ3bXZuQUhLQXU4?oc=5",
+     "source": "MediaNama",
+     "published": "2026-11-06T13:37:11+00:00",
+     "summary": "",
+     "tags": [
+      "Finance",
+      "AI"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "RBI New Cyber Security Rules 2026: What Changes for Digital Payment Operators?",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmFIY3FUcnVWd2c2YThzcmM3azU4V2FoLXowcklQOTVVMGpYa0plb1FYQkVISGk0a2x2bXdhZk81YU1RWEMycVhXTGJzZmU4ZENOaWhFVFoyUkF3RTRKSHh0VjRkc1dWbVNFQjlUT0hEMFNJWk9Zby1ieFFua2wxUnJJeWhxWEJ3RjVxd3NrQzJPTnJ6anJ5QzNxallQZnUzQkJEYzlnR3k?oc=5",
+     "source": "Bankersadda",
+     "published": "2026-11-06T12:06:45+00:00",
+     "summary": "",
+     "tags": [
+      "Finance"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [
+      "Outlook Money",
+      "The 420.in"
+     ],
+     "closes": null
+    },
+    {
+     "title": "RBI Tightens Cybersecurity Regulations for Non-Bank Payment Operators, Mandates Six-Hour Incident...",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTFhPaVhfbjJlYjU3R25zemFJek9sTVJ4ZGdVeTYzcGlpUHB6Q3Y1eG1YdmpJVlU4WnVTQmtvdkJ4eF93UG1vVXlQYWJYUU9lZVlBSnh6OWhuMXhwR2xBYTRQQklnRDRYWklzV2xnaU1QRWtKd0YwajRFTzlXeGxRamoybnFCRzlDTVI1M0txWTJsajZsYVcxNDBFMVJUblo1M0RjTEFDRnpudENiNThtaGkxNy00TXhkOXRJY2doemF4eTZoLXBQQlVMVHZ3OUtabDN3V1FXS2tqMVlXekMxWFJJWTZGTEHSAewBQVVfeXFMTkhVeTJkV0gxY1dRV2luS1RJNV9zczVTYXdsNGJTMHRTT25MRmtEOGhLb3NhZW9VcWtNQUdXVGtQNGYtU1pwS0FJY1FxWlBJSC00N1pUSzNRSlNJTTY3MEdBamRJRWNlLTdxNENtY2NpN25JaXFqSDBVUGhPSVF6ZjY5empLdmxzc090N2ZScDV4TDV2NjJERW4wNFhiSi0wV0d1UkRkaXlfWGhibnRuOU1GM3dvVU9aWEdpX1UtUE4ybm95YVBOYTZ6QXdEVEgxbE1kbXJKcWRMX3BwQXZqU29TUml6OTk0a3dmSW4?oc=5",
+     "source": "PSU India",
+     "published": "2026-11-06T06:40:33+00:00",
+     "summary": "",
+     "tags": [
+      "Finance"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [
+      "bfsi.economictimes.indiatimes.com"
+     ],
+     "closes": null
+    },
+    {
+     "title": "RBI Issues Cyber Resilience Rules for Non-Bank PSOs",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EaVl0UUViLWJXOEZ0RHhBWEJJb19lWkxuMnVrcVpfa3lVSHVRaFlBblEwdmRXZ2h5bXQ1N2paSDYzQVptMWpFWGZDbkpwMzI2YzB6WUwwNW9ZUm1OSXIxOFJxTmE?oc=5",
+     "source": "Elets BFSI",
+     "published": "2026-11-06T04:18:47+00:00",
      "summary": "",
      "tags": [
       "Finance"
@@ -70,7 +121,7 @@
      "title": "RBI framework gives UPI fraud victims a path to zero liability",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX0lRX3RESmFPcVVpTzNPNDdRUFJyLW10YldPYkFYbElCeGdFR0VSMldMbG1Cei1DQ0E1YWl3dDJUV0tEMS1QNk9qbkdWQVZzMkp2SE9fZkdHeXhIR211V2dFYklSRkdfNExCdFRnVTJTLWVUMllITjJOQV9lOWtqZ01MOWZvc2w5NHhFak1tTU5SUEpFQ3VF?oc=5",
      "source": "Elets BFSI",
-     "published": "2026-11-03T08:00:00+00:00",
+     "published": "2026-11-03T05:36:36+00:00",
      "summary": "",
      "tags": [
       "Finance",
@@ -106,40 +157,6 @@
      "summary": "",
      "tags": [
       "Finance"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [
-      "The Times of India"
-     ],
-     "closes": null
-    },
-    {
-     "title": "Big Relief For Cyber Fraud Victims: Supreme Court Pushes RBI For Tougher Bank Rules",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTmlZaTlyQl83cHVmR29BTV9XcnRuSjdIXzBTMEtMYmZwSDFSam9Ob0lNVnlpelRSM3d4b1FEbzBJOHpwR2R6aVZ0QmhvOHpCZGdpSHM4X2ZHWWtSTEQxZ0lrWWJMM0dzblZ5b0ZvaXA2TWUzVDNvbk9VYTloaUtnMk9RQTBObXgzcHhJLWZqZHJ2MS0xeHNGMFBWQQ?oc=5",
-     "source": "Indian Masterminds",
-     "published": "2026-10-30T08:22:20+00:00",
-     "summary": "",
-     "tags": [
-      "Finance",
-      "Scams & fraud"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Bank fraud: 5 RBI rules to follow if money suddenly disappears from your account",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOGcxdmtnTWxNMFJoRW85MDIxdkN0TFVoSFR6RHlEREZvbXVQSWhBQVBzdkZWdnFSdkx4VnRhZ20xZUFzZXAwT0RqRW9LXy16MXZpU2oxVVdpWk5ZTmdPb19WS0FueWZIdVRCUHZ5ODRkU3Jza3plUmJ6RkxCYXN3czFEeHllUDFvRWh4YnM3UWxOQUlDaVlwdVBlVV93cmpBWUZLTDZnMjM3aGpyWllaRlpvblJVMVlKcGYxVFp5T29jcVBiMjh0S2FGYw?oc=5",
-     "source": "Zee Business",
-     "published": "2026-10-30T07:27:28+00:00",
-     "summary": "",
-     "tags": [
-      "Finance",
-      "Scams & fraud"
      ],
      "countries": [
       "India"
@@ -182,10 +199,10 @@
      "closes": null
     },
     {
-     "title": "MCMC probes ‘Vikke Lee’ for allegedly insulting Selangor sultan",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaG9NMkdhSTlIZHNNR2kwQkFtcjhwV2xkbnpyMEZDdTRocG1iQ2dUa2ppZ3pPY3pPYlR6WGlEWlJFRE5MRWdfbGRmYnRNYUU3cVlWZHBhVU1FQkxNQXVIMG5LRmJLSmJlc2N4UmozeGZTaXlubFI3NjBaVEplc0JrTFJaZ01RcjBybmlLVC1MLWh4cHpVWkM5dDFZQmpwWVptc0tfNm5NRGthTXZCUldNUE9tazVacVRr?oc=5",
-     "source": "Free Malaysia Today",
-     "published": "2026-11-03T15:01:00+00:00",
+     "title": "MCMC investigates Facebook user over post allegedly insulting Sultan of Selangor",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWTBpM0dnQTZHNkRBeGNRa0ItZ240RXZ6Rml0LVpybXNqd2I3WjFWcUlGN0pubUg3dUloUFpZaDNXY1ZQY3FUVTdXdHZfSDUxSVJMS1Y4eF9uODRQcGxweWlneU5faVA2VW5DYWJRVmpsSEhrYWxrRmJmREZIQlM2SmJCalhiV0d0NEh1eDRxSUZqNWl3Z1pPQTVnSHVHZWhmMEZOdlZwWTFQTGZjWTlzYl80SUJPY3hRaUE?oc=5",
+     "source": "The Sun Malaysia",
+     "published": "2026-11-03T13:20:22+00:00",
      "summary": "",
      "tags": [
       "Enforcement"
@@ -194,9 +211,8 @@
       "Malaysia"
      ],
      "also": [
-      "The Sun Malaysia",
       "Malay Mail",
-      "The Vibes"
+      "Free Malaysia Today"
      ],
      "closes": null
     }
@@ -205,19 +221,6 @@
   {
    "name": "Singapore",
    "stories": [
-    {
-     "title": "Fujitsu's survey project to establish a next-generation digital infrastructure business framework in Singapore selected for METI's Global South Future-Oriented Co-creation Project Subsidy",
-     "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxOR0FOWnZ3RFlYcmVER1U1YXU5d2pUa2U4dnpDcnp4SW9EMkw3RDFQblJaUzZGS3lETS1xZk1EMmdtbEhuS3hYc1BObkZzQXpYYmRZaFdwOHpOSTA3Ync5eklEQWR2YjNCWURyMG43cUVCQmc1UFZmQTY0TUhfdWZpcnBxdjBfSTEwd2RBa3Vmdl9sN3RaTUJoZklxem1CYWJzTTNpbm1pWjNzUENFdE5RZjN3YUI5a1ZpbkRsc3pndTB1ejJOaG9RR0k3S2NSR0RyU2k2SHdFYmRTcXZmbjl3YWZpU01kNWhmanl0Y1BLYWlMUEx4Q1JhT0M0T19RZTVTa3QxOVVhMGo3aHYyTTBkenBaM2hYWUx5VVJrLTZWQk0tWHkwVDI0VEpzWkZYdl90akN6d2tBck80Mk1nR193dEJUV3IyNllXR3dlTTFJazhJZHJmcHdzZzM3MnBBX0R6aFNEVy0xcE4xYkRVQ29HUHFKaTdTY1dXUnB2QTJOWEhMWFVESGh4ZnVmcEZYM0NxRWxtbg?oc=5",
-     "source": "TradingView",
-     "published": "2026-11-05T02:12:00+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Singapore"
-     ],
-     "also": [],
-     "closes": null
-    },
     {
      "title": "Microsoft, IMDA unveil digital sustainability guidelines to spur green software development",
      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb2NJWXl0VmtFZFBUYlo3X1JkR3lTZUtDQWlwWHhhdGVzX0dhUGVxZ3drN0JxSDdWbXEtLUt5Z3lCUWVFRHdHaEw5bW5fQkdDMHJMalpEMU5DTmpWdHJNMFVucTliVGlUelJjbUtPMGNJNDkzM1otTDBXZXV6QUhKOVdfbHZiWWhEbkVQZFpEelkxSFZzMnFQal9sZXVDSWR3MzJ1UFVtR3RiMmowTlBtRVRTaThzUUJxVXJBYzBKcE1QdEoyc0Z6N05ROGtQSjg?oc=5",
@@ -321,12 +324,13 @@
    "name": "Philippines",
    "stories": [
     {
-     "title": "Philippines probes suspected theft of 68gb of migrant worker data",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUV4U1Vwdi11VDlWRVJFYlYzWktzMEd6QmROR19FM3l1ZXpRSmVCQzhTZXV4d09kX0VqNGV1WE4yZkJkUThWTThNZ1hTSkpWTlFFUlhFcWNtRGlXQ1VhYmdMeWkxNzF5R2thbXN5VlRmWHk1eEI3OVVoQUxad203UTRvaU16ZU5zT2QtNWlIeHhTR2JzcFBtZklCOWNFOEVFdFU3TWxyYklBXzVzeF93VzFwdGZ2X3E0bDNyY3hR0gHTAUFVX3lxTFBTWkk5Zzc0WGV4bG4tTTdwdEc0cWlPdzlWNnU4Z2wxVDk3ekMxOEJzYlgxOE1RZmMyNjJ0eVdVQ19FZkwxNHhNNjdxOXU2bEI0dXJ6N3A0aVJpRXYzX2VFUW5zMDk5dEtFQUZTeUZxaUViLUNOOEZDNDViX295Y2lxaW1XNXBKdjJKRWVJSUplUFFucllGZFpnbHpTY0ZjdkRDZjlCX3FfQzI2T01uRGhILTlZczJoUjBnQXBrTGtfRS1mTkxKdk1VbFpodW5rU0ppN2s?oc=5",
-     "source": "Gulf News",
-     "published": "2026-10-30T05:25:10+00:00",
+     "title": "Philippine privacy watchdog probes reported data breaches in government agencies",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFVhUDhWSWF0Mkh2d2ZhX01fb2RockIwVFJ3YU5vMkpMd1V0bFRPb0pjM0hiSDFvT1hiYWhRTkEtZUFiTkVGb3RIVUFvbFlRSlBiXy1qdDJmd1ppV05udzdROVg3VWF6MkExb3pjb2tHNFVQSmNKZFRIUFhOZ2gxVW1FcU5vR3JWU0dhQTg5VUNHYlZ1VXZMbWRyeTVFUklsb05DY3BSVy1mR041Q0E?oc=5",
+     "source": "thechronicle.com.ph",
+     "published": "2026-11-06T07:17:48+00:00",
      "summary": "",
      "tags": [
+      "Data protection",
       "Enforcement"
      ],
      "countries": [
@@ -344,6 +348,21 @@
   {
    "name": "Australia",
    "stories": [
+    {
+     "title": "VIQ Solutions Inc. (VQS) Faces No OAIC Investigation or Regulatory Action",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbXlSZTdnVHozdVlPWjVWM1puanVZQXlESHFqZGdzLTdDcnpQM0hfcGJ2OHdkbkdWYUNwaXc3Y1Qzd3hQbjEta29vNG5iQ1YtZ0E0TFFjQ3J4VDRYRXF1Z0JUOVdWbWg0dzNIeTNSYmNvUFlFbmJFLWxzWko5QnRRX2ZXZDk5NVczMkZ6Rm1RVnpKSzg2bzY2NmpuMURkQjRLVEFvVlZhdUlwM1dneWszWXg0VU1LNEpBeEdERXNpM0MtaFQ4RGItNGx0QXc?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-05T12:30:00+00:00",
+     "summary": "",
+     "tags": [
+      "Enforcement"
+     ],
+     "countries": [
+      "Australia"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "Australian Privacy Regulator Closes Inquiries into VIQ Solutions, Finds Incident Far Narrower Than Reported",
      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcmxFRlAzSHNWdDN1X1Y2WC1CRC1UNEV5UzZRR0hYM3JULXZZbjdoUnp5Ty13dkt3THpTNmpxeDFSMXFNbGZpV0JWN3dYT01uSTNfSk4zWm80MDZLTGZpTkZqVjZwYzQ1RUdHU3hMVFZIWngtbV9WRGd1VG5iekhjck5yM1RlY1hYRmFLV0ZfLUdvQ3Z5VXIzTWFjclJ2TXowWTFuaHpVRU1vbnRWOEp6TEI2Mldxd2QzVm9qS0FhMnlKdDFUNjY0MFRCYlpkYm1FTEJ1VHJKb3ZUdmxwZ0MyMzM0ekY?oc=5",
@@ -451,6 +470,22 @@
    "name": "India",
    "stories": [
     {
+     "title": "How Do India's IT Act and DPDP Act Apply to Businesses Using AI?",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTW9iMVBsczFfaXNSWUpiVFZ0VG9yZjFLNXhoZmIyZnlFTEEtU0kwRUVXYVVOY0VsMmgwN1B2MkNGcVctNUQwNk5JSlQ5dlNGMlFyT2h5X0VhalJtNU1PQWFQdzhnVV9pVkJxQnRLbWc2c3hTSXNra2dxbUQ3Wmlxc1QzUjAyRkFrZWJ3?oc=5",
+     "source": "India Briefing",
+     "published": "2026-11-06T12:19:31+00:00",
+     "summary": "",
+     "tags": [
+      "AI",
+      "Data protection"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
      "title": "India's CERT-In issues AI safety guidelines restricting automatic permission assignment",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNalhiUm84Smd6Y0tKYllSb0VOdUJaZ2NabWZ3b0o2dTF0SkU0eFdtcUtUTkkxNXFzeFVVamExXzVPQmdndkMwcmljZGxCT3llWThHS2pNVHZzWEJkTTdXTWFJYnVELXdnd1I2b2loZjFmekJlSUxIa1lsWWNEYm16djJQbzBUWEFVU2Qzb2pSSW1KSTY3d0twbk5tYlMzNTBuWjc5OWtoODdZNng5YzVkU25kSDJjUFpjcGc4ZFlTWjR3WnRwaWQ4TkpnblRGZw?oc=5",
      "source": "NewsBytes",
@@ -546,26 +581,10 @@
      "closes": null
     },
     {
-     "title": "India's MeitY releases draft AI training framework for preapproval",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPczU3UmhpT09PMzVjVnMycTc2cHdFSjF6U3VIREx2UjBXUlZtLS0wdTJHMDBtYnJrUVJzWGw4YVB4eEkzMXh1T2RZSXYtd3owRVlqczFZMVc4dkIzZWhJN1d4NGFVSnZ4anpCeXRYR2lUa3JUYmFqV2hIeE5lVXpiX1R6aTNMR2twVXhHdWV2MlhlbVlwYXhQNzlDZS1LMEZSdHA5d1Z5RTBaRUV4bnlURkFn?oc=5",
-     "source": "NewsBytes",
-     "published": "2026-11-04T06:45:28+00:00",
-     "summary": "",
-     "tags": [
-      "Consultation",
-      "AI"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
      "title": "CERT-In gets Mythos access; to assess its use in measured manner: IT Ministry sources",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUEZfVlhocExoa3ptNTQxMGdRNVlkcGpLdGpSSC1PcXZ0X1BuMXFpLW1UVURtSVhiU3dObTFHMzktekl3ZllsNTlmbkthelA4eHRINndHQmZZcldfbGwtZ1IxZnFCMzNfRDBVOURtbk1KWlBhMExhNkwxZE1Hc2xja3pOeVdhLUZFTmhva0VkT0NMbEUyVTBHZWpPeTRudWJrNzEzdVhELXRZeDhaYmtWX1NhU2NPVHRrX3VDZDl1MUp3Y09zNWVVVDBZMFhsUnhGNWliM0dHdG41YW5sa3p1Z2tfWmRwLVdaaThpbjFnYl9vUdIB8gFBVV95cUxPUEZfVlhocExoa3ptNTQxMGdRNVlkcGpLdGpSSC1PcXZ0X1BuMXFpLW1UVURtSVhiU3dObTFHMzktekl3ZllsNTlmbkthelA4eHRINndHQmZZcldfbGwtZ1IxZnFCMzNfRDBVOURtbk1KWlBhMExhNkwxZE1Hc2xja3pOeVdhLUZFTmhva0VkT0NMbEUyVTBHZWpPeTRudWJrNzEzdVhELXRZeDhaYmtWX1NhU2NPVHRrX3VDZDl1MUp3Y09zNWVVVDBZMFhsUnhGNWliM0dHdG41YW5sa3p1Z2tfWmRwLVdaaThpbjFnYl9vUQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQ19iTzl1SzVCWVZHWnZOT2pEUW1XNmhFa21WdHgtNG1vMDJiTnhfSkx4Mjl0cnd0SHVTQl9SdnczX0JDR3lGT2hKcl96MklHUUVvVkl2WWloNDJ4OG0ta2tVX3VNVmdsbGxEeUhsUDF6VmpBd3NzUFQwUTRLM2pDX1dJeHNJMVlVc2prUVY3Y0x5TW9Sc1NBOGg4ZGlVZ2VlY3UwQVkyckFuZXFPbEh3ZXZSQmJObzBwdG45eGVicXBGbE5tdEYxcHFybzlpSjVLQ0xHNXFUbXVjdmFuZ3h6NWVvcUJhUlZwVFBONtIB8gFBVV95cUxPUEZfVlhocExoa3ptNTQxMGdRNVlkcGpLdGpSSC1PcXZ0X1BuMXFpLW1UVURtSVhiU3dObTFHMzktekl3ZllsNTlmbkthelA4eHRINndHQmZZcldfbGwtZ1IxZnFCMzNfRDBVOURtbk1KWlBhMExhNkwxZE1Hc2xja3pOeVdhLUZFTmhva0VkT0NMbEUyVTBHZWpPeTRudWJrNzEzdVhELXRZeDhaYmtWX1NhU2NPVHRrX3VDZDl1MUp3Y09zNWVVVDBZMFhsUnhGNWliM0dHdG41YW5sa3p1Z2tfWmRwLVdaaThpbjFnYl9vUQ?oc=5",
      "source": "ET Government",
-     "published": "2026-11-04T04:40:31+00:00",
+     "published": "2026-11-04T05:54:44+00:00",
      "summary": "",
      "tags": [],
      "countries": [
