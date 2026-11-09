@@ -1,9 +1,58 @@
 {
- "generated": "2026-11-09T05:39:46+00:00",
+ "generated": "2026-11-09T19:45:01+00:00",
  "sections": [
   {
    "name": "Financial Sector",
    "stories": [
+    {
+     "title": "SAT upholds SEBI fraud findings against former Ricoh India CEO Takano, cuts penalty to Rs 10 lakh",
+     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb254V2pMS2d5OGtCdXdLZnpJanl1eUdfem5iNDBqcHI0TzZwLTVWUnliNHhtLWlmc21KeXR1a2g3LWgyc1UzRjFWcnhXZ2JCbkt6bUNmb2ZxeEJFTWdiUWJHQVV1dldYcmQ2Wko3X1A2QTRfNXIyeWdiZmtBQ3lMaUpaTmhTaDhqTU1ucExBb0hLRTRLMElzRTBGQlJHazRWd2E4VDEzTkdNTXN1NVZnTkF2ZVhpVkNIZV85TW9pS2hkR1NyQlY0WEw1elQzbEVJREVtNWctZnM0Z3kzNXE3ZXllQjY5TjlhV3cyTVlOaERVQ3drMmNBN9IB-AFBVV95cUxNb254V2pMS2d5OGtCdXdLZnpJanl1eUdfem5iNDBqcHI0TzZwLTVWUnliNHhtLWlmc21KeXR1a2g3LWgyc1UzRjFWcnhXZ2JCbkt6bUNmb2ZxeEJFTWdiUWJHQVV1dldYcmQ2Wko3X1A2QTRfNXIyeWdiZmtBQ3lMaUpaTmhTaDhqTU1ucExBb0hLRTRLMElzRTBGQlJHazRWd2E4VDEzTkdNTXN1NVZnTkF2ZVhpVkNIZV85TW9pS2hkR1NyQlY0WEw1elQzbEVJREVtNWctZnM0Z3kzNXE3ZXllQjY5TjlhV3cyTVlOaERVQ3drMmNBNw?oc=5",
+     "source": "Moneycontrol.com",
+     "published": "2026-11-09T10:57:30+00:00",
+     "summary": "",
+     "tags": [
+      "Finance",
+      "Scams & fraud",
+      "Enforcement"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "Bank of Thailand orders banks to tighten cyber defences after overseas attacks",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVA4aFU1WGZTa1ZpQTl1UXU0UGlnNGRtNmgyZ0N6MkxPQ3NjemV2Z0hIblFSblVkVDJ1WlBNOTdBM2hpSUpfd0V4eWs0TDNhNi1EeC1aMnpkMWtKZUNpajBBVjBmLXpIeW41MDlLN216UGI1Y1pkWTBUNm42cU5scTV2MEhSU0Q2T0d0SC1aNUdLM1d1LWtB?oc=5",
+     "source": "Thaiger",
+     "published": "2026-11-09T08:49:15+00:00",
+     "summary": "",
+     "tags": [
+      "Finance"
+     ],
+     "countries": [
+      "Thailand"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "Lowdown: What RBI’s consolidated cyber security rules mean for payment apps and users",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamtFdUlGMjNIVnQwd2F5MjJBd3NRa2kwVllLZUFvcGY4TVFCTU1rRUFldHM1ZXh5VVB6S3BqUDJfNWd3UFF3bXhqdHp6Skk0RDlHUHhvcHhVc1ZsNHRvOG9BNEM4VlNxNlZncmk4YUNwZE5BVnNBS2tMaHVlZzJfNVE0SWs3MDhy?oc=5",
+     "source": "MediaNama",
+     "published": "2026-11-09T07:06:07+00:00",
+     "summary": "",
+     "tags": [
+      "Finance"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [
+      "Bankersadda"
+     ],
+     "closes": null
+    },
     {
      "title": "RBI Tightens Cybersecurity Rules for Payment Firms",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmdRbmc4U2U4cEJiTjc4UzNBYWtvVld0ZUJtTVV0NmE3N1RJQVdVVkhxakZhZVdsaHlocUZkaUEzODhiWTRWOGxzOUNtV2k1UW41UkNjS1FkV25yNDBEWElYYUtHYWhKSkdscG9SQ0dkN1QyMTI3M0dLWG53YzZfbTMxVVBwVmk5cnlWTmlZQmYzQndJd0FEbFRMZw?oc=5",
@@ -18,7 +67,6 @@
      ],
      "also": [
       "NDTV Profit",
-      "PSU India",
       "bfsi.economictimes.indiatimes.com",
       "The 420.in"
      ],
@@ -56,10 +104,10 @@
      "closes": null
     },
     {
-     "title": "RBI New Cyber Security Rules 2026: What Changes for Digital Payment Operators?",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmFIY3FUcnVWd2c2YThzcmM3azU4V2FoLXowcklQOTVVMGpYa0plb1FYQkVISGk0a2x2bXdhZk81YU1RWEMycVhXTGJzZmU4ZENOaWhFVFoyUkF3RTRKSHh0VjRkc1dWbVNFQjlUT0hEMFNJWk9Zby1ieFFua2wxUnJJeWhxWEJ3RjVxd3NrQzJPTnJ6anJ5QzNxallQZnUzQkJEYzlnR3k?oc=5",
-     "source": "Bankersadda",
-     "published": "2026-11-06T12:06:45+00:00",
+     "title": "RBI Issues New Cyber Security Rules For Non-Bank Payment Operators, Sets Audit Deadlines",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUkF4a0thTEczdlZBLVktcnVUdzJieVRQeWNydlZfUWtMMVF6cXRQOXVzb0V3X09sVzdRTUN6aTRqYXBSRUZIaks4TEZ3YWVTSXNJbGZORHN0WHFTV3poVnRtcUxQa0lOd2FsQTZEc05XRS1hZlF3bmJmZjZpd0hjak5oV1Q2a0ZadG1xUUNSZEZqYm44LW9sbEtWZWRQb2J1UGRack9OY0hPR2VSMnNNcjh1X1I4LUVRazlRaDQ2Uk9QQdIBzwFBVV95cUxOcnJGTkJpUEp2NlZnTWpqYzVYRWU2V29SRDlORGpNOEdxTVRtcDJobm1NV1BrUVBEZ1VlUHJrNHNyczZQbFB5c3JhWmtaV1o1SDE2QW9iMDlpa0FiSmtJTm5CWlNqekdIc2ExTHh2WUxEMHZsWUR2eHBxSmFNbHUtWXNzRUwwZVUyRE5DemhwcW5RWVlFUC1fbW5MUnRacTA4X2VFY0YtMTRyRmx6TkFGM3l5ZHFkZ2phVzJHTW9YVXIzbjZ2VFJWdHBFMmRBUFU?oc=5",
+     "source": "Outlook Money",
+     "published": "2026-11-06T06:08:53+00:00",
      "summary": "",
      "tags": [
       "Finance"
@@ -68,38 +116,9 @@
       "India"
      ],
      "also": [
-      "Outlook Money"
+      "Elets BFSI",
+      "Business Upturn"
      ],
-     "closes": null
-    },
-    {
-     "title": "RBI Issues Cyber Resilience Rules for Non-Bank PSOs",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EaVl0UUViLWJXOEZ0RHhBWEJJb19lWkxuMnVrcVpfa3lVSHVRaFlBblEwdmRXZ2h5bXQ1N2paSDYzQVptMWpFWGZDbkpwMzI2YzB6WUwwNW9ZUm1OSXIxOFJxTmE?oc=5",
-     "source": "Elets BFSI",
-     "published": "2026-11-06T04:18:47+00:00",
-     "summary": "",
-     "tags": [
-      "Finance"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "RBI’s cyber resilience framework sets security requirements for non-bank payment operators",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONF9JYW5vc3BSaE5sNUxyT1dobE81cjRMNEJRUUlrMmNnd2ZmWjR6LTlmXzBIeVZBOWFucURScjdQeHFWRVpWRHRlLWVhY3llbTE2QUYxRWpQY3FKNUxDbkN2UWpXWlF0ZlhnbWhQNmZkb0FTMlhpU0dGT0tQektHVnA1UDNJaENpdWNRbks4U0F5M2l3RDdiWU0wMXdjY00wN3gtRWhoZzJSakZ0cUFtX2VCanVJQmZvNkl5djNIOExYSTQ?oc=5",
-     "source": "Business Upturn",
-     "published": "2026-11-05T14:07:36+00:00",
-     "summary": "",
-     "tags": [
-      "Finance"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
      "closes": null
     },
     {
@@ -254,7 +273,7 @@
     },
     {
      "title": "Fujitsu's survey project to establish a next-generation digital infrastructure business framework in Singapore selected for METI's Global South Future-Oriented Co-creation Project Subsidy",
-     "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxOR0FOWnZ3RFlYcmVER1U1YXU5d2pUa2U4dnpDcnp4SW9EMkw3RDFQblJaUzZGS3lETS1xZk1EMmdtbEhuS3hYc1BObkZzQXpYYmRZaFdwOHpOSTA3Ync5eklEQWR2YjNCWURyMG43cUVCQmc1UFZmQTY0TUhfdWZpcnBxdjBfSTEwd2RBa3Vmdl9sN3RaTUJoZklxem1CYWJzTTNpbm1pWjNzUENFdE5RZjN3YUI5a1ZpbkRsc3pndTB1ejJOaG9RR0k3S2NSR0RyU2k2SHdFYmRTcXZmbjl3YWZpU01kNWhmanl0Y1BLYWlMUEx4Q1JhT0M0T19RZTVTa3QxOVVhMGo3aHYyTTBkenBaM2hYWUx5VVJrLTZWQk0tWHkwVDI0VEpzWkZYdl90akN6d2tBck80Mk1nR193dEJUV3IyNllXR3dlTTFJazhJZHJmcHdzZzM3MnBBX0R6aFNEVy0xcE4xYkRVQ29HUHFKaTdTY1dXUnB2QTJOWEhMWFVESGh4ZnVmcEZYM0NxRWxtbg?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPTUFYV19KbzU3TGc5TUhfaXV5UkhoZjRyTGJ2Yng1d0kxNzJDeEJkajlmNk1zMmhfQlFKcHhHNldxRmYzS1pGOWpoQ1FtTzhoeDZUTTM1VjBZT2pVVHl0T0hkVTJlR3hnV1pKcWNOTURPWkNwRk9xWWsxZ0V1cDJzajZDQmhaVEtxcVc3d016bFdpTFd2Q3lXdlliWnJocHQwMUZWS3FUU1JZb1R2ZHZEd3dLTURRNkFzX0REQUxqSVdNejFCQWQ1QVhsRXNPMFh2UUhyRzBOS3ctRjJuOE5Rcnh5M3Z0WW9wZnlTRFNNWkRla3ZxR2JNOW1MZ25tU3FIb2ZUY0lZM2Yxc0dfTWZ4cnM0MDRkYU51eGI4Z0NMamZCcXVFUjNRd1luclFtREQ2OFA0MTJfc3FsVkxMQ0FiTHZQU1hDMVF5QVhSQkFrd2JvcEdHaVdoRUhaSjRZT0FHQUozTWpfRkRhMl9BdUVaMmZaMGdEdFEyQU04?oc=5",
      "source": "TradingView",
      "published": "2026-11-05T02:12:00+00:00",
      "summary": "",
@@ -293,19 +312,6 @@
       "New law",
       "Data protection"
      ],
-     "countries": [
-      "Indonesia"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Uptime Institute and Indonesia Ministry of Communication and Digital Affairs (KOMDIGI) Sign Letter of Intent (LOI) to Support Data Center Policy, Governance, and Industry Development",
-     "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPajNYNm5TUWhITm92OElmNjN5czlTYXhsYWwzT2JuOWFkWFUxaF83cWxmQmVVbzJsMG84QmJwaXA4cXp3WGdpVmlJZ3BHbVIwZjU2VmdtQkp0M2cxSzE0YWNEUGYzanZERlJ1Z0tvUTkzTUM3VnJEcmY4R25uYUV2aldHMElXWTBFTWdMLWJ5RlpYVjNSb1JzYTA4QkVkUEdJWmM4dTZEMzE5NzlnLTJ1bzJpNC1sck05Tmx0SjkyNWV6N204c2thMDNZWVNPbUNpbXZSLWJ2bFNoLUdDMmZ2bGdTUWFiaHZxbU5kLURTMVAwYlpzdC1uZ1VyZVpSblVJSHNjTHA5bS1vM1R4OUxDWFVjd1RKWS1GVEdPT0JfVDZSR0M5?oc=5",
-     "source": "01net",
-     "published": "2026-11-02T08:04:00+00:00",
-     "summary": "",
-     "tags": [],
      "countries": [
       "Indonesia"
      ],
@@ -359,7 +365,40 @@
   },
   {
    "name": "Vietnam",
-   "stories": []
+   "stories": [
+    {
+     "title": "Ericsson eyes stronger cooperation with Vietnam in 5G and cybersecurity",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd1JaOHZJUTlRaFdoVk8tbVBiVGFyNkdQbTVzTk1iRVE2V0FHX1VScUFLb1pQYWtEM05LclctV0Rna0VtRFc3eGJLT1RMZnhKTmJzR0pLUjA1SjFNN3ZES3JPZy1RTUFGYlFQV01MT2prVmdxeFZDSTBRU0p4UHM3MnRXRXFmbmlER0FOTkRHMGMyUW5DSGxBRkp1bFRDWm16YXF1LXFSQm9qa3RnYmV5bHgzaE5pTXZxZ3k3TmtKYTBVV3BaNTBZSGtlMlI?oc=5",
+     "source": "VOV.VN",
+     "published": "2026-11-09T13:41:17+00:00",
+     "summary": "",
+     "tags": [
+      "Telecom"
+     ],
+     "countries": [
+      "Vietnam"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "Vietnam and Sweden promote cooperation on telecommunications infrastructure and cybersecurity.",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjQyWE94dkdWVndoX0JhMEZrNDVuQVRiZmh2QzhoN2RGYjZtLTRjemNSczkxckJSa3JnM3piSEdIcEVPQ3VMVUxxTXpVZE9OVW50THBlQzdudTZTcmpnT3E4X0hwT3FoX2E2dEFJVll4U0Q3NTdrbi1fY2c1MjcwNWdEYTNuZDdreEROaDJNcHItT2l5V3hLc2J0OHVzSU9P?oc=5",
+     "source": "Vietnam.vn",
+     "published": "2026-11-09T13:07:11+00:00",
+     "summary": "",
+     "tags": [
+      "Telecom"
+     ],
+     "countries": [
+      "Vietnam"
+     ],
+     "also": [
+      "Vietnam+ (VietnamPlus)"
+     ],
+     "closes": null
+    }
+   ]
   },
   {
    "name": "Australia",
@@ -410,22 +449,6 @@
      "closes": null
     },
     {
-     "title": "Australian court hears challenge from Reddit to social media ban",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa01hRTBSd1lac2gza0paeWhfNnUwSDI5TkZYUkZFUXRGb0FxSHFpNnFrTC1zSG56bmw5VkMxenZ0bV9DUkJfSXpKT2tjaWZEUDBTR0F4alZ3SU5kNEVmTmk3TUlTb2R6Q0tSRWZfWXZQQ2lKR2taanlZVXl3SFM5My1feGVzUWlkZlViTG8tWTdOZDF4dkprdE5n?oc=5",
-     "source": "www.indiagazette.com",
-     "published": "2026-11-05T04:31:00+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Australia"
-     ],
-     "also": [
-      "PYMNTS.com",
-      "The Times of India"
-     ],
-     "closes": null
-    },
-    {
      "title": "No OAIC probe of collapsed VIQ over court transcription work in India",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFBGcGxzNUtRWXFraW9BV252WjRqd3Q1WWlJNUtROXBkbDF6NUo5eS1yczRzS1YwNm5OQWNYam9qZGFQTm9KUDJVYlpZUDVRQ2VjUy03OUhhU0dCMmc3T05QdjFlWVA4eFdmYmNQWTlVeGREU0dZelpFdGxpUVUxLUN1N1BZZG5ZUUF4RW9La3R1Sl92M0lkaFg4U1FSc3M0YUI1TEJSR1YwM2s?oc=5",
      "source": "iTnews",
@@ -454,12 +477,42 @@
      ],
      "also": [],
      "closes": null
+    },
+    {
+     "title": "CPI | Reddit Takes Australia’s Teen Social Media Ban to High Court",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbk5RLTBOOWp5RTlLT3JRTWxZVEVVVVViSmdkcGhaMmxPdFBEU00tNmNuRF94NmRzdXZMU2hIQUdZU1J3NVhuczkxNi15aXVXZ3RvNVRCRG1xa1BocjhBTEVscEVSWkpiNG9OT3J5Z2lKTlJYMmNHTUJpLVY1bFpOaXVkS3NSWmtJZmtMWW5JYUJ6ZFF0cFNzZg?oc=5",
+     "source": "PYMNTS.com",
+     "published": "2026-11-03T20:02:20+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "Australia"
+     ],
+     "also": [
+      "The Times of India"
+     ],
+     "closes": null
     }
    ]
   },
   {
    "name": "India",
    "stories": [
+    {
+     "title": "India’s CERT-In issues AI Security Auditing guidelines targeting model poisoning, prompt injection, agentic AI threats",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYXJ4OXpxRmpMakVrMDhrdHk4REU3Ti1yQUZmZVMwbGFtaUFFcWFkemxxVDZEWVpYU2x1WENEQmxOcVp0MEhPS2RqUHZJaWFNSVJVMU5KTVUwNm1ZSUtZNE9UZnN4dXNCcWdRc0JNZFFFaGRvRDJLUWJRSER4eXRTY3hacFlkUVBrMzVOcHVDZFZMNzhhLXhKRktWWFlSbGttQU84NmtxWE5YbUs4UEJqdF9kYk9CYS1PYVRXcGw2dWlieENTM1ZJNVFkY0JiLU1BVC1SMXQzYm1VZk1UN2Zn?oc=5",
+     "source": "Industrial Cyber",
+     "published": "2026-11-09T08:46:36+00:00",
+     "summary": "",
+     "tags": [
+      "AI"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "DPDP Act: Journalists, newsrooms not covered under data protection law",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdmZiUjZhSW1Da3Z2ZFFOb0QtQ3Npd3BxdlpfdXB0eUFFNlRmdFVEYzNxYVYyOGdoZUpjZDhuMy04bkhTLUw4REJXajB1QTVXS3VQeXZDNjFRTFZQVFNYSWFkZGZUNkg2c0VKWEt6VGpPZWpCOXZKS1NDRGxoT1Z4R01jejI0SW5hUHpwdnZfQ0NBUkQySVpxQlp1SGw3eXRSWWM3WDBmei02NXA4Ri1yX2xYOG12V3c30gG-AUFVX3lxTE42MW1BZWVxYUxJVGRUdmFZREFsekhiN2ZJcVNOaXllTUZZYjZCSTZFcnJCemhQUXJkbnBWb1RoWVhoREVTcjRCT1MyQXBrMkZZelRwSDREOVhWbW1zRGg4QVZVNjQ4S25wTktnMVFzbkJ6ZkhsZTVDcUhHVGhmejNNVElzOTEtNkpTZE5COFk5cjh2TnBNRXdIRzJUOVpCblA0R21pNWstS2tLdEVpSnBIVlhBeHZlY0dISHFOTmc?oc=5",
@@ -509,6 +562,21 @@
      "closes": null
     },
     {
+     "title": "India’s DPDP Rules and GCC Employment Data: Why HR Compliance Needs a Privacy Reset",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS2t6NV9yY0V2OW5JdTNrYVA1TUFuOWhybkoyenNIT0xnWXpFUmRsUFl5d2JZbTdjeGVxWWxvaHJXYkhCaUstdFpIT0xKc0RlZm1CZkY3VFFhOVZzNTItNmFtUEhtTDhzNDhic2RRWk4tSmZCaXpna1p3clVwWWhlYTVtOGRvRlJOQ1g5Q2YxUVZ3cWtwMGNWSkN4aGpQbHBYU1RUYzZ4TnJ0OHVlNzYzN2RNUHE4SlROYmFIc1lCd1lGVVNY?oc=5",
+     "source": "Nasscom",
+     "published": "2026-11-06T09:00:01+00:00",
+     "summary": "",
+     "tags": [
+      "Data protection"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
      "title": "India's CERT-In issues AI safety guidelines restricting automatic permission assignment",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNalhiUm84Smd6Y0tKYllSb0VOdUJaZ2NabWZ3b0o2dTF0SkU0eFdtcUtUTkkxNXFzeFVVamExXzVPQmdndkMwcmljZGxCT3llWThHS2pNVHZzWEJkTTdXTWFJYnVELXdnd1I2b2loZjFmekJlSUxIa1lsWWNEYm16djJQbzBUWEFVU2Qzb2pSSW1KSTY3d0twbk5tYlMzNTBuWjc5OWtoODdZNng5YzVkU25kSDJjUFpjcGc4ZFlTWjR3WnRwaWQ4TkpnblRGZw?oc=5",
      "source": "NewsBytes",
@@ -535,9 +603,7 @@
      "countries": [
       "India"
      ],
-     "also": [
-      "Hindustan Times"
-     ],
+     "also": [],
      "closes": null
     },
     {
@@ -585,21 +651,6 @@
      "closes": null
     },
     {
-     "title": "India plans indigenous GPU chips in 24 months, says MeitY Secretary S Krishnan on AI strategy",
-     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZkQ4RDB2Y1JyN3Jwd3RNZUFoNUpIQnMwektMQlBaZWw2dmRCZElwNmNJaGdYNG45SWJRYndweXNHZlVDaGFHVGxwZVVqSDlHTDVfUnhHaDVjMjczS0dPb0lpNWtuRmgzSkp0OXczNkdWdmU1elhrUkc5SjJTOUt5OXRnWDlSdGpFNW9XcWpJbDFiUWZYTzQ2OU9sSVRqZV9EV1ZZbTRoRmczd3lwRGFnUmpEZVBOZGFwR2FvazZ2bnJPT1RDbjM1SEF3NjZFYjdNdWRhWFdwU2h3RjRNV1hTSk1VaGdRVXJ4SEc5ZGRyR3dWdWhxX08wVm11QnHSAYICQVVfeXFMTkVGOWF2Y3gyX2xCTmcxWHFWem4zTnRqcDU0V0ZXS1V3eWJNVVdpdGlJX0gzWTBmVzd4aE9DUE1XeER0X1JmUGg5eDNTa25VN2Q4R1E5bnVPRUhSekd2eHZjcEl6eWV0VDB3ekk3OEZtY2p0MlROVU9UdEZCM2xVZmJ0cXNoQmZrYjl1b1RTY3hnUmRnOXlmVGdleHVzNHNuOGx3dVhsaERoejRrbWRobmpZakh6cTNzSUhPeWVtMUpKaEpDNnFkM2Mtak1NTU1wbHhIc1lPOXVPcVhHeWVldG83eFVJdUxtX2lla19hUHE1cWZITWNxbzB4cW9NTG1lcE5R?oc=5",
-     "source": "ET Government",
-     "published": "2026-11-04T02:17:40+00:00",
-     "summary": "",
-     "tags": [
-      "AI"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
      "title": "Data protection Act makes journalism harder in India. It also comes with a business problem",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOckk3WGw3SjMxRkVFNHZ5SkhBVS15NWJRQ3BwdFJNSTlFRjc4VEE1WFUyQTZaSWkteno0SEN0YWhqbWMzM25yMXRvNnd5TzBoaWNGRFVIcWlwRElGbHRybHROQ2FIYUpvdHl0U1l0SlM5RFhVUVo0bWIyVGpadm5oMTBFYnhtU29vR2pyNUpOTTRuUdIBlwFBVV95cUxPTTh0NDlTXzY5Q0RXWlFQeG5uaEJiUjRic181YVpQYWlzd0lsRVdpVklEaWFBSVF3eExvNE9jZDh0N2l1MV9KSzVkT00xWGFzWndMUDNGdkI2VlZTOFRhU2FQd3dkZmlZajJwUmpGV0FlNS14UzRINERabHJmbEVBNTF1N2RLTUlickVLenA3ak9kb0hTTmo4?oc=5",
      "source": "ThePrint",
@@ -634,8 +685,22 @@
      "closes": null
     },
     {
+     "title": "Armenia needs to agree on an approach to AI regulation: ITU offers international tools to support the sector's development",
+     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TWUtVV1ZEc1VCMElUQlpLQzlwRlh3RUU1cTkzY3NWNnhkRFVQS19HMjlqWHFPdTZKMnNoZjNXUW5OWVBhYl9WeA?oc=5",
+     "source": "NEWS.am TECH",
+     "published": "2026-11-07T07:00:00+00:00",
+     "summary": "",
+     "tags": [
+      "Telecom",
+      "AI"
+     ],
+     "countries": [],
+     "also": [],
+     "closes": null
+    },
+    {
      "title": "GSMA pushes regional cooperation vs. cross-border online scams",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWTlIUzVURlN1bGpQc1NTbHh3ZFUtem5GZTh3aDJyRlVxVFVScUhVUlhwMVNLaDJEN3FsQWtHZnpzZDVvMFN0dEFaMjNDX3NzaHNxbnc0TTdoRXU2aUpTZHJOTkY3X2RGRDc5c3lzUlFkYVZxSFhJbmFyR0RqM2JmbERIMURMUzRhRTJIdFdRcmxuNXNQNS1iZEIxUWc5bElwNmMyU2k3WVdkanJPVWVjSHN1TnRqZGpN0gG4AUFVX3lxTE5ZOUhTNVRGU3VsalBzU1NseHdkVS16bkZlOHdoMnJGVXFUVVJxSFVSWHAxU0toMkQ3cWxBa0dmenNkNW8wU3R0QVoyM0Nfc3Noc3FudzRNN2hFdTZpSlNkck5ORjdfZEZENzlzeXNSUWRhVnFIWEluYXJHRGozYmZsREgxRExTNGFFMkh0V1FybG41c1A1LWJkQjFRZzlsSXA2YzJTaTdZV2Rqck9VZWNIc3VOdGpkak0?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTlpLZmw3MXlrWGRYYU40SGRrLWg3X0NQSVp6NzY2Qll1UXlNZG1UUUFYbVJpNzc2TnVSQjBDNzJDS2M0T0IycllKRjJGeE1YT1oyRmFCOFBETmJneG9kQjRqVWNhamhOZEVQLXhER2tsOUJQSzJ0dXJlWWxlSXhhTFVLejMwR1JKSzhGVXJvWmNnZm85M2JPeTc4cjFSRlJSOUMwS2xtSllpWk1hMjZwall5d9IBuAFBVV95cUxOWTlIUzVURlN1bGpQc1NTbHh3ZFUtem5GZTh3aDJyRlVxVFVScUhVUlhwMVNLaDJEN3FsQWtHZnpzZDVvMFN0dEFaMjNDX3NzaHNxbnc0TTdoRXU2aUpTZHJOTkY3X2RGRDc5c3lzUlFkYVZxSFhJbmFyR0RqM2JmbERIMURMUzRhRTJIdFdRcmxuNXNQNS1iZEIxUWc5bElwNmMyU2k3WVdkanJPVWVjSHN1TnRqZGpN?oc=5",
      "source": "The Manila Times",
      "published": "2026-11-06T17:48:00+00:00",
      "summary": "",
@@ -644,21 +709,6 @@
       "Scams & fraud"
      ],
      "countries": [],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Vietnam and Malaysia promote sustainable ASEAN digital economy ecosystem cooperation.",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnFwT01DZE1Ca2NrdEUxMVVqaFE1S3JadGJYaUJkTW5RU05pNnRHOXE1VnBWeS1faUJjZm1SY2o3ZW81U3pwM2FiYm90emkxTkFSOXUwanNjV1lCdldEdTJEUW9PZG9KLXNERlBiOTJnaDNsVjl1SjdBMW5JWE5pN3lCdzVvcVZyRXlYbk5NN0RHbGFaWk1HbTc5S1hfd0hu?oc=5",
-     "source": "Vietnam.vn",
-     "published": "2026-11-05T13:18:06+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Malaysia",
-      "Vietnam",
-      "ASEAN"
-     ],
      "also": [],
      "closes": null
     }
