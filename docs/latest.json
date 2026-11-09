@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T15:55:36+00:00",
+ "generated": "2026-11-09T02:37:05+00:00",
  "sections": [
   {
    "name": "Financial Sector",
@@ -155,13 +155,14 @@
    "name": "Malaysia",
    "stories": [
     {
-     "title": "Malaysia Orders Cybersecurity Review After Bank Rakyat Website Hack",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWTZFVlo0RTI5cUhZQXJGcTNiYzZYZ2ZjT1NMb3p1eVI0Wll6ejVkQXVKZzlSREhYOS0xd3FITG1BM1VlQ0pMTTNQNFZxeGpvRjU4ZlM5ZWZZWWF4b3dnWmxnUFJ5cHp4dHotVDVjT001MjV4eW5hbE5oTE5CQ3p3bkNMUmdLSXFRQ0VZMW15QQ?oc=5",
-     "source": "The 420.in",
-     "published": "2026-11-07T17:51:16+00:00",
+     "title": "Anwar says AI Governance Bill to complement cybersecurity, data laws",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDhYV0Z5LUxnTm5LUENIUnhjUExYX1E3M1NqY2VLY196VGJ4OHlwc1VVZVQzUFBTdmxRcmxBYnM3N0NWeE9IdjVCUGxJSjJhUENEaHB5WS0teUhib2hXcUFKSE5Va2dtY3NfeHNUVjVBWTQ0R0syZ09DcWJzZmlWZFZpTW1jcy00YTJIUXdVVnFqUER6VUdvYW9aNDAtODVpVnk1SlVtR0ZiR211OUJJZXZxazlvZ9IBuwFBVV95cUxPQ1B5WklsSVZiV1FtbTFFN3BxVzh2a1BqOVU0Ukg1cWxoWDYzbHdmcC1oaUVrZU52UFFScW8zeUszT3VZMHVhbWZ6dUFKVWNJZl9raVNnZ3V5VmVnUlBYM3dUVVVSdjJrZ2lLaldWNjNlWGxHWkNIdDF1S2xSQkNiNnNRNmxUV05OVDNMNzd6bVFGZXFCeVpaeUJWRURSS0FPQVFiYmZkTGROclNwRTM2WmwzNTN0QkE1d2pN?oc=5",
+     "source": "NST Online",
+     "published": "2026-11-08T09:01:21+00:00",
      "summary": "",
      "tags": [
-      "Finance"
+      "New law",
+      "AI"
      ],
      "countries": [
       "Malaysia"
@@ -170,14 +171,13 @@
      "closes": null
     },
     {
-     "title": "Anwar says AI Governance Bill to complement cybersecurity, data laws",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDhYV0Z5LUxnTm5LUENIUnhjUExYX1E3M1NqY2VLY196VGJ4OHlwc1VVZVQzUFBTdmxRcmxBYnM3N0NWeE9IdjVCUGxJSjJhUENEaHB5WS0teUhib2hXcUFKSE5Va2dtY3NfeHNUVjVBWTQ0R0syZ09DcWJzZmlWZFZpTW1jcy00YTJIUXdVVnFqUER6VUdvYW9aNDAtODVpVnk1SlVtR0ZiR211OUJJZXZxazlvZ9IBuwFBVV95cUxPQ1B5WklsSVZiV1FtbTFFN3BxVzh2a1BqOVU0Ukg1cWxoWDYzbHdmcC1oaUVrZU52UFFScW8zeUszT3VZMHVhbWZ6dUFKVWNJZl9raVNnZ3V5VmVnUlBYM3dUVVVSdjJrZ2lLaldWNjNlWGxHWkNIdDF1S2xSQkNiNnNRNmxUV05OVDNMNzd6bVFGZXFCeVpaeUJWRURSS0FPQVFiYmZkTGROclNwRTM2WmwzNTN0QkE1d2pN?oc=5",
-     "source": "NST Online",
-     "published": "2026-11-06T21:15:50+00:00",
+     "title": "Malaysia Orders Cybersecurity Review After Bank Rakyat Website Hack",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWTZFVlo0RTI5cUhZQXJGcTNiYzZYZ2ZjT1NMb3p1eVI0Wll6ejVkQXVKZzlSREhYOS0xd3FITG1BM1VlQ0pMTTNQNFZxeGpvRjU4ZlM5ZWZZWWF4b3dnWmxnUFJ5cHp4dHotVDVjT001MjV4eW5hbE5oTE5CQ3p3bkNMUmdLSXFRQ0VZMW15QQ?oc=5",
+     "source": "The 420.in",
+     "published": "2026-11-07T17:51:16+00:00",
      "summary": "",
      "tags": [
-      "New law",
-      "AI"
+      "Finance"
      ],
      "countries": [
       "Malaysia"
@@ -202,7 +202,7 @@
      "title": "MCMC investigates Facebook user over post allegedly insulting Sultan of Selangor",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWTBpM0dnQTZHNkRBeGNRa0ItZ240RXZ6Rml0LVpybXNqd2I3WjFWcUlGN0pubUg3dUloUFpZaDNXY1ZQY3FUVTdXdHZfSDUxSVJMS1Y4eF9uODRQcGxweWlneU5faVA2VW5DYWJRVmpsSEhrYWxrRmJmREZIQlM2SmJCalhiV0d0NEh1eDRxSUZqNWl3Z1pPQTVnSHVHZWhmMEZOdlZwWTFQTGZjWTlzYl80SUJPY3hRaUE?oc=5",
      "source": "The Sun Malaysia",
-     "published": "2026-11-03T13:20:22+00:00",
+     "published": "2026-11-03T13:31:54+00:00",
      "summary": "",
      "tags": [
       "Enforcement"
@@ -296,24 +296,6 @@
    "name": "Indonesia",
    "stories": [
     {
-     "title": "Komdigi Investigates Report of Alleged Fore Kopi Data Leak, Will Be Sanctioned?",
-     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBjR3RabU4xS3NsUTFLSEdYM2lKM0otbVZKLVJxb0NZYjJMOFNqLWpoRnNLUzQ3b0FaZVZ1dzBKcmUwd9IBQkFVX3lxTFBjR3RabU4xS3NsUTFLSEdYM2lKM0otbVZKLVJxb0NZYjJMOFNqLWpoRnNLUzQ3b0FaZVZ1dzBKcmUwdw?oc=5",
-     "source": "VOI.ID",
-     "published": "2026-11-05T09:42:33+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection",
-      "Enforcement"
-     ],
-     "countries": [
-      "Indonesia"
-     ],
-     "also": [
-      "Gulf News"
-     ],
-     "closes": null
-    },
-    {
      "title": "Major data privacy development: Indonesia enacts implementing regulation for the PDP Law (GR33/2026)",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSWFrTmd5bzBzbVhCLXpKTXUxakZteGZGY0tya3ZFb1d1QXZ6djFhT2xTWGtXdWxzSng5NkhNczFKVnhLNHYxbmVqVGtvLWZLelI2V3JVZlNWTHU4eWphY25oclJhVk5nTHgxMFFkVlpKcjdfTlBNVmYzb1oyWXo3eTBLMHgxUlNIam1lM0FVWEtCZ1k1UE1FazIxWHdnWjdyZWRQeEwyRC10a1NZU2FpQ0xjU2lOclJod3ZJLUEzeXhpVUltOWFlSko3NWo?oc=5",
      "source": "RÖDL",
@@ -364,7 +346,9 @@
      "countries": [
       "Philippines"
      ],
-     "also": [],
+     "also": [
+      "Gulf News"
+     ],
      "closes": null
     },
     {
@@ -448,7 +432,6 @@
       "Australia"
      ],
      "also": [
-      "https://www.businesstimes-bd.com/",
       "PYMNTS.com",
       "The Times of India"
      ],
