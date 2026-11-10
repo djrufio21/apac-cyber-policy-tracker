@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T19:45:01+00:00",
+ "generated": "2026-11-10T04:35:49+00:00",
  "sections": [
   {
    "name": "Financial Sector",
@@ -67,6 +67,7 @@
      ],
      "also": [
       "NDTV Profit",
+      "PSU India",
       "bfsi.economictimes.indiatimes.com",
       "The 420.in"
      ],
@@ -178,7 +179,7 @@
      "title": "Anwar says AI Governance Bill to complement cybersecurity, data laws",
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDhYV0Z5LUxnTm5LUENIUnhjUExYX1E3M1NqY2VLY196VGJ4OHlwc1VVZVQzUFBTdmxRcmxBYnM3N0NWeE9IdjVCUGxJSjJhUENEaHB5WS0teUhib2hXcUFKSE5Va2dtY3NfeHNUVjVBWTQ0R0syZ09DcWJzZmlWZFZpTW1jcy00YTJIUXdVVnFqUER6VUdvYW9aNDAtODVpVnk1SlVtR0ZiR211OUJJZXZxazlvZ9IBuwFBVV95cUxPQ1B5WklsSVZiV1FtbTFFN3BxVzh2a1BqOVU0Ukg1cWxoWDYzbHdmcC1oaUVrZU52UFFScW8zeUszT3VZMHVhbWZ6dUFKVWNJZl9raVNnZ3V5VmVnUlBYM3dUVVVSdjJrZ2lLaldWNjNlWGxHWkNIdDF1S2xSQkNiNnNRNmxUV05OVDNMNzd6bVFGZXFCeVpaeUJWRURSS0FPQVFiYmZkTGROclNwRTM2WmwzNTN0QkE1d2pN?oc=5",
      "source": "NST Online",
-     "published": "2026-11-08T09:01:21+00:00",
+     "published": "2026-11-09T18:15:20+00:00",
      "summary": "",
      "tags": [
       "New law",
@@ -231,8 +232,7 @@
       "Malaysia"
      ],
      "also": [
-      "Malay Mail",
-      "Free Malaysia Today"
+      "Malay Mail"
      ],
      "closes": null
     }
@@ -479,18 +479,16 @@
      "closes": null
     },
     {
-     "title": "CPI | Reddit Takes Australia’s Teen Social Media Ban to High Court",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbk5RLTBOOWp5RTlLT3JRTWxZVEVVVVViSmdkcGhaMmxPdFBEU00tNmNuRF94NmRzdXZMU2hIQUdZU1J3NVhuczkxNi15aXVXZ3RvNVRCRG1xa1BocjhBTEVscEVSWkpiNG9OT3J5Z2lKTlJYMmNHTUJpLVY1bFpOaXVkS3NSWmtJZmtMWW5JYUJ6ZFF0cFNzZg?oc=5",
-     "source": "PYMNTS.com",
-     "published": "2026-11-03T20:02:20+00:00",
+     "title": "Reddit challenges Australia's under-16 social media ban, calls it 'ill thought out'",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRElZZ2FWMk81VV9Sb1Jpa3hUeXQ5ZUhPeGpyNXJCSDVnenNFLWV5N29jRjU1ckcyVmNPeEhRRWpaMHh0eGNtMFdSMWo3bW45ZmwyMDBGd1hqZmNnMk4wQUVVaUNoZm9PV2IwNGZncGpLbEd4by1ITTMxWUF1U0V6am1pMmh4bWxXMzBTQ0dqaHJtdEMtWmlQeFc1Tno4d3VocG1XdkZzZVBfOGtuUXR6cm9pTndoOS1aRllRZkMwT05ycGJEdlVlTmZKaVY2NmZES2d5cUg2Zm5LdWFNa09pYzBCU040YUNXaUF0dWxzbzM5djjSAfgBQVVfeXFMTkRRQkh0YXNUZXFUdEtyb0tueGZsRFhxM0NjTnk3VGR0VkY2MHBZeEtjZUs4bmlUdFNid3YzMFlPc1pxZmhQWFJBcTBOdWMtWjZSU3VidEhmc1FVLXJjRVQxTGpqNl9nS2M3bDA2aFdOUHcwWnBNWVVVOURidUYxM09PNEoxdjFUbEdUYkM1bUNQckdHSHlVQmNMQ1BUVmNTWEJNT2NaQS1tc2IwS0JYbF9ZMHRGSF9MS2pKNEFUQVI1eVBoUWtuakQ0SlYtZFRCV3lYUDJnb19RMmZxTjVGTUFqZmxHUDRLN01MUVFvVlRWY0IzYmQtSDg?oc=5",
+     "source": "The Times of India",
+     "published": "2026-11-03T06:03:00+00:00",
      "summary": "",
      "tags": [],
      "countries": [
       "Australia"
      ],
-     "also": [
-      "The Times of India"
-     ],
+     "also": [],
      "closes": null
     }
    ]
@@ -592,21 +590,6 @@
      "closes": null
     },
     {
-     "title": "CERT-In issues guidelines in India to prevent autonomous AI misuse",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFQ3aUhaWUZ0ZUp3UjUtdWVpcERiMDNtcUFzeTZaVXJ2aWhIbGdHM0dXdDAxN2FoVnFOSmpQVk93bVBpV2lLallVdHFSa2xRZVpHX0c0VHZpTFpEOVRPVEpadWxDS0Jtb1VUaUR6UWJmcVJvSFg2ZnFzdW5DZVdNSm5ybElPX1M5WHZFdXRVSHNyRXJBbHpNQ2sycmhtOFh5ZEdZUW1VSVlMeGRLRzQxUDVsdw?oc=5",
-     "source": "NewsBytes",
-     "published": "2026-11-05T06:44:33+00:00",
-     "summary": "",
-     "tags": [
-      "AI"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
      "title": "India's CERT-In mandates 6-hour reporting for AI cyber incidents",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSDZDM0hFOWtEWVNUZ0NGd3pSSlF3UFVGeXYwM0Q0MGlZX1JnMnNiS2kzckx1Q1ZIWE9iMThuUUFwRGxRS1RQc2xSNEd1OEdoWFdYYnRGRzZCZUdaWGNCZ1FhdV9DU0prU05DYVNydDRtWjVQM01rT25KRVNUb0RJU0tGeXJoeWt4bFRYQTJhbmFLalA0LWEtclIyc1NKaXhpYUxKclloMFJzR2hHa2pr?oc=5",
      "source": "NewsBytes",
@@ -681,20 +664,6 @@
       "Australia",
       "ASEAN"
      ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Armenia needs to agree on an approach to AI regulation: ITU offers international tools to support the sector's development",
-     "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TWUtVV1ZEc1VCMElUQlpLQzlwRlh3RUU1cTkzY3NWNnhkRFVQS19HMjlqWHFPdTZKMnNoZjNXUW5OWVBhYl9WeA?oc=5",
-     "source": "NEWS.am TECH",
-     "published": "2026-11-07T07:00:00+00:00",
-     "summary": "",
-     "tags": [
-      "Telecom",
-      "AI"
-     ],
-     "countries": [],
      "also": [],
      "closes": null
     },
