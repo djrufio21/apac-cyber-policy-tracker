@@ -1,9 +1,25 @@
 {
- "generated": "2026-11-10T16:59:17+00:00",
+ "generated": "2026-11-11T02:43:54+00:00",
  "sections": [
   {
    "name": "Financial Sector",
    "stories": [
+    {
+     "title": "Regulatory Action: OJK Shuts Down 16 Firms Linked to Fraud",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRlNvTmdXNE1CQXZaMmMteUdRVlJ6YzBmcldrNWRMT1ZkTjJndV83UGJnRERSTl84M1Z2bFotMnc1UWhDUkJ3YTRTTkEydVBfM1hRWXVjdHMyRDc4Ukp3M3k4cnJ2N1BYVkl3WmhSeFFjWVVzamdqdlJFWlpwcGJYVGFGd19RY3FNQ1E?oc=5",
+     "source": "Coinfomania",
+     "published": "2026-11-10T20:17:50+00:00",
+     "summary": "",
+     "tags": [
+      "Finance",
+      "Scams & fraud"
+     ],
+     "countries": [
+      "Indonesia"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "SAT upholds SEBI fraud findings against former Ricoh India CEO Takano, cuts penalty to Rs 10 lakh",
      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZGdMc0tEYWtLeGNERU1NTmd3OFlKWC1lLXhYa3RFUVh0aUR2MXpHUkFneFVCZDhidmRIbW42RFFVUFFoSFBxSzhMdUt5QkdmVTNXQzBOSVFRTTRGa2VRNllXdmM3cTZqN1h0dHdMN3NzdXMyeDNSeDI0R1BWTTVUM3prc2tfakVLZWl2NUJUSFhSTFNXM3VXYXFYWnlBTVBiVXZLM3pzcXdkc0l3M0xVQUdObC1sSTVlaFNwc0NNM0xhUk5YbUo1cUhaNWpEWTlYS2taaW5TRDVTSkM4b2tmQ2Y1X3NQLVlGNUJnRHhUNzNtQzDSAfgBQVVfeXFMTW9ueFdqTEtneThrQnV3S2Z6SWp5dXlHX3puYjQwanByNE82cC01VlJ5YjR4bS1pZnNtSnl0dWtoNy1oMnNVM0YxVnJ4V2diQm5Lem1DZm9mcXhCRU1nYlFiR0FVdXZXWHJkNlpKN19QNkE0XzVyMnlnYmZrQUN5TGlKWk5oU2g4ak1NbnBMQW9IS0U0SzBJc0UwRkJSR2s0VndhOFQxM05HTU1zdTVWZ05BdmVYaVZDSGVfOU1vaUtoZEdTckJWNFhMNXpUM2xFSURFbTVnLWZzNGd5MzVxN2V5ZUI2OU45YVd3Mk1ZTmhEVUN3azJjQTc?oc=5",
@@ -225,6 +241,19 @@
    "name": "Singapore",
    "stories": [
     {
+     "title": "Singapore Cybersecurity Strategy: CyberCall 2026 Deepens Government-Industry Collaboration",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbGZ3d3JJNE1zdzBqTExYRXJYSEFMUXN5bE5rbmhWXzVISEUydnVaaEhnYnlmejhacDJiZWJ2eWRsVTdySF96ZjY0U2IzdzdaS0VGT3hiTlBEQTUxYlVoeWI5cHYtZzRjUkpHdzNsM0JNSW9jNlhaVjg3YUZmNW9icEczeXdpdFRkVG1iNEY2aFB4SVF0QjZPQTFNWmZBMkRrTlF1M203U3FYRHItdTNaMERkbkRrZFpFeHAxN0RsYTZiaFJfenc?oc=5",
+     "source": "Batam News Asia",
+     "published": "2026-11-11T02:00:00+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "Singapore"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
      "title": "Databricks Partners with EDB and IMDA to Support Singapore’s National AI Strategy",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOanZuR0Q1MEVrUnR6Z0RWVHV1dWhfVXRVVlhHT1A4UEE5Y0FQU3lHd0dsNk1mbWZTVV80S2JDT1BWb0ZGVENIRmFmSzN2MkZsMHRET1o0MVk1UGcyZVVITFJMTmsyN1pPZXA0c2hVZlJZOEtUb2Nya3BFQlR2S2tZbXQ3RVk1YjNyMlV4dVYwN0FLSTdwVTU4dGt2TWQxMHpvbnFfWQ?oc=5",
      "source": "Singapore Economic Development Board (EDB)",
@@ -256,28 +285,27 @@
   },
   {
    "name": "Indonesia",
+   "stories": []
+  },
+  {
+   "name": "Thailand",
    "stories": [
     {
-     "title": "Major data privacy development: Indonesia enacts implementing regulation for the PDP Law (GR33/2026)",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSWFrTmd5bzBzbVhCLXpKTXUxakZteGZGY0tya3ZFb1d1QXZ6djFhT2xTWGtXdWxzSng5NkhNczFKVnhLNHYxbmVqVGtvLWZLelI2V3JVZlNWTHU4eWphY25oclJhVk5nTHgxMFFkVlpKcjdfTlBNVmYzb1oyWXo3eTBLMHgxUlNIam1lM0FVWEtCZ1k1UE1FazIxWHdnWjdyZWRQeEwyRC10a1NZU2FpQ0xjU2lOclJod3ZJLUEzeXhpVUltOWFlSko3NWo?oc=5",
-     "source": "RÖDL",
-     "published": "2026-11-03T17:32:38+00:00",
+     "title": "Thailand orders tighter aviation cyber security after data breaches across Asia",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWUwMFBfdE5hZ19fcndqUUs0S0Z1clZBMkNkbnRfbUM3VlhVYWJDMEJZQ0VuOEk0LU1RYTlXQ1lmSUlEeFQwNk5FMVZsU1BYT1NrSzdIeHJKa3ZvNUs2RzBScHpXRVdWUEJBY2QzVEtoTlBmVHVlZnBtT3FOeFQwelhNRTF0dEVkWTNZZUhQMWtpSllWcDFRamY3WmdIaVRKQmZ0R1hiOUNRQ2oySFlKNG5LZFdudW1oNzBpZDlR?oc=5",
+     "source": "The Straits Times",
+     "published": "2026-11-11T02:40:00+00:00",
      "summary": "",
      "tags": [
-      "New law",
       "Data protection"
      ],
      "countries": [
-      "Indonesia"
+      "Thailand"
      ],
      "also": [],
      "closes": null
     }
    ]
-  },
-  {
-   "name": "Thailand",
-   "stories": []
   },
   {
    "name": "Philippines",
@@ -356,6 +384,21 @@
    "name": "Australia",
    "stories": [
     {
+     "title": "eSafety rejects warning of internet bill chilling free speech",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcWtRNGRoZ0VpYWtMdzdhRjN6dDd2ZU1OdHRxTF9Qc1Rjb0hRTlpOd2FSRk9rWURzTld2VEh1ZV9rUkZuV3NUeGljMkJaYWtkTGlCSi1fcmxnS1FpdFRhcHlaRUhFWmRWZ0RDRF9JbEtmSTFBNFRUNGViREYyNkcxTnpESUhtZGVkMUdBNU56bjdRcTZDLTFYcVF3T3Y4aFRR?oc=5",
+     "source": "iTnews",
+     "published": "2026-11-10T18:45:00+00:00",
+     "summary": "",
+     "tags": [
+      "New law"
+     ],
+     "countries": [
+      "Australia"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
      "title": "Australia's eSafety chief seeks clearer duty-of-care obligations to aid enforcement",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVjhBX0xmRi1oTDFMZWFEN0R0bndDam55QW12M21LVnFwNlFFYWRwMS12WkJqRFhuTldyWGl0RWozNHFhbUwtUzFzZXVfdEpzUjlkMHNDLWhLaU0tS1RTeHNaWG5ST1FTOFpqbkZIdXlsYktTbzBFV1pfUHBzMjVOX0ZhRGc5UzhXWGhZd1B2X0tkeWxIdFRaMWFfX1RlYmVwUEd3cFRDelNvN1B6Z1lmTVNZME1sTzVMZTA1RkE2U1M2MkxyZGd2VHQ1Vlp4RjlWZG040gFaQVVfeXFMTXE0RUtnSmRlb2JfNVd6bGxCT2g3YlRybmF6SVZuSWktRUZaV1p5TVg5WFYxNDc3NVR2Mmo2ZHRWbTlNaUZqcWlLdjJwU2xuQXpOdkFCdjVsNE5B?oc=5",
      "source": "MLex",
@@ -429,21 +472,6 @@
      ],
      "also": [],
      "closes": null
-    },
-    {
-     "title": "OAIC investigation finds limited offshore access to Australian court recordings",
-     "link": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPc3ZLNkItWlVYTlRxVjNXd3NBNW15WmFfVFRlYUNrTHRJcVA1YjhyYVMtMzNnWXR3SXdXYjJ0Znh3N0dhdEtBdldSNEFWYllmQUhBUlVMazJ1cnphSUsyWi1UZm5xQ1NhX1gzRExKd0pQOWpfb3ZpOElXeGFyU1l0djdteTBZVkNVZHRXUjJnLWtHbUtkWWR0OUlwQXdaNVRtTEFoUnByNjB4ckNZcm14eFd0a2Z0YmpFUlNhRHNnNTZMYzVJU3F0Tk1tMm1KY2c5SDQ4aDVta3VuMFppNGNTUHVwVTh4aTJPQnlXMmhHdDhZeDNGSGdYdkNpb0pvY2NVdXRXeEVBS2c0UEhQdlhYUkRBdXI5blhFMXVvaEphcTNMRDFVM092Q2dWUmhBNXcxS1dTRGtySXAwVHQzVWpHNlNkSU84bWxlcHdfTGxDaHdGS3c5TjUzNWg0ZjREcHBiZ2dZYm1vS1NBLUFqbTg0N0YzZTItR2tfZkhVTm9lbGppMWlEZnN0enB1N2NyNllPWklKOFJia2pJM3B1djBNZUcwdTFnOGxxRGQxM0tpTFVOY2cyRFVQdElhVGZlVVRsYWYtcXAwQ3F0RFZYWkpmRnJkVjE?oc=5",
-     "source": "Cyber Daily",
-     "published": "2026-11-04T01:28:57+00:00",
-     "summary": "",
-     "tags": [
-      "Enforcement"
-     ],
-     "countries": [
-      "Australia"
-     ],
-     "also": [],
-     "closes": null
     }
    ]
   },
@@ -468,6 +496,21 @@
      "closes": null
     },
     {
+     "title": "Can AI agents be trusted with sensitive data? New CERT-In guidelines address the risks",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaDJKTldNQmxFc0V0MXFwcXVfeGRMdktjdVBUZnJnS1ZuTVZMQk1QLTNLSzlHSFp1bE84SnVIOUNxMDl2RDBjbEJkbTc5TDZVQ0FETE9xQk9Lc296ZTZhbjhZVGFVdkZzcldIdXVSNzRFbDZzR3hKcUc2cE5obm9yNmxWOC1LTTYyVkZnY0hWbUZYMzkzemNXOHFYQ2F4cERQX3Npcld2LTZabC0tbzhmVXRLQUMzb3JDRFU1dm9JLUNDU1BfOS130gHOAUFVX3lxTFBjVGc1YWtydXlwMjJRNlJBNDN6aEpEYWVRbEx6S2pLVFVkSW5xa0dRWGNsdXhtR0d0eXVXcU9nU1prWW0wV1RNQXBxVXRueXp4R1gzVFgwdkJDQUdCbmN4TGdNR09RX2thR2ZrZ2VMTXRNdzNvc3FuVU9wMEJsYjhBLXF5ZkZmUXQ2OHFxZmhaeVlRT0JvZ01HcFFNd1NacWIzQ1NScDBEb0ZCbktEdkRRZEFpbThmOGloYVhRYVl4UU8zYWM3dkxIT19SUHd3?oc=5",
+     "source": "Digit",
+     "published": "2026-11-08T04:41:15+00:00",
+     "summary": "",
+     "tags": [
+      "AI"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
      "title": "DPDP Act: Journalists, newsrooms not covered under data protection law",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdmZiUjZhSW1Da3Z2ZFFOb0QtQ3Npd3BxdlpfdXB0eUFFNlRmdFVEYzNxYVYyOGdoZUpjZDhuMy04bkhTLUw4REJXajB1QTVXS3VQeXZDNjFRTFZQVFNYSWFkZGZUNkg2c0VKWEt6VGpPZWpCOXZKS1NDRGxoT1Z4R01jejI0SW5hUHpwdnZfQ0NBUkQySVpxQlp1SGw3eXRSWWM3WDBmei02NXA4Ri1yX2xYOG12V3c30gG-AUFVX3lxTE42MW1BZWVxYUxJVGRUdmFZREFsekhiN2ZJcVNOaXllTUZZYjZCSTZFcnJCemhQUXJkbnBWb1RoWVhoREVTcjRCT1MyQXBrMkZZelRwSDREOVhWbW1zRGg4QVZVNjQ4S25wTktnMVFzbkJ6ZkhsZTVDcUhHVGhmejNNVElzOTEtNkpTZE5COFk5cjh2TnBNRXdIRzJUOVpCblA0R21pNWstS2tLdEVpSnBIVlhBeHZlY0dISHFOTmc?oc=5",
      "source": "ET Now",
@@ -479,9 +522,7 @@
      "countries": [
       "India"
      ],
-     "also": [
-      "NewsBytes"
-     ],
+     "also": [],
      "closes": null
     },
     {
@@ -531,6 +572,21 @@
      "closes": null
     },
     {
+     "title": "India's CERT-In mandates 6-hour reporting for AI cyber incidents",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSDZDM0hFOWtEWVNUZ0NGd3pSSlF3UFVGeXYwM0Q0MGlZX1JnMnNiS2kzckx1Q1ZIWE9iMThuUUFwRGxRS1RQc2xSNEd1OEdoWFdYYnRGRzZCZUdaWGNCZ1FhdV9DU0prU05DYVNydDRtWjVQM01rT25KRVNUb0RJU0tGeXJoeWt4bFRYQTJhbmFLalA0LWEtclIyc1NKaXhpYUxKclloMFJzR2hHa2pr?oc=5",
+     "source": "NewsBytes",
+     "published": "2026-11-04T18:19:55+00:00",
+     "summary": "",
+     "tags": [
+      "AI"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
      "title": "SBI Data Breach: State Bank of India Customers Have No DPDP Act Remedy",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Z9IBe0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Zw?oc=5",
      "source": "The Probe",
@@ -564,6 +620,19 @@
   {
    "name": "Regional & Global Bodies",
    "stories": [
+    {
+     "title": "DND, Mastercard explore cybersecurity cooperation ahead of ASEAN summit",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd3BINklLbGVMRm1Zd3piX3NLazR3TndYMGwyN2dmSF9wQWt1a2JLOGVjMmt2TWZiZkpzS2ttNlpwV1RObVBmdnd4QkU0NERsTzBFamhBYy16QVUxS2tnS092UmZmZWxvSldxaFVPd0xLdmE0Nm5hNElWZGlhTktoTzNWWWVEOERCZTJPNU15RFBmMVJmdVM5eHkwalNkOUxL?oc=5",
+     "source": "thechronicle.com.ph",
+     "published": "2026-11-11T00:23:11+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "ASEAN"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "Digital Economy In An Era Of Expensive Money: Testing The Future Of ASEAN–Australia Economic Cooperation - Analysis",
      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNVAtVVlHc0lTQ2Foekd6R1doUnViaDFNdV85U09jUGQxMHY3ZWkzZjlhT3ZDbnpORHp2S3VsSjRuQUlMYWx3OU9VMjZ6UHU5Rk1CUEdFcXpLSEl3R1MxZ2xKVHZRWWltSlA5VTNRem9IMDM2RFNTUk5qUGxJdWUtc0dFZ1UxSkd6Z3Jnd2QtMjVQZk5fcUdJM1ZyYnNreGl1TFdMS0JRc1V1Yk12bEFJcW83MkxGcDB3YkZ0TVctMXRReGRMbm0zNXpCaXAzd1NKdVVENFdkSXNTNGtBRDZOQjBJbks5cGM?oc=5",
