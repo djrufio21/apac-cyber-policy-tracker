@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T15:45:12+00:00",
+ "generated": "2026-11-15T02:36:02+00:00",
  "sections": [
   {
    "name": "Financial Sector",
@@ -108,21 +108,6 @@
      "closes": null
     },
     {
-     "title": "Bank of Thailand orders banks to tighten cyber defences after overseas attacks",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVA4aFU1WGZTa1ZpQTl1UXU0UGlnNGRtNmgyZ0N6MkxPQ3NjemV2Z0hIblFSblVkVDJ1WlBNOTdBM2hpSUpfd0V4eWs0TDNhNi1EeC1aMnpkMWtKZUNpajBBVjBmLXpIeW41MDlLN216UGI1Y1pkWTBUNm42cU5scTV2MEhSU0Q2T0d0SC1aNUdLM1d1LWtB?oc=5",
-     "source": "Thaiger",
-     "published": "2026-11-09T08:49:15+00:00",
-     "summary": "",
-     "tags": [
-      "Finance"
-     ],
-     "countries": [
-      "Thailand"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
      "title": "Lowdown: What RBI’s consolidated cyber security rules mean for payment apps and users",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamtFdUlGMjNIVnQwd2F5MjJBd3NRa2kwVllLZUFvcGY4TVFCTU1rRUFldHM1ZXh5VVB6S3BqUDJfNWd3UFF3bXhqdHp6Skk0RDlHUHhvcHhVc1ZsNHRvOG9BNEM4VlNxNlZncmk4YUNwZE5BVnNBS2tMaHVlZzJfNVE0SWs3MDhy?oc=5",
      "source": "MediaNama",
@@ -143,13 +128,13 @@
    "name": "Malaysia",
    "stories": [
     {
-     "title": "Malaysia Orders Cybersecurity Review After Bank Rakyat Website Hack",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWTZFVlo0RTI5cUhZQXJGcTNiYzZYZ2ZjT1NMb3p1eVI0Wll6ejVkQXVKZzlSREhYOS0xd3FITG1BM1VlQ0pMTTNQNFZxeGpvRjU4ZlM5ZWZZWWF4b3dnWmxnUFJ5cHp4dHotVDVjT001MjV4eW5hbE5oTE5CQ3p3bkNMUmdLSXFRQ0VZMW15QQ?oc=5",
-     "source": "The 420.in",
-     "published": "2026-11-07T17:51:16+00:00",
+     "title": "MCMC investigates Facebook user over post allegedly insulting Sultan of Selangor",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWTBpM0dnQTZHNkRBeGNRa0ItZ240RXZ6Rml0LVpybXNqd2I3WjFWcUlGN0pubUg3dUloUFpZaDNXY1ZQY3FUVTdXdHZfSDUxSVJMS1Y4eF9uODRQcGxweWlneU5faVA2VW5DYWJRVmpsSEhrYWxrRmJmREZIQlM2SmJCalhiV0d0NEh1eDRxSUZqNWl3Z1pPQTVnSHVHZWhmMEZOdlZwWTFQTGZjWTlzYl80SUJPY3hRaUE?oc=5",
+     "source": "The Sun Malaysia",
+     "published": "2026-11-11T19:24:37+00:00",
      "summary": "",
      "tags": [
-      "Finance"
+      "Enforcement"
      ],
      "countries": [
       "Malaysia"
@@ -311,6 +296,21 @@
    "name": "Philippines",
    "stories": [
     {
+     "title": "Slovenia eyes cooperation with PH on digital economy, technology sectors By Charm Carcueva MANILA – Slovenia sees opportunities for cooperation with the Philippines in digital economy-related sectors, particularly cybersecurity, artificial intelligence (AI) a",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYVFSQmJ3dzFNU2lMT1JuQ1FzejRGVW45OW1SSWM5Vll6T1RtMWVNSnZxNGN1U20zTm9QVWV3TDg1WUI4RTd2aXBUQkhlQ19OSmVySUJTYnBSZnhSV19zTExwQkZMb0FIS3VQZDNuRVNCY2o1YmVCdWVwNjc5bHNtQ1dxTkNiaTl5ZXFmSndyTDFtbEpEdVFQTEtqTzBIV3FCa2UwVkIwQm84WjE4aTF2X3ZLb3BwQUpOekZULTVrY1BqSGZJZ3pVa0J4cE9vQlR5MEpnRA?oc=5",
+     "source": "Facebook",
+     "published": "2026-11-14T08:20:01+00:00",
+     "summary": "",
+     "tags": [
+      "AI"
+     ],
+     "countries": [
+      "Philippines"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
      "title": "Philippines introduces National Cybersecurity and Critical Information Infrastructure Protection Act",
      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSXYxSW5WSVRoSWgtc3ZOMThKbHFmNjJEdm5TZ2s2UU5SQ2oyN1JEVEY4dG1xU3RxWGpLUklWNUlkanVabFdzdU1BT1lMSV8wazdnRkhaMFg4TTI3Ykg4Ui05NUd6T3JoYnZsZWJiRWhrUzN2Rklid0g3SEU1Z0U5TA?oc=5",
      "source": "PravdaReport",
@@ -346,14 +346,12 @@
      "closes": null
     },
     {
-     "title": "Vietnam, Sweden step up cooperation in telecom infrastructure, cybersecurity",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDAyQkZuMnpqUjBDR2RManBEQVJ5emg2OHVhejNCQTR1QkhxYndlejhuOWlSYi03ZERrcmtlcGxUVWRjc2Z3UEI2QjhxQVJYMWp4SUc4Q0x4Y2pIaGlHY184MzQ3VkxHYmZYM1VZVDNoZm9FVzh5LUc3NkNJNFg3MW1KRXFkMnJOeGpTeVE3N3lWM2pVSEJrVzFlYmpfbGFGRzdnU01sbEVoYkdzVVdBNDJhRWtCZw?oc=5",
-     "source": "Vietnam+ (VietnamPlus)",
-     "published": "2026-11-09T13:00:48+00:00",
+     "title": "Uruguay's National Data Policy: Lessons and Suggestions for Vietnam",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXpicy1UcDBsSUhJa0JyMGFqYzVBZUo0bDBGTGhrUGtnRm5fdFZaRTU4WFJFb0ttOFl5eFdpaFlsVkZPeko0Q2hFcW9TQkdwRnZRLXdjOHJNSTdyT01jMFhlMGY2STBZeG42QzN3eWFyejJNLVUzY3c5ZzF2UDZSNUdCUEFtU0c5TUMzWVREdDhTdUVUbHEyZHVDRXJXaXlaaHc?oc=5",
+     "source": "Vietnam.vn",
+     "published": "2026-11-09T11:05:00+00:00",
      "summary": "",
-     "tags": [
-      "Telecom"
-     ],
+     "tags": [],
      "countries": [
       "Vietnam"
      ],
@@ -395,6 +393,21 @@
      ],
      "also": [],
      "closes": null
+    },
+    {
+     "title": "Australia's eSafety chief seeks clearer duty-of-care obligations to aid enforcement",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xNEVLZ0pkZW9iXzVXemxsQk9oN2JUcm5heklWbklpLUVGWldaeU1YOVhWMTQ3NzVUdjJqNmR0Vm05TWlGanFpS3YycFNsbkF6TnZBQnY1bDROQdIBWkFVX3lxTE1xNEVLZ0pkZW9iXzVXemxsQk9oN2JUcm5heklWbklpLUVGWldaeU1YOVhWMTQ3NzVUdjJqNmR0Vm05TWlGanFpS3YycFNsbkF6TnZBQnY1bDROQQ?oc=5",
+     "source": "MLex",
+     "published": "2026-11-10T07:21:00+00:00",
+     "summary": "",
+     "tags": [
+      "Enforcement"
+     ],
+     "countries": [
+      "Australia"
+     ],
+     "also": [],
+     "closes": null
     }
    ]
   },
@@ -402,10 +415,25 @@
    "name": "India",
    "stories": [
     {
-     "title": "India Launches Registration For Consent Managers Under New Data Protection Rules",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeEZOMThTWkNoSDZSVW04Mk1uUFlkUHpFYXd4Z0JSd2JEUXJxQ09nYkhrUmx4OENxclRIcDNaSWk2M2lfS2NMWGpKMU5lSUJ2VGVNc09oV0cyQ3d1YVBrM3EybDQ5U21adGhLR0xCak9PTXl1NS1xbzQwbi15dDVTV0ZLOVVWU21OdVFOalY3LVNWZWtabDZJNWN1TWtBR1ItbFMwa2ZoNGhwWWRzSGxrOC13UzRmSjZwcEJfbDRR0gG-AUFVX3lxTE14Rk4xOFNaQ2hINlJVbTgyTW5QWWRQekVhd3hnQlJ3YkRRcnFDT2diSGtSbHg4Q3FyVEhwM1pJaTYzaV9LY0xYakoxTmVJQnZUZU1zT2hXRzJDd3VhUGszcTJsNDlTbVp0aEtHTEJqT09NeXU1LXFvNDBuLXl0NVNXRks5VVZTbU51UU5qVjctU1Zla1psNkk1Y3VNa0FHUi1sUzBrZmg0aHBZZHNIbGs4LXdTNGZKNnBwQl9sNFE?oc=5",
-     "source": "Swarajya",
-     "published": "2026-11-14T08:53:13+00:00",
+     "title": "DPDP framework takes shape: Can consent managers give citizens control over data?",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOV2VEWWU0eXF1MTJtVU9OcmNIaGljZ0NMbDRBT0R4cHVvbWg2R29oS0cwUFZKdno1dGh6cUEtYXZZVEVKa2tPSU1QNEo2YTlCOVk0MTlXcFl0TEZXM0JSZm91S2lWa1FOdFJTRHR1b2NmN2VFMVJlMUoxYV8yajgwWFY4dEU0RU9xR0dpbDE1MngyejJhSjdsV2hBMXEtSWludWxtZ3JoRXhHYjVmZWlLb0xLelUtaHJubkNfY1VLbkhZSWxsLTFDbnI5SXMzcEl2RjVpZWZCS1pHajdqTFowX3dTdmtTM0NETmp5adIB8AFBVV95cUxONC1FR0p3enZpSUtxY2VaTFktY2pFaURDWDdaT0JnaEZlYWNNVXBIa3JPbEt2SGtwZzNEXzFvTXJqY1FneHA5WlFaUUp0RkZ4NmZfU1FxdjRzUWM0cHZYMmtVYnlTYXRNQmxUMjl0dlZLa3Y1c01Kakdlajlqa1U4RTAzYjBmc0M1UWcyakE4anMwcE1HQmNzMTI4TVhVOEFramkwZDhNSnBiV1FrY3dnNEJaTEJ6NE5aSzItTmQtLTNXZzNQWWdDVGVZLUJqLXBXMm1DR2JlQnV4R0ozQnZnZ25pbWRHQkR1b2J5dl9veVM?oc=5",
+     "source": "ET Government",
+     "published": "2026-11-15T02:12:52+00:00",
+     "summary": "",
+     "tags": [
+      "Data protection"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "India Opens Consent Manager Registration Under Digital Personal Data Protection Framework",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc2tVbTZwNjZzVjFEd3RGYU0xMFp3QlRwR2R3X1lMVlhuNnhVVGlSUVZ5N0t0RVZDYVJOYndMWEJVV1BpNEk5RTF3V3JwX25GRVc1Qm1MMGh0SExHM1ZYdXdhaUdpWS1wUFZFZWJhTzBsUnEwUlNXTXNnZ0pWaENXVkJsNW5rSUt0SGF0Rk50Z3o?oc=5",
+     "source": "www.nationpathindia.com",
+     "published": "2026-11-14T22:47:14+00:00",
      "summary": "",
      "tags": [
       "Data protection"
@@ -414,6 +442,7 @@
       "India"
      ],
      "also": [
+      "Swarajya",
       "Babushahi.com"
      ],
      "closes": null
@@ -562,28 +591,86 @@
    "name": "Regional & Global Bodies",
    "stories": [
     {
-     "title": "ASEAN members sign Digital Economy Framework Agreement",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMmJCMG5TRFdaTDBuR1hDWUFYVm54eVFpMENNQnFSdWMyeUg5Q2RuY1dLcTZ3Y3NjMGppZUp2TTh0VTMxb0xvcHdzX2s1dUYtQ3ZXT2xwZDY0UnU2OVhEaUJjdVNCUGx0MXp1RHhIUDdVYlNRYWZKdDI2dV9OUnJPTVlkN0t5RGN4SzlzTXlBUThLenhzZWhMTENDT1hWUGlBcHc?oc=5",
-     "source": "CNA",
-     "published": "2026-11-14T15:38:37+00:00",
+     "title": "LOOK: President Ferdinand R. Marcos Jr. hands over the signed Digital Economy Framework Agreement (DEFA) to ASEAN Secretary-General Dr. Kao Kim Hourn of Cambodia this Sunday, Nov. 15. The DEFA, signed by ASEAN member states, aims to strengt",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ2YyZ3lSbnNsTnZpS3dFQzVzUU1IVzNMMW1NQVlrclEteGlRbWNreVdTZDJvMkpfcGZSWEU0TUt4eWlCdGFhbFd2aVk0dGN4a29nQUNrSlBpbWZBREFqYklhdnM2QkZORldxeGg1VV9NWHhKZXY5WWxSZ012N2djb2hxcV9OcUlQQ0Z3U3lHQzJ3YjJIckNNZ2trYzR1TzUwemNqSVhZeTFxWTFnRV90MW9lbk5ZS2F1SGNqekJFSzg5OXBfY284NTI5NWE3eGI4?oc=5",
+     "source": "Facebook",
+     "published": "2026-11-15T01:42:01+00:00",
      "summary": "",
      "tags": [],
      "countries": [
       "ASEAN"
      ],
      "also": [
+      "CNA",
       "وكالة الانباء العراقية (واع)",
       "ASEAN Secretariat",
       "The Business Times",
-      "Facebook",
       "DZRH",
       "GMA Network",
-      "Philippine News Agency",
       "ANTARA News",
       "UA.NEWS",
-      "The Edge Malaysia",
-      "The Edge Singapore"
+      "The Edge Malaysia"
      ],
+     "closes": null
+    },
+    {
+     "title": "ASEAN signs digital economy agreement to ease cross-border business operations and consumer transactions",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZTJuMFdUd25sRWVLZ3dZTm5XVGhtdjhJN3JuWXBibFNJOW9OWWJ4YWpGOU9ZNUZHRlJzUHp5X1MwWWlxaW44V2dTT01uLVg2NW9HZkdfeWxmU1R4eHRwN2h6VmhDX3ZrMnB6WDhGdnVIRjVXM3dodWR1OXI3TEZfa05YZ29DVW1XQUZTZVBpd3Q1cnZyTm55SWdHS1hXWE1uYnphVVFEbzIyUk9SdEZoUXJTdDdjNzlSV1hTWFBDOWJZWjMyVnp1RzVLR0U?oc=5",
+     "source": "联合早报",
+     "published": "2026-11-15T00:33:31+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "ASEAN"
+     ],
+     "also": [
+      "CNA"
+     ],
+     "closes": null
+    },
+    {
+     "title": "Asean ministers ink digital economy pact",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaEpva245ZlFHVjdyMEw4ZFAyVHhKQWVCT2hub0dVYzJSMk9oZWZIVWJjUjlISzk2S3dNWElZeG81SU1oY0owVzFsakVvSU9COW9LVF9KQU16Z1loTEJMcGdNSy02cnIxSHBjaW5POGd5aWd2RF9ZREoxT3E2QVR0VXlXdHk2UDJZ0gGOAUFVX3lxTFBObFBRSjBnY21BcFNVbDB2Z0pKeEVONzVLN1phcG13UU1XRVVkSGw4R3FwR3M3eUs0ZG9mVzlNSndEb2hvT0VkS2dFc0RncU9pcjFtMG5ObHZONEpXQy1kejJyQU5SRW9ib24zbzFacGdFY25CUG9aUUVzR0p0RW5Ec3FGUG9hdG8wbHY5cmc?oc=5",
+     "source": "Inquirer.net",
+     "published": "2026-11-14T21:32:00+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "ASEAN"
+     ],
+     "also": [
+      "Philstar.com",
+      "Philippine News Agency",
+      "Facebook"
+     ],
+     "closes": null
+    },
+    {
+     "title": "ASEAN Digital Economy Framework to Double Southeast Asia's Market to $2T by 2030",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSkxENWc1M3Y0d1VPMDJvajRxMnk0eVJWYnBDMVZBRlFzeFU1OUc2eXk2aWpWSmRwMmRKbEUtU2cxckE4NVRRNmF6bk1nY2NBS2RuMmc2Z3hQN1VmckMwd3ZVOC1EQ2pxcFBtd2ZGcmJocUNHSEFIZHlnTHJDWnU2ZDFJRzY4NjdDbmc?oc=5",
+     "source": "Daily Tribune",
+     "published": "2026-11-14T17:27:43+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "ASEAN"
+     ],
+     "also": [
+      "Facebook"
+     ],
+     "closes": null
+    },
+    {
+     "title": "New Zealand minister emphasizes APEC's role in facilitating talks on AI governance",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLTVFTkotNXVfQnpEdGtWTlJSeVo4RFlrdUtLbm9DM25ERHVPZ1NIV0tvR1NWd0w5TXlpZWp3c3NiQVRSYkVsd05wYmtfeml0WkY4TFkxb2d0WERiRnFCOEdodUpzZ3NzME4zX0lfYlJHak9KdjJveTh4ZkFVbkN1U19QTlB6U3c4cGNQRV9kdzVOb09qMzJtZkM4RTlQZFYxUjFHZElwWDE3R3VlTlJwNFpZZlRSdldxcGc3Si1JM3plUk02aVE?oc=5",
+     "source": "CGTN Radio",
+     "published": "2026-11-14T15:54:37+00:00",
+     "summary": "",
+     "tags": [
+      "AI"
+     ],
+     "countries": [],
+     "also": [],
      "closes": null
     },
     {
@@ -591,6 +678,64 @@
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdU5VeDRWem5kRFRFaldQNVpJc19JenRsUGFYN0k1ZnhFNUtubE1saWVpYkdIaHFSZVljR2FGSVBzeHEtMmtRdlpVcjl1aElYNlR6T3JWUTlkUTVuZUpzcE9rR1dIbVdKT1k2SmlvcFRTaC1VVGVnbWdrcHpEaUE1YktKaHNYUnI5Y0t5MEFLNGVXSzJpaER3anJqTHJGYm5HX3dnT2JTZWlvSnNzMi1ubVd3NWFBZ1lwZWFRc0cxZjBEZHc?oc=5",
      "source": "Free Malaysia Today",
      "published": "2026-11-14T11:59:00+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "ASEAN"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "Signing ceremony of the ASEAN Digital Economy Framework Agreement at Conrad Hotel in Pasay City on Saturday (Nov. 14, 2026). Philippine Trade and Industry Secretary Ma. Cristina Roque said the agreement will help facilitate easier financial transaction",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVHItMEQ2TGRuMXlpbGx2WGFGaU5VMDhCaHl2ZTVOTDFNS0h5U3lwd2VGOUQ3WXhQT1VzVGRkNjlveXJna24xbGNXSDZrS0M5RnRfQ291dllRX3JaTUZsVk1SNGpybS1QSGNKNHB1QktZWDRiNWNwX0M1bFktODNEX3QtWWlvUDVrNDZld3N3M0tGVklyZ0dDS0xEUjdLLXBYc1UzbjBlbXBEbXdhTTlPMG9fSjhVSVQ2dEFndktrZnFQVGRZeGlOamJFemg4V3ZHcDF4Ug?oc=5",
+     "source": "Facebook",
+     "published": "2026-11-14T11:25:45+00:00",
+     "summary": "",
+     "tags": [
+      "Finance"
+     ],
+     "countries": [
+      "Philippines",
+      "ASEAN"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "LOOK: Signing ceremony of the ASEAN Digital Economy Framework Agreement during the #ASEAN2026 Summit. Screengrab via ASEAN Philippines 2026/Facebook Watch the livestream: bit.ly/ASEAN2026Nov14",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdE9xRjdURlRWd3loTHF3TDZKRlFJTnhWSlJWQVF4OTBPUUxFNzk1RmRhNG5Mcmc2Q0w4eDN6RFVOd1JXVGtNVktkLXFfMmxQa2JCMklGZHJyZFpCX1lwNE91RlMyQjhod1dYLVVtc3hOd1lGYlIyWkFjTXM4a3p1dXBfSVJlNmdHZFpWU2pKYmcyTWhLT0JEWm9OX1N3bTZibDF4YnhQTEZnYVhtZHd5TmtJNFJ5LU53THJPaXB0eGM0dmVrT21DVkFfQ2hEZFhDYUxJ?oc=5",
+     "source": "Facebook",
+     "published": "2026-11-14T07:28:57+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "Philippines",
+      "ASEAN"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "A tech expert urged greater ASEAN action on AI regulation as the region pushes for a digital economy framework. #ABSCBNNews",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0JXeTJqY3VYc0s3cktqX2pjUjd1NGhkQjdoMm8xODBGczBLeF9UZElFTXBycS1jS1p1WGVSZGFzMnZubzZrRmtEM0hjUDQ3bE1Cb0xSQ2dYaXpGQWttZjlJSHB0bl9GOEtlUWxwdEI2YXA3YzcxcnhsUldKblExVFNnQ0NYZEk3VmRjY24tWTdNclc3TlE3NWhQYkx0MnQ5ZWs1R2MwNXZwYV9PUHJQbWpUZU9fcnN3WHdaRTNEc3p5a2ZqekFCTm5kNWdSNTQtenVIVVVpZw?oc=5",
+     "source": "Facebook",
+     "published": "2026-11-13T09:15:00+00:00",
+     "summary": "",
+     "tags": [
+      "AI"
+     ],
+     "countries": [
+      "ASEAN"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "Asean's digital economy framework agreement: What needs to happen next?",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORnB3QXBlVnRQbVhubnB3T3Y5c1RNV0xJX3phZzhzZk1WdGJvekdsUDhaMmFtQThzUkNrRDFTa1k5YXJjR0lndlRiOVllSDhrZWZRZFk3cGhDZlhHVHE2NkZvdFpzdVVRd3hkMm9SUXBDOUNRSlRyN25BZTgzdmh5UTB6aVRwbFBUWEpCMjdXdjhxUXh5Y2FSZk9jQW9oYmQtZmtjMXMxUFUtNXZvQ3NCLWNkUzEwLWREelE0Z0FhbHNvZGJW?oc=5",
+     "source": "The Edge Singapore",
+     "published": "2026-11-11T05:56:40+00:00",
      "summary": "",
      "tags": [],
      "countries": [
