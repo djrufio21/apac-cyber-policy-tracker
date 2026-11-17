@@ -1,212 +1,18 @@
 {
- "generated": "2026-11-16T19:31:34+00:00",
+ "generated": "2026-11-17T05:03:18+00:00",
  "sections": [
   {
    "name": "Financial Sector",
-   "stories": [
-    {
-     "title": "Balancing Tech And Trust: Detailed View Of Sebi's Upcoming AI Guidelines for Capital Markets",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaHlLNFdvdlE4WHBPRTJnMnJCajdhaERfOWREclFQNVpRMDUzM25jODdkbTBYNHkwclF0RFh0cXdKdU1zLWw5dzZsdWFGZTVMMGt4VGsxWUdJWl9uajdNVmxhMzFrNjllR2MwRE5mdXB2V0ZlWDV1RE9PX3J4aXRPX09zNGktLTB1dUxHVThLVVE0YjR1S2tKdENHMGpYZlBfYVloY1EtMkJBRURrN1lOSUpJV0oxZFVjdGJFNE02eldUT1d4V0RfU08telNDOWRTSDNvczNtRE5CdXfSAeABQVVfeXFMTzgzOFZ3amdWN0dNUVdyRW5FODBCT0gyUlAzS0ctT043R0RCMGJxaWprVWphOEt3WDRFdTFKNWtXSURXX2ZNdWJGTkE2T3ZEclVBc2VzWmRtSVJvSS12a1R0TWZueEJTTGVCVGo1VkZFUUNhUi1uUzM2cklhU3RXdHJGQzc5UGhRaU43RzkybXJsdk1TNk9LWkdHNkM1TnJaR2lnNmlDNy1Zc2FfVFdBQjJSUmdWVzVBVVpRNnNMOHpVLXJMSDcwcGZBSXNMN0dMX2J3VERGUnlDRjhZRFhOZ24?oc=5",
-     "source": "ETV Bharat",
-     "published": "2026-11-16T07:59:58+00:00",
-     "summary": "",
-     "tags": [
-      "Finance",
-      "AI"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Digital Payment Fraud: RBI Introduces New Cybersecurity Rules; What Is The 6-Hour Reporting Deadline?",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY0FjVEtmYUdFXzNNTzJKdUNqZ1haMFdDbWx2NFAxclRTREQ4eHZoenBMZ2Exek43SjIzNmtSNUF1SjliVER3TnpRM2pHN1M5cEdYU1Ywem5PWnhpOHlHSl93QUk4NUZub0U0M2pmTlZBOFFGRU5seDhCZXBjS1VtYmY2U1lNZzBMbjcwOWpOcXltOXlidk1LcjdnaFZYOVEzNlNkNk9ub01ydTEwdWpOb2RrcTlOdGREVTR6dFpOTnUzYTRsNkRQNE91ekwzTjRNMkFINzAtbzlLa2ZVc000NDJMZHJUeVRwS29pSdIB8gFBVV95cUxNOHE2TVRhekxEUzgyRkpxalVBWHZSSy1nakRZUEFwUmYxeHlEOHNyeU52bVZIRW5HNFFrSDFmQjVZcDZsTTdwSDFyNVJxNEdneWhnQ1p1cE1NSEhKLTFKbFRXZjJwZmVyTWlBQTJ2Nzllc1hUSV9RSmRZc2dRQTQ3bExLeF9VRUNlai1NcFotTExRNElLaFJYbWVnOWVpM0VCV3BJdk5sLW9IUWxXOTBWYW42Y01VVkQ1bm0zU3VYZEtiU3JzbXNDYzlCRFRkLXd5YnNEbDB2QlFFUG43UXdxam81VG1DV2M0aFFOczBjQ0xadw?oc=5",
-     "source": "ETV Bharat",
-     "published": "2026-11-16T07:30:48+00:00",
-     "summary": "",
-     "tags": [
-      "Finance",
-      "Scams & fraud"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [
-      "ET Now"
-     ],
-     "closes": null
-    },
-    {
-     "title": "RBI fines MobiKwik Rs 9 lakh over non-compliance with wallet transfer limit, delayed fraud reporting",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObWFTdzJhSmE5bHAzODMzTk5peGYwMjJ5NE1VRWc1RUhXRlFyVU1QNGJKdmtyX05hVTRxUDNKZ3FFLUVwazZvdkVoSWw2emlJUjV6ZFlGZFJ0UnhTdF9MbmZnZGhubEFxX1pueFM2MFVEd1ZXYUN3c3FBdGNQRTFRUVdqNHh0Y2UxeklwX1FfUHc3UQ?oc=5",
-     "source": "MediaNama",
-     "published": "2026-11-16T07:03:34+00:00",
-     "summary": "",
-     "tags": [
-      "Finance",
-      "Scams & fraud",
-      "Enforcement"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [
-      "Moneylife",
-      "Fincrime Central",
-      "StudyCafe",
-      "TradingView",
-      "The 420.in",
-      "Business Standard",
-      "LiveLawBiz"
-     ],
-     "closes": null
-    },
-    {
-     "title": "RBI Introduces Six-Hour Cyber Fraud Reporting Rule: How The New Guidelines Aim To Make Digital Payments Safer",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQk1TUzZXdTI5TWpDaWF6a0R5ZmhfVlZ4QkVxbl80MHp3R29BTThBWWxpYW50bFJNWUY5UjVENWo5RGVKWUdoODBrbG1WS3liYm91YnZqejctWU5aak5zUXlubXZBOW9vTmszNHBqdFItV2E5Q09VcF9iUC05SVVJTy0zejF5OHYtWlFYVTFCRnhDRWFGUk5aMmpadURwU3lleFpmcWVNR1hkZnVha09SeWdGSWNheHYwekgwWTJ1ZjFHU01BN1dPUC05b0FfYTRYaENRQk5R?oc=5",
-     "source": "PUNE PULSE",
-     "published": "2026-11-16T05:55:24+00:00",
-     "summary": "",
-     "tags": [
-      "Finance",
-      "Scams & fraud"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [
-      "Daily Excelsior",
-      "bfsi.economictimes.indiatimes.com",
-      "Rediff"
-     ],
-     "closes": null
-    },
-    {
-     "title": "Sebi to issue AI usage guidelines for capital markets, focus on investor protection",
-     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVEFBNG1sLUt2NFA1YVFla0lhSm0xTksxU08xa3VIT0tlU2hVSHoyOWdueEY3UEJlNjFwRmlmZ1FUaUdjam1yUVViUkRKbU9GR2R3U19xVnh0SUxqNEp6UHhwNFU3OEQ1U3RvS3laM1BXbG9vdm5IdDZVRUl3UnVvdzJRdjEydzQyX1NhWjluNFdlYUc1TGN5aWdIZXh5WTM1RWxqdUktTVRtUU9LcVZEdVBFbWFYLUlqSnZRcklnbmEzZGZOR01ZQk5ZLW9vaUJqYV90bUhOd2l1LS0tanRhR09XSFV6cnhvNmtaLXYtblZHNDA50gH6AUFVX3lxTFBMRjN1VnY2V1N2eGt1OEd6Z0g0YVk3bkl2TGFlUHpmd1B1YWVLMHNTQV9jUGpJMThmM1JKMUtaQjJXRHJQeDNkUWVUSEZNeHZzMnpvSHl5eUNNV3lhNE5KYnJmdnRWcU9HTzdUX290VHg2cnVTTWpOOVRjRXE1X1dIWFZJRFlhZWp6RzY2aUwzbFlYOGlLV2JBVkE3eGhDQVd2UDI3aWhfX3pkX241alpmcG5kT0RBaWQyMTRJUVpuMWhkZzBGcXFuSzNmYUQ0T0ljNjhYczlFcjRDZjNjTzItSDVteHlKN1Y5VkxEOFE2WDFQbFR6M3NsTXc?oc=5",
-     "source": "ET CIO",
-     "published": "2026-11-16T05:30:00+00:00",
-     "summary": "",
-     "tags": [
-      "Finance",
-      "AI"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "IITF 2026: SEBI to issue AIML guidelines soon, steps up cyber defences amid rising threats",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMHc2c3JhbldWc1drZVpza2Y2OTA2NUNMLTNtVVdJNVZwMzNqUWFiMTVTQk55YVFsRG9TNkJzVHFfTmZDc3VnT0JmMjcxZGpBSngwSXRtZjJCcVByLW55VnBJaHlFckJTTTYyeFhFSmhRdTZzbHF3ZWNScEMwRExZTVpwZUVqRGlZYldKQnlNbnd4aU1RQl9UNEFpcHFaazFIVkstdWRUd05wRDF6bWRTQlJKT3FYWTVCb2pkNWlKRzhxVnhxc0U3a0RCVWFyX253?oc=5",
-     "source": "Zee Business",
-     "published": "2026-11-16T03:30:02+00:00",
-     "summary": "",
-     "tags": [
-      "Finance"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [
-      "The 420.in"
-     ],
-     "closes": null
-    },
-    {
-     "title": "RBI's 6-hour reporting rule to help curb cyber threats, say experts",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbE10OWQwbW9RYVpzZXVrTWt2UF9NVDViVC05bjV4QTBfUlc2MVFiZjFVTFlKaFlJYVNQOVd1T2pjQ1ppdWJJVFBaSFpZbHpkY3JSckFMLXlwbmE4Z05YdW9UVmNxOEZJeTlZVGxPbDZrcVI3TDJ3NGhINzRPVG5CNTB6QmRBaFFXc2lXLXJfZnZHb2E4YUJ4RDh3YmU5TEJvdVJXenlnOW9aTWd5M1hUcW9jUDRDelBwc1NTRnBxZmx6ajd3ck5Hbnk0dXFoV1V5eXl3SXBrb0NPcDZ5bVZwM295aXpnYXPSAewBQVVfeXFMT1o1VEpNLURsUGs0d1JKT056ZDY1bjU3bnVBcjNXRWN4ODBqaG5oTUJGXzV6bzdIUnB2MzJnSUlGRFBjWGUyOVZrSkMtazhCejMzbmVZN21SbkYzS0lrNllCbjQwQmNxSC1kM1JMbTVfd2tQS3EtVm1GVXBndkc3cW5rVFR1VG1ES2JuX3k2WUFKa0lhT1U2ZWNSYVFqNUtBaUlKbXRjT0dNbHNUV1hHeXJINlRTb3Z1OV9vWUlqRThOc2tQZ1BvR3Z1ZWpuX1VuV1JKWWdHVXIzT3ZmUW9tdnR1SXJ1SHBHekdIWnQ?oc=5",
-     "source": "The Economic Times",
-     "published": "2026-11-15T18:43:02+00:00",
-     "summary": "",
-     "tags": [
-      "Finance"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [
-      "Thekanal"
-     ],
-     "closes": null
-    },
-    {
-     "title": "​RBI Mandates Six-Hour Reporting of Cyber Incidents for Non-Banking Payment Firms",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWlRSOEZreTI2RHgxbC1IVm12QlFocXVSOGMwN2I2Ql9Eb2hfU1dJVnBaRjRrLTEzZ1FrMEMwcnFTNWNlMlY1YnJNTWxCM05fc2FIa2F3LWtpYTl3TmxsbkpiZnJlcDduY3gxRkpfOFdQUVpIOVUtWjh1VmJ6ZjJteEpveHlvbVI1MXYwR3pDT2tVX1hQQjJpejd5M2U5MU45?oc=5",
-     "source": "The 420.in",
-     "published": "2026-11-15T14:22:37+00:00",
-     "summary": "",
-     "tags": [
-      "Finance"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Banks seek centralised fraud reporting mechanism ahead of RBI compensation policy",
-     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRlU1VnY0ZkJ6V2pZMThZNHI3MW9Fb2N2MFVhQmt3U1RQeWtBRXRVR21zZG9sT2l0TnRiOGVoa2tobG0xc05qTVY1MjI3MmpFYkpzT25SR0xCVXhuQUZIYXdveFVsUUs1REJnRUFvYmQ4LUNWRVRkOU1Ib0ItTm52cXFIMThRamtmTEJ5TkJCWlJrYm01eUZGYm1TbFRPVTI0cnhIbmUzUHd1dktCVXJUbjUtMFQtQ3RTNE81d3V5R3ZFRko0SjFxVmdwZ0ZGM3lta09NTFFfNmJpc3ctSVpzQ2VhbWI1dXpJUjl6SXpCeVlUemdmNm1qWE5lTi3SAYICQVVfeXFMTUUxbXJHV1RBTWw5NE5JbHRETGpONVNHR2ROWnVRSlBfaUJNU0wwWWlGeDBnQXl0MHhkU2p4Sl9aOWxfRE9SbVJhWlN2bXRPQnVSb3U1WjAzU2g1YzRqWS1heml1ZjNwcDJ6Q28tY3Z1bl9fSUZsVHhvYXlvYUEySnhqUThPWjNIUEtaaGFReHJmRFZrem1xNl9OY3hQSC1NRkRCbk9GcGQyY1l0Qmk5U3U4dHBLVnFMT0k5WVRuMXRXX1o2czhjcXhtRDhzdlFXNmUxakg4YmJFaEhXNXRHWUxHeWE0MWVXTEgwWEF1MThER0hsUDBiS1BpcWZXcVozVjFn?oc=5",
-     "source": "The Economic Times",
-     "published": "2026-11-14T08:00:00+00:00",
-     "summary": "",
-     "tags": [
-      "Finance",
-      "Scams & fraud"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [
-      "Thekanal"
-     ],
-     "closes": null
-    },
-    {
-     "title": "Cyber Fraud: Supreme Court Seeks Stronger RBI Rules, List Of Measures From WhatsApp And Intermediaries",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcjFIVmI3UlBUMWtRMGpIemNNeDFBQ2p2b05ZQzFRam1uZnBxZXQ1YzFWVHI5NXVwN2ZobHRlN09wNW55eXg2TTFOWEpYQnpYbUJyMkRreU5YN0YwUlVMLXZJYzB4N0xsYVcyM29yTXQ5ZUpKdnRGZU90cUIyZjlCLVEyVFFhWk5XNzFxWEpVbkl5LXRKYVZiMWxQSUNaY2dvc1JrS0dNbW9yOHF5REFXdnkzYUtmbzNBc3BjVXBKTW9Cb1RrdERjemhlaHJTWjExLVltZkY0a9IB5AFBVV95cUxPeW1ZMTRfTkhKdVJQZ0hJT3EzT1VHS0FqX1dKaFR6X1hOOFkweldLNFFubzNMYXROT3FHNldlVHUxOUZsdGZHaTZQSDJOdE9rTzBhZV9iOC1WTzV2SlFJZk9yT0t4RC04YzAzb05XTkR4aF9xN3c1ZF9LenRnVE56OWtmVVRiUXdOLTYzSjdFWjA2N2FwYjhpM1JQYWFiQS1VMlkyOFhBSHd3MTQ4Zm5WSWtEWUw0d0RsOHZyZ2NORDlJaW84NTlEUEtTckFkbTNDU2Z2Y3NvOUFkbEs3eXdWVzRoV1M?oc=5",
-     "source": "Outlook Money",
-     "published": "2026-11-11T10:24:59+00:00",
-     "summary": "",
-     "tags": [
-      "Finance",
-      "Scams & fraud"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Bank of Thailand orders urgent cyber defense measures amid global attacks",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTkzRzZaT0tidWpQQm5PUHBOa3VlcDVtRnBKNzM5RDlFMlNlbF9zUWZYcGU5aDEyOXFYS1JlMzNnenFjejNwOXhKclFOTng3NE9QY2ZNTkNhYjhfM2NadG1OSW1ZbC12RTBwSmNzQU9UWUd2QzNiVlVrM0xaNVZRZmZ5SDgtRnVsZ2lETVB4Y2w3UVpuYVlNN0tjeEN1NGZuZUhTZEhveXBfV3NpdjlRTmhLRGRzdm9aYks2OFlVSjJ3QQ?oc=5",
-     "source": "Pattaya Mail",
-     "published": "2026-11-10T19:48:41+00:00",
-     "summary": "",
-     "tags": [
-      "Finance"
-     ],
-     "countries": [
-      "Thailand"
-     ],
-     "also": [],
-     "closes": null
-    }
-   ]
+   "stories": []
   },
   {
    "name": "Malaysia",
    "stories": [
     {
-     "title": "Malaysia Scam Prevention: Mandatory WhatsApp Identity Verification Under Study",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS1FHTkJ3a0E2Sk45REJkMXNIcEVJUjJlWG1lN1M1T0pfNkZVRXQ5Umh1cWJfRGZKNHI4ZTgyc2NpY1RPWGVuZEZVQTV1M21HWXV4ZHVLVjBQdnRYNFFwY0FDUTlNZFlPYkVfRzF3LU9RT3NLaGRKZnN6Z01OaUFqdVN4SjNvWDB3RHhoelBWNUJPQ3B4M0VDMDN1Sk0weTg2NG5CMGpSY0RfWTVwZjFQTm9SQy1RZw?oc=5",
-     "source": "Batam News Asia",
-     "published": "2026-11-16T02:00:00+00:00",
+     "title": "Malaysia mulls mandatory WhatsApp identity checks to curb scams",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUd3U21DTFZxVUhybzJncTdGaF96bi1XX0RPTDF1SnYtdVh3VkxMLTg3RDFOQXRDWWdSb1owOHlBU2EyMV9ZdVJoUVBzclZ4R2thbVdXdEh1VnpjZjNQZkd0eFdIUWdSN3dTd0JtSHp3d0g4SGs5N1NBMVN5YjYyTWZEMWg2aFpXQzdNaWgzNlZQVWJrRG1oQlVhNkVoSmNDbHM4OEVSWjhldXd2Z21GbXU4a2JTZWNIaV9oaUJ5WdIBvwFBVV95cUxQNXR4dTlEZm95NmhvRS1lWkJocjR2RjVURmM2WFJQZHhqNy05RnZRYzVDV0t4WHp1N3FiVTdCX3g0b3l0VGJqTlZib1c2SHBlR0hFSm9lQmU3M3BqQkJjcFdXWWlzcEkxa0s0c094TXFTZWhrUGVHNFVXd0RZMldnSmJxX1FGNU0tYVNaRWZPYUtTeld5SmxvZHVxd1NzaU91bkdJbUFvMEV5bHhqdDZuenNERHluZDdlWUNXcTZVMA?oc=5",
+     "source": "South China Morning Post",
+     "published": "2026-11-16T01:02:27+00:00",
      "summary": "",
      "tags": [
       "Scams & fraud"
@@ -215,23 +21,8 @@
       "Malaysia"
      ],
      "also": [
-      "South China Morning Post"
+      "The Straits Times"
      ],
-     "closes": null
-    },
-    {
-     "title": "Malaysian govt studying feasibility of mandatory WhatsApp identity verification to curb online scams",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSGVQZTRaeThvanVDVG45eFVUbnBQMmV3NFdUNUFwMU15R2xhZ2c2RC1VeU92MU04X3NBN2dKZ1FKQ0VmMFV3czlmUjg1UXhlNGtCd05adFRIQzFLQjVCRjIyV2RndWhUMkF6bGZORGZwTllFV3ZwUTExOWFQRU1LTF9CaHFXVl9pcmQ1eEZXVVUwV0ZlNjRsNWpUeGlsdDkzV1JhdUZ3NjB5T05LZTU4SFdKRkpHYUdpX3dNZnR1emdOTDR0N29Ra0U5Qjc0amlZajY5QkxJclM1QQ?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-11-15T11:32:00+00:00",
-     "summary": "",
-     "tags": [
-      "Scams & fraud"
-     ],
-     "countries": [
-      "Malaysia"
-     ],
-     "also": [],
      "closes": null
     },
     {
@@ -244,6 +35,32 @@
       "New law",
       "AI"
      ],
+     "countries": [
+      "Malaysia"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "Waze rejects claims of collecting sensitive government data amid Malaysia’s ban",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQUphbzI4NXRVdHN0SDFJd28xd3pEOXVuNkRuck1PZXpjMkVnVmxWX1BVcUFzam1IVnA5S3NNWmtWWGZGYkZ5ZVM0dGd5eHZUMndLeEE0MWx2R1FVcDJ2ZUU4b0NhVFJ4NmhHY2RUYjM4b3phWlJMdWM0OTZYcFd2VlA2WFJrRk9peV82MUo4MHdic25HQVpLeFRXeWhaX0RUQU52YzYzMWMxUlM2a0NlV0JEeGhSdFk?oc=5",
+     "source": "The Sun Malaysia",
+     "published": "2026-11-14T00:43:52+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "Malaysia"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "MCMC reviewing need for further regulations on online games, including Roblox – Fahmi",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFVXRVhUTFA0aldjMHl4LXUyX09sY0lrVkhhRVhIWnBscG5EZS1rZjBwQ1BoYm8yanFkcUdleXBKY2I3YlJFZGZmTmprbmFwQzAwVGxIVDVGQW4tYXNIQlhDeDYzN2FKWlFNMmptREFrSVlaaUpXeWljNnJLWDdfTlpFSV9LalVPbXNrQl91QXpFZy03S01sWjhwVG9pcFVXRWcwLVAtcVQtWUhLSk8wbDV6aS1PLXJNLW9MUDlXUUZScXVVdG4xM0JIR0toWkE?oc=5",
+     "source": "The Sun Malaysia",
+     "published": "2026-11-13T17:33:49+00:00",
+     "summary": "",
+     "tags": [],
      "countries": [
       "Malaysia"
      ],
@@ -270,6 +87,37 @@
   {
    "name": "Singapore",
    "stories": [
+    {
+     "title": "Simba Telecom Won’t Fight Singapore’s Spectrum Notice",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXhMQ3JLNzBmWUdrNm16SDktT05SODVpVi12OHlZNHZZQ25jMUhBdk9hd1J0c09rMTVHOGdPUHY5M25odkNKbXpPVmg2Z1N2ZDhkWDEteEpqYmRmdkFIWmZ3WnNlMkMyRW9EVjZjTF9UWlJNTVZhak9lRDRydHRXdE5PUWRXdEE?oc=5",
+     "source": "Finimize",
+     "published": "2026-11-17T00:58:34+00:00",
+     "summary": "",
+     "tags": [
+      "Telecom"
+     ],
+     "countries": [
+      "Singapore"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "Simba admits to intentional spectrum misuse following IMDA probe; director to resign",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2RJUmZIOGNKRkhOQ3QyMzRlWkFNME1mOFJobG90cC1iQlpFLWZQdnBxa3VtR0NTTkxyekxHeks2TURyVlp6UWFjNUtFZXUtZUV4bjdOY3ptSFdhZzNGbzRPVFNVbFRPcE9vRW9XRnhtQ3NQWVAwb3V1aGVGUHF6bnljb1Z0OHNVclFHbU5YNzlXSGRhMmtEY1dCa3lhS2xBdWxiNFZVVk8wa0JFT1NyVGlxS0xjSnV0?oc=5",
+     "source": "The Straits Times",
+     "published": "2026-11-16T23:18:00+00:00",
+     "summary": "",
+     "tags": [
+      "Telecom",
+      "Enforcement"
+     ],
+     "countries": [
+      "Singapore"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "Singapore Digital Infrastructure Act: 3MW and 10MW Scope",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVzlGRGVvZGdzMFVMQ09INWlHeW1scFNyNzhHZXJVOTRPWDFJczJGLXNFMVBfRHRsR1gtZVBjQ1dQYnFXa3V0R3czVzVYZzBGQm5wMEc3TGpIT0lWR0t6NGZIdi1RdWRVYTVPUWJLUUNNckxpcHlhRFUzN3V5ZHQ4b2Zxa0hZTFF3czRid056WXNwVW9adV9sX2pfQkNMaU9Wcmc?oc=5",
@@ -330,19 +178,6 @@
      "closes": null
     },
     {
-     "title": "What the IMDA show cause notice means for Tuas Ltd (ASX:TUA) after a year of record revenue",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSjJaeF82c1NCZnRDNjR2My1WdEVJNGtLdHhQOWNScmZYVjdyYVJULVlqNHBXY3FvUXEybkhROE1vTlFsaVIza01jQWthQzVJbGFwUkw2d2tPVVhydGtpYVN1RVZiUUZsX2tLMjhSZnNDa19YWXVQS1cxSXl4VFgzTXY1dDlLbm1weFM1S3JHMFVYZE51N3JIUDB6Wjl6VkVwVk9jUmNEV1JwanVrM3R4YnE0SU1mVElHcUZqLVp3RWlfcnU4Z0E?oc=5",
-     "source": "Kalkine",
-     "published": "2026-11-12T14:11:00+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Singapore"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
      "title": "Databricks Partners with EDB and IMDA to Support Singapore’s National AI Strategy",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOanZuR0Q1MEVrUnR6Z0RWVHV1dWhfVXRVVlhHT1A4UEE5Y0FQU3lHd0dsNk1mbWZTVV80S2JDT1BWb0ZGVENIRmFmSzN2MkZsMHRET1o0MVk1UGcyZVVITFJMTmsyN1pPZXA0c2hVZlJZOEtUb2Nya3BFQlR2S2tZbXQ3RVk1YjNyMlV4dVYwN0FLSTdwVTU4dGt2TWQxMHpvbnFfWQ?oc=5",
      "source": "Singapore Economic Development Board (EDB)",
@@ -362,6 +197,19 @@
   {
    "name": "Indonesia",
    "stories": [
+    {
+     "title": "Indonesia turns data governance groundwork into law to unlock data sharing across government",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZW53dEc1c0JwOF9LVnZPSThZRjFsRWRkLWlDM3l0ay1ZTXM2eU8ySjZmMjJfQ1R2OHMtdVM0cVFVbjBaN2g1TDNKZlNOZDQ1Q0RheVZBektlMUg0RnlWdndOSF8xaVRyRkNxcmJ4N25veG1xM0s3emdEYmQ1QUZ0YThMT25XRmN5OERPUWV5R0FabmNvQ0h1bVNEa1lLUzRDTzFOeXpiTW9tSlZKU054eENDbWQwdjAwWFhRcnlaMm55NldMd2YxU2hjRHE?oc=5",
+     "source": "GovInsider",
+     "published": "2026-11-17T01:07:52+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "Indonesia"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "Indonesia's Financial Services deploy CIRTs and issue new online‑lender cybersecurity guidelines",
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zWW5SelB3OEdoUnA4eGNpakRMcXN4Vkg4eVZBdEZMVlF0SmlqTWNJRm14SGI1SDJqU3FoeUNtcDJxY2gzZHRBU2lMMnQzbmlWQWg0VUp6V2F2Nmsxa2RzalVBd3pVT2ZaRWc3Ul9zM3ZNQU1kQ05Ncg?oc=5",
@@ -398,22 +246,6 @@
    "name": "Thailand",
    "stories": [
     {
-     "title": "Thailand'a PDPC investigates Thai Airways data breach affecting 65,029 passengers",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObXpSN3d3aWxXY2Z4dURPNklnREdzNHFSaFRLXzRnc1RkVGd6WHlWbVI5cllobGVVc1F4d3ZBUy03TlRXNWZfcjRBWEl5X09NcEoyaVhWbTcwSUlRZ3JTY0J5YVdrWjROdWlvdTFIU3F2bUlCeXYzZmxoMEE3bDNla29WS3VsMjJnbEk3djAwc2Y0bWw1UTF1WEFBTFlUZDNwV1p0c25TVGVSNW1wZEw2Sk91N0pOM0d0QU5TbU4tVnV3S3BkTHZwcnE4Q09zOXVnV3oyOXNoRkk0NnpNZ09j0gFaQVVfeXFMTWZfOTh6MWZwZllweEU3dmlHZHBTWHFONUh5ZkRRV3YyS3R2OF9pMEhNb2NuMC16RU9jMG85QjJvZnlHUHdpUUZqWlpqMDA0dlg5a21BOVctZWRR?oc=5",
-     "source": "MLex",
-     "published": "2026-11-11T03:54:12+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection",
-      "Enforcement"
-     ],
-     "countries": [
-      "Thailand"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
      "title": "Thailand orders tighter aviation cybersecurity after data breaches across Asia",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZWUwMFBfdE5hZ19fcndqUUs0S0Z1clZBMkNkbnRfbUM3VlhVYWJDMEJZQ0VuOEk0LU1RYTlXQ1lmSUlEeFQwNk5FMVZsU1BYT1NrSzdIeHJKa3ZvNUs2RzBScHpXRVdWUEJBY2QzVEtoTlBmVHVlZnBtT3FOeFQwelhNRTF0dEVkWTNZZUhQMWtpSllWcDFRamY3WmdIaVRKQmZ0R1hiOUNRQ2oySFlKNG5LZFdudW1oNzBpZDlR?oc=5",
      "source": "The Straits Times",
@@ -426,9 +258,7 @@
       "Thailand"
      ],
      "also": [
-      "Nation Thailand",
-      "Presidential Communications Office – PCO",
-      "Facebook"
+      "Nation Thailand"
      ],
      "closes": null
     }
@@ -436,50 +266,7 @@
   },
   {
    "name": "Philippines",
-   "stories": [
-    {
-     "title": "Slovenia eyes cooperation with PH on digital economy, technology sectors By Charm Carcueva MANILA – Slovenia sees opportunities for cooperation with the Philippines in digital economy-related sectors, particularly cybersecurity, artificial intelligence (AI) a",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYVFSQmJ3dzFNU2lMT1JuQ1FzejRGVW45OW1SSWM5Vll6T1RtMWVNSnZxNGN1U20zTm9QVWV3TDg1WUI4RTd2aXBUQkhlQ19OSmVySUJTYnBSZnhSV19zTExwQkZMb0FIS3VQZDNuRVNCY2o1YmVCdWVwNjc5bHNtQ1dxTkNiaTl5ZXFmSndyTDFtbEpEdVFQTEtqTzBIV3FCa2UwVkIwQm84WjE4aTF2X3ZLb3BwQUpOekZULTVrY1BqSGZJZ3pVa0J4cE9vQlR5MEpnRA?oc=5",
-     "source": "Facebook",
-     "published": "2026-11-14T08:20:01+00:00",
-     "summary": "",
-     "tags": [
-      "AI"
-     ],
-     "countries": [
-      "Philippines"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "LOOK: Signing ceremony of the ASEAN Digital Economy Framework Agreement during the #ASEAN2026 Summit. Screengrab via ASEAN Philippines 2026/Facebook Watch the livestream: bit.ly/ASEAN2026Nov14",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdE9xRjdURlRWd3loTHF3TDZKRlFJTnhWSlJWQVF4OTBPUUxFNzk1RmRhNG5Mcmc2Q0w4eDN6RFVOd1JXVGtNVktkLXFfMmxQa2JCMklGZHJyZFpCX1lwNE91RlMyQjhod1dYLVVtc3hOd1lGYlIyWkFjTXM4a3p1dXBfSVJlNmdHZFpWU2pKYmcyTWhLT0JEWm9OX1N3bTZibDF4YnhQTEZnYVhtZHd5TmtJNFJ5LU53THJPaXB0eGM0dmVrT21DVkFfQ2hEZFhDYUxJ?oc=5",
-     "source": "Facebook",
-     "published": "2026-11-14T07:28:57+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Philippines"
-     ],
-     "also": [
-      "TNGlobal",
-      "Báo VietNamNet",
-      "Rappler",
-      "FindArticles",
-      "IndexBox",
-      "The Manila Times",
-      "CNA",
-      "ASEAN Main Portal",
-      "GMA Network",
-      "ANTARA News",
-      "UA.NEWS",
-      "The Edge Malaysia",
-      "NST Online"
-     ],
-     "closes": null
-    }
-   ]
+   "stories": []
   },
   {
    "name": "Vietnam",
@@ -504,6 +291,22 @@
   {
    "name": "Australia",
    "stories": [
+    {
+     "title": "Australia joins US-led AI security agreement on supply chains and critical infrastructure",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbDFwcVlCbHhEc2taVk82MENNUlhlNlU0enhYMVloLUtpY2VTbm1wOUF5dk1jSV93N2FDeFEwUEV5eHIwcXg2d1ppR0xjNE41UTlMRWZjTkZrczJLWTlwclF3aTVHNHlUczRVZlk5RWcwZnlSelZQWXh2ZWdmOUliTXFiYlgzdlFTUmhnRk1ZVHZldVZoVUlvT0dzRjk4TDY2WnYwc1JwaGVHMWhTUHhKeWFod3cyWG5uZnY2MzBUclVhaUQxLUFCdEpPV2pZSEQ0bXpN?oc=5",
+     "source": "Australian Cyber Security Magazine",
+     "published": "2026-11-17T04:27:15+00:00",
+     "summary": "",
+     "tags": [
+      "AI",
+      "Critical infrastructure"
+     ],
+     "countries": [
+      "Australia"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "Australian minister says Microsoft doesn't believe they are 'dealing with a cyber attack'",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONTBqTDRyNzROTE9WX2xhNk5Ta2hpaFRsQlg5RVNwbmwyWmlUM25TcU94Slk3RkxPQ1dBR2JMOS1jeGtVVEVpSDVoR3Q5aEtTbGszeWZxOUFZVl9qUmdkeGRXbk5ueFBRaGFQTUJBcnZQU3VuUGVYRXdHcEJ1VlBqQ192R1ZPVGNZdUNkMDZ2WlRjSnZlUDBzUkQ0bENUcnIwMTczcmJmbUZLSUY4eU9USlhmYjh2ck9OOXVMaktESHo?oc=5",
@@ -551,452 +354,11 @@
   },
   {
    "name": "India",
-   "stories": [
-    {
-     "title": "Comply with India’s privacy law by leveraging EU and US compliance programs",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZEdEQ3FuejU3NUpOdjFXam5FOWhYWmFKLXB1aTRoRGxVb2x3cy1kX3drMjNLUVNHR0xBYzZwM1luSXlBZm51UkxKRDdIVHIxMXZZWUI1ZWVSeEtqd1FUY1lBcnRGb1hDOXpVQ2hqenQyR3ZxVm9SUnN2SjF1dDU0SkIyWG1tRnY1eEViZWxnSDh0WGIyQUhwWlZfRlZobS1mVGFhc2dRSmdJa1FiNUE?oc=5",
-     "source": "IAPP",
-     "published": "2026-11-16T16:07:32+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "India’s new DPDP Rules to boost demand for cybersecurity professionals, here is why",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFR3aVFHV2kzVFRsX1JzZmdTOFhYQmtvUHRTNzYydC1zTjkyTWQ0R0RzY1VwZ01qcDRUSUlSWXo1S0pNdy1idk1OdGpTWFdyTk5YYUZYakxVR1Iwb0lLS2pJLUt1QjdMSkIwbldZalFlWFUtQ0N4dkRBLUVWUVdXc3I0blhNQUdra0FrTEo0NkYzUmZoRXhHT01EUGo1U1U3VzNpXy13LWhDaWhBRnB5b0g2RGRkSDRWdkhTc9IBwwFBVV95cUxNVUkzNFVWbS14UlQ3UXBkSlNBc0xJQ3VMYTFXQXFnanVmU2J6X3RFZ0FSMnlhcWpOeTUyUUlualRtMjIwMldialFUaUdLcWUxVUN4WVJkLVVtOXJ2cVJmUkRKWXlwTXp6VDZ5YmRDakhtaXNTVEc5blVOc2RTdTJyNFNiLUVxT2xjZkdsbUtqY3pSUjFBUW1Dc0g1NHJ6TDFFMG5IVlhHX3A4QjZFb21JQTVENzZCQVQxcERQaWRCRkQweDg?oc=5",
-     "source": "Digit",
-     "published": "2026-11-16T12:00:26+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [
-      "The Tribune"
-     ],
-     "closes": null
-    },
-    {
-     "title": "India's DPDP rules starting May 13, 2027 spur cybersecurity hiring",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaFROSW96blREY0dUdFVaS2dmMUx2RnRpQURHWl9zVzZ3SG54M19lVlptTFNGWnNMTW9Pb1hnUS0xR3hXZF8xQ3FkLTNQemVmM1JHOFdOc0lmZHdXcDJZTmJjLXVSdGNoVm1RZDJNejdCMzZLZW9keVpTRkJmRGxOZ2Q2eFVNTjhBRk1uVFljbWNicUNzY05UWVY3U2NBNDdlaldRdW9KbEdSVzR6TEdQLQ?oc=5",
-     "source": "NewsBytes",
-     "published": "2026-11-16T09:54:01+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "India's new Data Privacy rules set to spark huge demand for cyber experts",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOTNiSlJRZHM3eF9BUkItUU5PSUpyTDNGcmJoX3dSR0taYXBFYlZyQnRFYVBZelJnUXpPaldjY2xORTRoYXpqN1RGY3puX0xYVW5VbnAtZWRKTXlvclZTcHJZRV9zYk5yM1JEbi1lQkh2STdZXzJVSGRKNjdjNVdPTDRDLVU0S0F6ZWF4Z3MydlR6V3BORFd5QWcweDlvanZZYy1adnIxTDMtMDlJX1JrYTZwVGxBRGxpdGRsak1XemV0Q0JMRUdYUXRVTlpsYnhqbTNiaG9B0gHbAUFVX3lxTFA1Z0RvNkNzZlI0REhtOFBmVmZzR2tUQ3VCSHMyV3RqcnY2cHNzWlRtaHVUdjBTR2xiY2pnZTdBN3RHMHp1d1FyT01pN0tmM3ZKR0Q4VmhJMU0yVDJGdGl0ODA1ZkhGekFoTDREc1NFR1dOazVubU94NWoweHJiWk02UzBCZUk3S01VMFp3RmVQZ05iTEkybURtSTRFVmY2OFFhTGQyVnZRN0M2UHFlZmFOdmRqRkgtMEs1ak5ySkhOWEM2a2tGR1NycHhyMWxMS251MFZPbDB5VTdWZw?oc=5",
-     "source": "India Today",
-     "published": "2026-11-16T09:40:22+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "India’s Data Protection Rules Could Reshape Business and Customer Relationships",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93MjN1SHRGUjhibEN5LVh0RXR4SXJFMkhsVlZUWGFwb19wak91R1RkTHJtejNFeGJtNjRScHQ2bmUxdlo1NThoVUFMZ1h0cnFPTlRzdGpueTdTa2RYWHVLdGpVME13UQ?oc=5",
-     "source": "The 420.in",
-     "published": "2026-11-16T05:21:25+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "DPDP framework takes shape: Can consent managers give citizens control over data?",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOV2VEWWU0eXF1MTJtVU9OcmNIaGljZ0NMbDRBT0R4cHVvbWg2R29oS0cwUFZKdno1dGh6cUEtYXZZVEVKa2tPSU1QNEo2YTlCOVk0MTlXcFl0TEZXM0JSZm91S2lWa1FOdFJTRHR1b2NmN2VFMVJlMUoxYV8yajgwWFY4dEU0RU9xR0dpbDE1MngyejJhSjdsV2hBMXEtSWludWxtZ3JoRXhHYjVmZWlLb0xLelUtaHJubkNfY1VLbkhZSWxsLTFDbnI5SXMzcEl2RjVpZWZCS1pHajdqTFowX3dTdmtTM0NETmp5adIB8AFBVV95cUxONC1FR0p3enZpSUtxY2VaTFktY2pFaURDWDdaT0JnaEZlYWNNVXBIa3JPbEt2SGtwZzNEXzFvTXJqY1FneHA5WlFaUUp0RkZ4NmZfU1FxdjRzUWM0cHZYMmtVYnlTYXRNQmxUMjl0dlZLa3Y1c01Kakdlajlqa1U4RTAzYjBmc0M1UWcyakE4anMwcE1HQmNzMTI4TVhVOEFramkwZDhNSnBiV1FrY3dnNEJaTEJ6NE5aSzItTmQtLTNXZzNQWWdDVGVZLUJqLXBXMm1DR2JlQnV4R0ozQnZnZ25pbWRHQkR1b2J5dl9veVM?oc=5",
-     "source": "ET Government",
-     "published": "2026-11-15T02:12:52+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "India Opens Consent Manager Registration Under Digital Personal Data Protection Framework",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRTBDZjhOcmxEM2FoSVJKOUhoLTBHX3RQMGotbkpXRU05RlZ4Uzljb0hyeFZTV0RobFA5WXRHN01JYWxYZUYzcnQ5N1laRzlodU5TVkNCWnpuNUJQeEt0ZXRCcEVIbVRJelNBS0VnQm9VOHBYYW9qaEo3cFlaY1piM3ZwTFhFODFzbzhN?oc=5",
-     "source": "www.nationpathindia.com",
-     "published": "2026-11-14T22:47:14+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [
-      "Swarajya",
-      "Babushahi.com",
-      "Elets eGov"
-     ],
-     "closes": null
-    },
-    {
-     "title": "DPDP Act Implementation: MeitY Opens Consent Manager Registration Portal",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQejQ0OEtzaTQtRzk0YjZqRzdESTJ5cXpfTDhQeXdLVkxRR05IZWpUU0Vkc1NwRUVOaHE3ZHJZVjg0b2YyQ3VQTmlfd3hqN1dwbThaTzM3TXdpejdyY0o5MVhZVU5RUklydTVna0N3cHdIQzMxMWdRWDJNVG82Xy1UU2ktQzhjTFlJMTZOM05sWkdEakNDVWNlcHJhMA?oc=5",
-     "source": "Inc42",
-     "published": "2026-11-14T14:54:15+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "DPDP Act 2023 : Data Protection Board of India is Live Now",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TNmxESlBUaXZYclFtM1pyMkpGM1g5dXBsVTkyTFBQWE41bGpMcU5WaDl4UjNJSzlNMG1FVDdUUGZPcDdENVNqa0xrZ2N0UjhVbkt3bmgwZ01ITnhfMHJ3WW03MFlUajQ2MzRrX3pNTlpQUQ?oc=5",
-     "source": "The 420.in",
-     "published": "2026-11-14T06:38:20+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Data Protection Board Takes Centre Stage As India Advances Digital Privacy Law",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdnlNUDZNZzF5RGU0YW5FdS1hYWFOV19PbjNETmFCWjZ0U0ExX2FwNjl1aE4zTHpvcTNSOWFzY3U5U3NIaTR6UkpDUEY1bktCSG8zdUlrbk02aHdPTGhnY2F5RmUxbFBYTUhrSENUczZTWktpcEo1Q2JQQ3NCcW1wWW9VRjgxbHJobzh6Y3R6MlFXYUVMNnp3elZyS1o2UQ?oc=5",
-     "source": "The 420.in",
-     "published": "2026-11-13T18:42:24+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Consent is not compliance: What the DPDP Act means for HR and employee data",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVzRlTGNoTzhCZl9yMXF1U1dKUE54OWR5anpHRVh3Qm1wQlZIMnVjYnd2X2pjblBUSnVOaXNoUGdCX3ptX0NpTkF0Sy1zdVB5dVVFWjFkemI0VmQ5SHgzVWVjSGlkbGJkc3lWbFU4c2hqdGZfVlc0NnRURURhQVdGY19naUtOcHFyQkt3RWp1T0RJdlJIZXFvUmhSYms0cnRQanZyZjVlMk1ZUENXVFJfMmVTQmNwNVJWN3RpWWZvV0pSc0FfQW9lRUpuaF81bVk?oc=5",
-     "source": "People Matters - HR News",
-     "published": "2026-11-13T11:06:03+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "India Data Protection Board Has No Appointed Members as Consent-Manager Rule Takes Effect Friday",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTVp1SWZUWTczMXR0Zlk5cnVxcjZOcFlsTF8wUVlKQ05WVjJqRUQ3TWtuc2ljUl9RNXFrdVFPMThOWm5aUXVxUXN5M3gxZWE2ODNOa0tmUW5aSDFsVi1EXzF5SjdpNGdoQ1JRX0pXYWFjT1VaSHd1dWp4SXAtcTQzOE1qVE9TcEcyRG9QUC1DYl9SY1NabktiY2Q0QVFUeXV1TUtkYUsteExXaWQ1aDJmRFpnOHU0anJzWlF5bFRET08zS2taeElHSVpsd2piMV9lTVZlS3MxR3RDbFItaExWNlVn?oc=5",
-     "source": "Tech Times",
-     "published": "2026-11-13T05:10:31+00:00",
-     "summary": "",
-     "tags": [
-      "New law",
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Ransomware Without Data Theft Can Still Trigger Mandatory Breach Reporting Under India’s DPDP Law: K7 CyberSecurity",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNREI1LTBiV0tGNVFBOHlBUjhtbVBHUDhoaHBGMk9uanliZ1c2d1ZaaHp1dFV0LXhxN0FfeXJPblF1c0ZhX2pQT19faUlUSzZ6ZEhKY2dYNXB5MnNIS3lLUmRJeVVxR0Rjc2FPZHU0SkRsS2hzTzY0TzU3ZzFobVExOXNKdjlubFZLTGhfQTlJRXJlRzIzbVhZY1VReTNkU3gwUk9kaHlxVDVWc2lMX1ZoRlo0X0JxTmFFNlpaRm5uZ1ZPRDVvb044TnFqQWtJYjRTUGYtZmJtMmZNbnRlRm12VEtTaw?oc=5",
-     "source": "CXOToday.com",
-     "published": "2026-11-12T20:18:45+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Data protection in India: The compliance gap",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOHBIM214UEpScDBGaWRzclZFdEQ5dkljQjNJTHNDTHZiajlvNUJFMnBqXzRGWUJFUWxYOHZYZzJOSXJmNExZV3RJUHg2S21JajA5X1oxZ2ZCVG45MWFMTkJBRjVOU2tPNjJ2UTNsSnU0ekp1ZzFfUFBTbkJXUXV5ak0xZ9IBkAFBVV95cUxNMmRzYnBJNjdoQUpHMlNPc2RqbFdCVDdnUDUxc0Z5MEFIcEROaWRiMFAzaFFlTmlSbXJLYnBqbXlpOFBoQnlTS0JjYzZjT0NJWXQ0QjhXa1hBMkFFNFpMV0VkeUtJeWJIWWQ5WnEwQ0lCQXpIZ1V2eUh0eW9zbTRMLW5oODNzZExSRHJGOHdTeHU?oc=5",
-     "source": "Daily Pioneer",
-     "published": "2026-11-11T22:20:49+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    }
-   ]
+   "stories": []
   },
   {
    "name": "Regional & Global Bodies",
-   "stories": [
-    {
-     "title": "PTV. . #PTVNewsTonight | #ASEAN member states ink landmark ASEAN Digital Economy Framework Agreement",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUmlZMWNiS2V0ZGdDd1BFSjhNamdZYzNTazRXQ2VDLVhkN2NDNTZSUGpZdzZnR0dHRENSUnpzQjBxMW5VUGw1bE5NZTRodEhCeEpnVHZKOHRqUDZTT2NObm9VVjZvYWdkUzRKQUQ0QmdTSTZyOU8yazhlZ0xDS1RNZDhUSXNpcFNhRzVFUVdOTlNsSlBLS3NxWmtUc3BwWDF4ODlVSmd6VVZIdjF1UkczUmJESWktdHBGQ0NtTWQzRkpDblhZYkRCa29McEJ2Y2hqTW1V?oc=5",
-     "source": "Facebook",
-     "published": "2026-11-16T14:59:17+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "ASEAN"
-     ],
-     "also": [
-      "The Manila Times",
-      "Inquirer.net",
-      "Philippine News Agency",
-      "The Straits Times"
-     ],
-     "closes": null
-    },
-    {
-     "title": "Asean-South Korea cooperation must be strengthened to combat cross-border crimes, online scams — Anwar",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Fc1BWbmE5LU96R1E1MTluUE95N0ZtMVE3SURoVFlvZWR3Q25EcDJGX1V5T3NQaEtMRHZYUG1PSnA3bEpycFM0UW11TWRNdlhq?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-11-16T14:12:24+00:00",
-     "summary": "",
-     "tags": [
-      "Scams & fraud"
-     ],
-     "countries": [
-      "Malaysia",
-      "ASEAN"
-     ],
-     "also": [
-      "NST Online"
-     ],
-     "closes": null
-    },
-    {
-     "title": "WATCH: PNA HEADLINES - 1 (2026.11.16) • Marcos calls for stronger ASEAN-UN cooperation to achieve SDGs • ASEAN leaders approve, note over 150 documents in productive 49th summit: Lazaro • IMF hails ASEAN push for digital economy, cites potentia",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSHNNSHBpb3dCNFhyeTFXVDIxOVFUc2cxVHZYMjdEWUtOdzhSYzR4YkV5cjZUX2dRR2dOWWF6M182TENsX1V0c1B4S3MwLXBlUmZjaUY1T3Y1ZWZDUVJOSFYwbTN4dVRWc1hfT2Z6VmFMdGQ2TC0zM3hfRE5GeDFkVF9wMzNFMUlTSEFBRVNkaEtpYlF1dWo2MHZHYzhMM3BRZ1M2aGRIZDZyZF9UMTNNeVBUZ2FWR0pJckNxWTlLR3BwN3hVMjBlRzFqUVU3WDJDc2hoTw?oc=5",
-     "source": "Facebook",
-     "published": "2026-11-16T13:21:55+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "ASEAN"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Dy urges digital trade cooperation to drive Asean’s economic momentum",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmo5Qk9HVG5vWnM0eWJBeU9JV0NndjYyakFKMDNya1NaY1dwYXlmV0NtQ2owc3hVZ3lFWmZoVkpzRjYxdnQtM0VyVFd1bDcyREJoeU9ITUlNcndtRmNuNTA5ZFM4c3dwYmxkUkE2ZHRya0FjN2Z5d3F6aXdCbmVFSno1VFpCSERLREVXV3NQbWhFbDlkNm92MjJzRHZraUgxbF9Bcy1XaU1zV1E0WXfSAbMBQVVfeXFMT1V2VGNjZ3k4Y3JQa2MyODEyWWdYUmFmanFweFJEUDM4TmFNVXg0RzFvWVpGcnkzYmZIU1pYM19hcXVpbGpPNGF5UlBpaWgtbUY5ZE1Tb09UU08xZHBBZWdaLVdOa0htd1BENTZYUHJRcElrSnliakFQNjl2YXU5VXd4Y2k0bE9SOVBvakpKdkZob1l5WUhwZ051Q29NQXpTVDhtaU1tXzZYaExJeU5XNVpyVFE?oc=5",
-     "source": "Inquirer.net",
-     "published": "2026-11-16T07:20:00+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "ASEAN"
-     ],
-     "also": [
-      "The Business Times"
-     ],
-     "closes": null
-    },
-    {
-     "title": "Malaysia calls for stronger Asean-China cooperation on AI governance, regulatory guardrails",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRnVaaFNjb1diT1RpaU5HeEFpRTFyaDlWLTIxaVNobmhEMFN4Z3BJS1ZYeWVwVjlObFl6cnU5d0I3Vzl3WVZTTXV6ZXpjS2hreC1fQjhUVVQ4amtCNWpJdy1LVXZVVmU1QmdJdDdHWUQwLUdBUjV5Z242ZkRUVkFDLWl1QmlCeWZkTG1fXy1IdlFUUmM0SGdZMF9LcWVyX25aMDN2dnh6RTdpNGxrUWRFMXQwOUt4VnlHcW5ZeFJ3cWVqYTZIWXJNYnFyZWFtTDBBZnhySzV4UQ?oc=5",
-     "source": "The Star",
-     "published": "2026-11-16T06:34:00+00:00",
-     "summary": "",
-     "tags": [
-      "AI"
-     ],
-     "countries": [
-      "Malaysia",
-      "ASEAN"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "APEC business representatives eye cooperation, digital economy",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjZZbDl4a3BQRUE1ZHdiUXBta3JLaHFOZFpyaTRPUWdQZ0p2dWgwVnJZMHVXaHpJemtFRGxtYU83emx2RDZ3SlFmVTl6bTZYNDdVS2QyS3BxVFk4ZGdzWVQxZGZKZjNQa0hhSzZMT0JnNDV5S1VrX3NHYTlva3ZENHNxeFV0NTljc1VmNURnWmxsMTk4cXJTYQ?oc=5",
-     "source": "Myanmar International TV",
-     "published": "2026-11-16T04:12:02+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [],
-     "also": [
-      "巴士的報"
-     ],
-     "closes": null
-    },
-    {
-     "title": "Finance Sec. Go pushes ASEAN digital pact, chip roadmap to boost AI investments, jobs",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdUg0NTVvNmRxQ3FvRjl2ZkhOSnhNdURVLUdnSnpna1oxWm9FZWp3VHRtWUQ4bzhNUUZHeUFRQVBwS2FCcjZ6Ymt6YmNyOHpJNE40RGg0eHJxNUR4NGMyWXpNZWRQRk9SUGNmQ0FITUZuNVQwZ243M3E1b2dDTndublZHaVNhODdSQi1fclctb0JOcjEzeDEtQTl3bG02TThRZTBrb1NKWVNBemJqRzNCUnBKTjdKTTFwbEN0Ym9xMjd6bmpCTGh0ZGVscmstRG5RcFdROVpRQmtzdkk?oc=5",
-     "source": "GMA Network",
-     "published": "2026-11-16T03:31:45+00:00",
-     "summary": "",
-     "tags": [
-      "AI"
-     ],
-     "countries": [
-      "ASEAN"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Building the framework for Asean’s digital economy",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWNpWTFTMXVsUm9MS2xzbDBxR0pCbzdoeFJUa2pwbkFXRTVzcmxnaE5QdWFqWmlkdklfVzc0SmM3OHMxTTlPRTNveGNTMU9JWmFMWGNvQWdkNkZKdG51ZFhNRVJjUEh5TzJiaTdKQll2NGZ0MVJBNHlmZ0lRem5oYjNUSGJhdUg4QjdGN0JfNkpSMGpZcWVrOUIyb1ZXLWFDRmlqdmZtdDZBUGExa05uMndLSDLSAboBQVVfeXFMT2x3c3NTLUxETUNOX19DX0ZHUXJyOHNVUDRnMEtjbk9GVDlRQkd4SmQ2cDBGeG9venVOSk5NV1Q1dUEyM0lvN1Nma3BubXhEYXR6ZnNfREVLNWlFRU5QVHVjUHhGSklJOXdySVNNbTFSNUFlZlpVOGFlVml1X3lOd2gzVEZWX1lJQmtZaG01d1gwLVZfRlFHOGZfRjJqWW8tVVBfQ2NIX2pTQUcwa2NlYUhzdVl5RHNEcGVn?oc=5",
-     "source": "The Manila Times",
-     "published": "2026-11-15T16:07:00+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "ASEAN"
-     ],
-     "also": [
-      "The Edge Singapore"
-     ],
-     "closes": null
-    },
-    {
-     "title": "ASEAN leaders push for regional cooperation to ease movement of digital workers By Marita Moaje MANILA – Leaders of Association of Southeast Asian Nations (ASEAN) member states will explore regional measures for easier mobility of skilled digital worke",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTjdOakRDdWRqT0dvbFBPWmkxZEUtSHlxMjVXUFVkY2xhWmtGbmdYaWNENWlRUzdWOTFsN3ZpMHBmZVktLUdIWHFRakZBdTN6bVMwbDFVUldydlhMRW9hRFIzRmlTN3kwVExCWWVJZkR2SERPZC1RLTFfYk53dzY2LUlfcVpia1lpdXVuN3N4QXZZYmdKNnZrbjNudlNPeWJ5MHZhbXhzODVLZzE3aGhqSDJQS05QWFFvNzRPNnVURXRlWXplZ0loNV9mYkZIZ1JnNkdQNg?oc=5",
-     "source": "Facebook",
-     "published": "2026-11-15T11:45:09+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Philippines",
-      "ASEAN"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "LOOK: Department of Trade and Industry (DTI) Secretary and ASEAN Economic Community Council Chair Cristina Roque led the signing of the ASEAN Digital Economy Framework Agreement, which aims to make online transactions across Southeast Asia ea",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcVNuUTFwQlhxLUY2YXdQVnRGZUE2WGJrc1hHM3NzWWN4Um5zQXRKOTJuNWFFNzNaU2NWUlI1QnlyQmRjWDBnOTVzNk5sOTdCcVBZeXV5TTdTZFZLZTBSc3R4WmYyOVh4aTE0ZlBMeHB2NjhsYkFIcUtGUHBEcjZlWEE1Nk5KMVdEVkhQclBpQnFGLV9PUGFVX1Q2dTdGNk9VNWVpVldiZjg1dFlaQ2JwRVQyel9uZXlCaWlUd2w2Qmc2V25pemlCalVCTHdVUlFrZ0VF?oc=5",
-     "source": "Facebook",
-     "published": "2026-11-15T04:25:59+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "ASEAN"
-     ],
-     "also": [
-      "CNA"
-     ],
-     "closes": null
-    },
-    {
-     "title": "Newly inked ASEAN agreement promises 'more seamless, secure, interconnected' digital market",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZHRUbjd4c0xsWWdzZUdhSkExejJBMDN0UDJITTVYUlZXeVA5Y2d6YW5KeFV2MXozM1hBcW51NWsyY3lPQ2w4M1huQmcwcjJUUmpYdkM3RWhkNkViR2hsWHN2SDBHV1d2bDJnb0lobVoyNTFYc1dtQ0tiWHRVM0JwemVJYU1lSm5WQjAzc3FhSjlpN0x2bnoxT00xb0JTTWd2WTh0dE5MVXB6UVktbXZVSTFKRnlqT2hremc?oc=5",
-     "source": "VERA Files",
-     "published": "2026-11-15T04:23:09+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "ASEAN"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "ASEAN signs digital economy agreement to ease cross-border business operations and consumer transactions",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZTJuMFdUd25sRWVLZ3dZTm5XVGhtdjhJN3JuWXBibFNJOW9OWWJ4YWpGOU9ZNUZHRlJzUHp5X1MwWWlxaW44V2dTT01uLVg2NW9HZkdfeWxmU1R4eHRwN2h6VmhDX3ZrMnB6WDhGdnVIRjVXM3dodWR1OXI3TEZfa05YZ29DVW1XQUZTZVBpd3Q1cnZyTm55SWdHS1hXWE1uYnphVVFEbzIyUk9SdEZoUXJTdDdjNzlSV1hTWFBDOWJZWjMyVnp1RzVLR0U?oc=5",
-     "source": "联合早报",
-     "published": "2026-11-15T00:33:31+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "ASEAN"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "ASEAN ministers sign digital economy pact",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU0tPTnpQNHQxVW9CTklMUjhfWVFJNkxnR01XcFdQWVcyOHdGa09oUU1FUGJqaDdJSWxLVmlRSzNoVUpsUk95dW5kR2tfY1c0a3lCNkpwMzVPSDI3TWFZeW1BdjdWLVpoSUNrNk9Dck9FQk9GQVZySjdYZ0ZHcHRiMnRyZFlpd1NOOGk3UTcxRWpwWXRSQmR6ZUkwWdIBogFBVV95cUxQeVdJM0QydVZCZUxQM0ZIUzJJNGFJVC1hS2J2eXdpTVQ1cnhkR3lRMFVqLURFSXA5eTdHZEJSQ1hoMF9vSl9ZNnV5SE5tOEhsUVFUTmtxQi1sSVREQWFzVVpZcTBLZkFlVDJfWWtodFJ0bmJCWElrdVk3WFg4TkhHaHFQYURXYUtORzJfQXVqVHpuYXBubFFLUTFsWDB3dXpuNXc?oc=5",
-     "source": "Philstar.com",
-     "published": "2026-11-14T16:00:00+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "ASEAN"
-     ],
-     "also": [
-      "Facebook"
-     ],
-     "closes": null
-    },
-    {
-     "title": "Tok Mat calls for implementation of Asean cybersecurity strategy",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdU5VeDRWem5kRFRFaldQNVpJc19JenRsUGFYN0k1ZnhFNUtubE1saWVpYkdIaHFSZVljR2FGSVBzeHEtMmtRdlpVcjl1aElYNlR6T3JWUTlkUTVuZUpzcE9rR1dIbVdKT1k2SmlvcFRTaC1VVGVnbWdrcHpEaUE1YktKaHNYUnI5Y0t5MEFLNGVXSzJpaER3anJqTHJGYm5HX3dnT2JTZWlvSnNzMi1ubVd3NWFBZ1lwZWFRc0cxZjBEZHc?oc=5",
-     "source": "Free Malaysia Today",
-     "published": "2026-11-14T11:59:00+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "ASEAN"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Signing ceremony of the ASEAN Digital Economy Framework Agreement at Conrad Hotel in Pasay City on Saturday (Nov. 14, 2026). Philippine Trade and Industry Secretary Ma. Cristina Roque said the agreement will help facilitate easier financial transaction",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVHItMEQ2TGRuMXlpbGx2WGFGaU5VMDhCaHl2ZTVOTDFNS0h5U3lwd2VGOUQ3WXhQT1VzVGRkNjlveXJna24xbGNXSDZrS0M5RnRfQ291dllRX3JaTUZsVk1SNGpybS1QSGNKNHB1QktZWDRiNWNwX0M1bFktODNEX3QtWWlvUDVrNDZld3N3M0tGVklyZ0dDS0xEUjdLLXBYc1UzbjBlbXBEbXdhTTlPMG9fSjhVSVQ2dEFndktrZnFQVGRZeGlOamJFemg4V3ZHcDF4Ug?oc=5",
-     "source": "Facebook",
-     "published": "2026-11-14T11:25:45+00:00",
-     "summary": "",
-     "tags": [
-      "Finance"
-     ],
-     "countries": [
-      "Philippines",
-      "ASEAN"
-     ],
-     "also": [],
-     "closes": null
-    }
-   ]
+   "stories": []
   }
  ],
  "closing_soon": []
