@@ -1,9 +1,25 @@
 {
- "generated": "2026-11-27T04:57:40+00:00",
+ "generated": "2026-11-27T18:53:14+00:00",
  "sections": [
   {
    "name": "Financial Sector",
    "stories": [
+    {
+     "title": "RBI Cuts Customer Response Time To Seven Days Under New Cyber Fraud Rules",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeDFuM0pXcl9KbDJpUXV5STV1b1k3LV9UY09rV2tTTzloM1JvUUppazdnNlM4TnZKTUk2M0RDcDZ0eEI0SnBJN00xZWxsWjJTQzlDUXFnckl0cl92aUxLLVhLYmtPM1dYU3BaMzlYSlB1RlVxOW9QUmFCYXY0ZHZIMm1Ud2JnLWhRaTI4YzdJSUlzTV9pVURV?oc=5",
+     "source": "The420",
+     "published": "2026-11-27T17:58:37+00:00",
+     "summary": "",
+     "tags": [
+      "Finance",
+      "Scams & fraud"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "Bendigo Bank hit with $8m penalty over Alliance Bank cyber breach",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcWU1RUJ3d1FQM2tDcklrUl9vZUdWRGlZV2FWcksxSWlBUk45M1FuT1pCNUwyRXcwTlJsdGt3UjhsNUZGWlgwLXlrOEJSSXZydXpKRjF5NzZzclI3bW8tZkM0cFNjNlRRU0dkMEZFYnlGYVdqS2FTT1VrUy1jWjEtOGF2VDQxNVV0UTRkLTdQRHZscG5FWmlkRVQwQnNFVTlIeDQ5RHhTdmQ1dmRRdk9lUVQtSndBLXRCcGtQX1hvcEpkV2M?oc=5",
@@ -89,7 +105,7 @@
     },
     {
      "title": "RBI plans new bank fraud rules: Stop Switch, payment limits & trusted approval",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43Yl9rS0VXZFM4LU1sSUJQVGQxdTNYbnNzVm82cUMxT1dqeTlYTmUza3Q0QW14WFhJOXd5TG1jUFYtc0FGUGI4XzZJTDRUTHptSk9yUnRtR09XWW5KMzZZZDlBOHQzR19zZHc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yUGJ0S1BOSjFaWHBmdC16UG9nZUh1YjVXUEVZdWJBQ0hUbVp1aEdWdXhIZWNSMV9ZR0VPcDdYV1BleS1Icm5xdkVFNlhtTDIxZEhPeWZQSjRnT2c3ekNSVWNuTVMxMGpjd25HTUEya3hNUk5CXzkw?oc=5",
      "source": "Daijiworld",
      "published": "2026-11-24T13:13:24+00:00",
      "summary": "",
@@ -102,7 +118,8 @@
      ],
      "also": [
       "The Pioneer",
-      "Deshabhimani"
+      "Deshabhimani",
+      "Kotak Neo"
      ],
      "closes": null
     },
@@ -120,12 +137,42 @@
      ],
      "also": [],
      "closes": null
+    },
+    {
+     "title": "Can a Cyberattack Make Your Bank Balance Zero? RBI Rules",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zaFRTcXNPWFRxdnU4eE1DRHo5MTNoYWZ2eUVhekh3cGYzTkk0OVVIVHotcG1lNk5yYzFhOE50bkRsS2dXdXA1ZGRYNUtVeXJrVnd6dlEzUjExZ3BReUp0SnN4anJYd2ZvcE5oMw?oc=5",
+     "source": "Myinvestmentideas",
+     "published": "2026-11-21T06:37:53+00:00",
+     "summary": "",
+     "tags": [
+      "Finance"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
     }
    ]
   },
   {
    "name": "Malaysia",
    "stories": [
+    {
+     "title": "Digital Ministry appoints six new leaders, including MDEC and AI Malaysia CEOs",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14QmxrODJFRWhwTDZPdnJ4MWduR0FOZ1l1N1plYTdrQmxCV0M5c2hMTTFsVHg1bEFSYkNsQTU4aEpUbDVYZldob01UV0xYT3ow?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-11-27T10:33:47+00:00",
+     "summary": "",
+     "tags": [
+      "AI"
+     ],
+     "countries": [
+      "Malaysia"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "Cybersecurity gets its own priority in Malaysia’s new National Security Policy",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU1hpRWZVNUJ2cTJTRjl2R3E0cUxZZGs5TzJCdlQwRUpKT2pnQWd4R0t6ZWlkYzVoSXNzZlJuOGZXV1IwbEtYaFJKZTBxeTdYX2VJR25MUk9lelBmNmFXVGkwbWpYdzU5Q282UjFPUE1MelpfMWVSM3d2R0ZyNnp5R1VuUTV4YzdMWWJwVWRWU2ZnSXAyX1RCT3g4TlVERF91ak5jT0d1eU0xRHhHYzBaZ0NWTGtmQThFTHpWU2YzX3o0T0ZBZm1Od2FFRTdHb1lS0gHWAUFVX3lxTFByMkI2S1dSWjVESEpMeGN3S3JueGhpZ195Q2xaVm52S21mbGtrdENQTExOQkozT1pMOHV4ejNOTkJYaHRIc0ZpVmZ1MHpsU08ta2p6YldWQU1ld1hoNjZrcDVaVmpweEZLbHBoQ2s0alJkQnloSlNvV2YzUXhOV0Y1Vmh1c3NQbl9UVXFPVHdSaDFFY1YyZG1WaFdid19Bb3NYdXg2SnJFcTlOQW01d3hYcEdSeVBtSkVTSWNBbXFvRjJTNlFTaWxvSUd6MExmQkNEVE5ZVlE?oc=5",
@@ -225,12 +272,40 @@
      ],
      "also": [],
      "closes": null
+    },
+    {
+     "title": "Ticked, filed, breached: Closing Malaysia’s cyber compliance gap",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVlJKQVdXSUZpZkN4ZjNJVm5OYnl5MVNwWkRlajN0Mm1td1FlSF8xcDBUUGVHVFNxbFNVbHJ5LUtBRnJsMW52ay1ySlJvaEhWWGtrOWZLcXNjMTNrU3Zfdk5WV1FWTk9jT1ZhSU9GSWJXejdLU0I4V1MzcEVBcnJCd2xFVkhyWkw1c09aQ29wM0w4NHB3LVpHTVlhbU9IN0dLQ3JsVUk4Z19CcWRfUml3d2ZQRVVxRVM3dEppenpn?oc=5",
+     "source": "The Star",
+     "published": "2026-11-22T23:34:19+00:00",
+     "summary": "",
+     "tags": [],
+     "countries": [
+      "Malaysia"
+     ],
+     "also": [],
+     "closes": null
     }
    ]
   },
   {
    "name": "Singapore",
    "stories": [
+    {
+     "title": "Singapore PDPC Fines Rajah & Tann $192,000 Over Cybersecurity Protocol Failings",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWVQ2OFJGX0lvOGZBUTdSTF9iNi1EZjF6X0FPVVBXUUUxd091VFh3VkFxU0FVcHhIQ0pfUWZfaG9xblEzal9tTU5oT1htb0w1a2s3R2FtRjQ3MDk4SFVTT3F3SDJ4THRMMTgtenB3bnk0bEU2UGJUTTlzSG81and6VjZFdnJlN2dxelJVdzBnY2hMU0ZfMzdKdkk3NWdwekt6cEFpaWN3dVk5NDRxRGN6TThpRF85dXBWWTI4TDg5WjY4WlRuTlNvTHdn?oc=5",
+     "source": "Law.com",
+     "published": "2026-11-27T09:10:00+00:00",
+     "summary": "",
+     "tags": [
+      "Enforcement"
+     ],
+     "countries": [
+      "Singapore"
+     ],
+     "also": [],
+     "closes": null
+    },
     {
      "title": "PDPC fines Rajah & Tann S$247,000 over data breach affecting up to 143,756 people",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFB5dW1YeFhROTViSUl4T21IWDR0d2w1bTBuMzFBN1VYb1BSUTBINnQtR29ucjREUkZ0Z05CaFQ1amVMZTgxTVFmLWRkVTJhSVhDNWFjZ3RBdWZGTXI4cWJyclpuM0dreGE0YjlWSFk1MGd5TF9lOWdVd3FlYVJ6bzhYaDY5aDZwcks5NVZzRHVPc1B5X193cmZJSHpicU5GN2ZtMTNyWGtJdzNOMmVlekJYYW10cDF0XzQ3M2w4ZkRRdlZXRTBV?oc=5",
@@ -262,6 +337,21 @@
      ],
      "also": [],
      "closes": null
+    },
+    {
+     "title": "Singapore and China deepen digital cooperation on cross-border data flows and AI governance",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY0lDVWhUS3BsdjVuS0ZLYk9YYXVZcVJtbU5oeXdiWmpqcXZRUWwxNXJNLWZwS05qa1BleW1HMFVMOUY4NHF1ZTBwbUVqNy1zR2FRTDBwUmlkZ0ttdHZqdEFHOG5nN1Y4S3Fma3dtRmJKVlM0cldjUHd5eWEzc01Fb25PUVZFX3JfUnF3TGxMU0JkRlNrQ1E5QXJhNUhiMklYck5sUUlTSWFwem1OYlFmY2ZiYTRqc3lGWjlVVklFRlgza0RPNEE4QVRubVE?oc=5",
+     "source": "联合早报",
+     "published": "2026-11-22T09:54:30+00:00",
+     "summary": "",
+     "tags": [
+      "AI"
+     ],
+     "countries": [
+      "Singapore"
+     ],
+     "also": [],
+     "closes": null
     }
    ]
   },
@@ -269,10 +359,10 @@
    "name": "Indonesia",
    "stories": [
     {
-     "title": "EU and Indonesia “learn from each other” through practical cooperation to strengthen cyber crisis communication and coordination",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRMkg3TlZJRE54RWVpanpDel9kb1BNX05MNDNLSm5WU0k3a3ZTY3ljOUh0aWVndDFkdHNoTzduZDUwSlJCNWtMUE4zSlVzRUhuZzV1eUY0SzJSS0ppQTY0?oc=5",
-     "source": "European External Action Service (EEAS)",
-     "published": "2026-11-25T15:47:54+00:00",
+     "title": "How Indonesia Plans to Regulate Data Center Development",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLWJtQ1NrZXluUk1TZ3BDUWw2dXoxUUhJOVFtT1o3cnE3UUxvSnA1bTVveVYzblA1TW9fZ0RaUUtRcWhxNDFkUEhiVXBkNHN3bkxHaHNnZ0t6VWFRbzY5MVNtb210cmtNVE0xZ0pweFdJczRlR3pnbnZtWXc4cWlIRFFGMGdQa0RYMG1xX0hkM3Bpdw?oc=5",
+     "source": "Tempo.co English",
+     "published": "2026-11-27T15:58:00+00:00",
      "summary": "",
      "tags": [],
      "countries": [
@@ -282,14 +372,12 @@
      "closes": null
     },
     {
-     "title": "Indonesia's privacy rules put pressure on businesses ahead of Jan. 16 implementation",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ON1dOOWh1NDRMSzJ6cV82N3JRbEx6MVBhelZWM1g0NWJnUnVtbHMwXy1KLUNvRjdnNUF3dDRQcGFNSWpJczhDNmsxSTNHYjBuLUQ2WnI3WjZjUdIBWkFVX3lxTE9ON1dOOWh1NDRMSzJ6cV82N3JRbEx6MVBhelZWM1g0NWJnUnVtbHMwXy1KLUNvRjdnNUF3dDRQcGFNSWpJczhDNmsxSTNHYjBuLUQ2WnI3WjZjUQ?oc=5",
-     "source": "MLex",
-     "published": "2026-11-25T07:09:00+00:00",
+     "title": "EU and Indonesia “learn from each other” through practical cooperation to strengthen cyber crisis communication and coordination",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRMkg3TlZJRE54RWVpanpDel9kb1BNX05MNDNLSm5WU0k3a3ZTY3ljOUh0aWVndDFkdHNoTzduZDUwSlJCNWtMUE4zSlVzRUhuZzV1eUY0SzJSS0ppQTY0?oc=5",
+     "source": "EEAS",
+     "published": "2026-11-25T15:47:54+00:00",
      "summary": "",
-     "tags": [
-      "Data protection"
-     ],
+     "tags": [],
      "countries": [
       "Indonesia"
      ],
@@ -356,122 +444,21 @@
      ],
      "also": [],
      "closes": null
-    },
-    {
-     "title": "Best Online Casinos in Indonesia 2026 – Rated for Payments, Licensing and Games",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDUTkwYVdPcmlEczRtekZPV2ZXWldHYjdVSWE0dzZ0TWlhZUUxRk1tcndVZHM4T0RqRFVsUWcweldROHF4ZWdvSE9WREc4X2w4Vnh4QmZaQm5FOTdmY01ndnFFbw?oc=5",
-     "source": "Esports.net",
-     "published": "2026-11-20T08:00:00+00:00",
-     "summary": "",
-     "tags": [
-      "Finance"
-     ],
-     "countries": [
-      "Indonesia"
-     ],
-     "also": [],
-     "closes": null
     }
    ]
   },
   {
    "name": "Thailand",
-   "stories": [
-    {
-     "title": "Thailand and Japan Expand Cooperation on AI Governance and Digital ID",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMW0yYTZiLXIzcjh5bEFiY2NpRmE2V3BvVVRicXdOTGQwd2tKQVB4WURWdFBmNmlRM2pPdjRRTmo4Z3ljcG9vX05jd0VVREJreTNFUU4xUWlLbnp0dUlDX1Z4aFBOMlQ2c184ZEt0cnZwcFVjb25tVVMzX0E2cUZYWTE3S290Y1hrNDVRems2ZXFra0lFaldsWTlR?oc=5",
-     "source": "OpenGov Asia",
-     "published": "2026-11-26T11:30:03+00:00",
-     "summary": "",
-     "tags": [
-      "AI"
-     ],
-     "countries": [
-      "Thailand"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "B.Grimm Power and NTT Global Data Center sign MoU for a multi billion dollar data center project in Thailand",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVnEzMkFjWThtczUyYUlmQ0NWT1lJeGVYZkhRMjNwYXhDZm9YNmdvNDNrTlo3dTlfVVlEVGtXNkpILXBwS2ZBVzcyZUtSdDUwdUhvaDV0S3pJMW1RaEpaNC1XTW9YXzhuLW9pbC1aV0xyam1rdE9ISEpWZWd5SW9BUkZrdkVHbDI2MmhPZEFGaUE0dDVkbkVTNWpGVTBtWGZDb3ZnTUE2ZkhjWFFSVW9RN3pZRmtUX2t1a01oZ2FlMVJ2N28?oc=5",
-     "source": "W.Media",
-     "published": "2026-11-25T04:53:00+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Thailand"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Thailand’s “No ID, No Ads” Rule: A New Step Towards Digital Accountability",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdzN5anVxZ3Y5b3lia0NKdEk5YWJaYUpaaHh4VURCRDZHOFQ2bXFuUk95OVFucnhZd0pGU1huZHA5RlBjcjBKcHNJamZielBDZVU3dXRfTDNlck9Db0NtWW1NRWkzN0JQRWFFbm5ELTNNZkcteWpHMUc5WEc2NHNVN3JsRFVCU3lsaWk4VGtiaU5pM1VxckFLMzQ2LWVRR0txN3J1em9rYzhFMHM4VEU3UGt5YVd0T0NheHh3ZmIzMHl6UVpla2tKeUF4RXhQY0hWRk9fbUxCRU81ek03eHRHWTNB?oc=5",
-     "source": "Legal 500",
-     "published": "2026-11-24T08:23:02+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Thailand"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Thailand Proposes Qualification Standards For Data Protection Officers",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSVk3Q2UwaE1uRHFjbGtDRXphZ3FjWENSQl9MREhZcUlMTWtQRWhKMDNtS3NWUW1rUF9mN1VHUFpfeGV4aTdSSmlSSncySVFNUnlpd1BnRlQyeWtoWi02QXZWb0tES3I0QXZ6X3h1QVpnTGZHZUZHSlJ4anNHMzRvTmF5YklnUzZVcEVOZERWenhvMWJSTEotaVBFeVFjN2NZQWN0SjlpNE14bUJkLXl0VFRYd3lpS1ZYQW1wYkZQWFY?oc=5",
-     "source": "Legal 500",
-     "published": "2026-11-22T08:00:00+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
-     ],
-     "countries": [
-      "Thailand"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Thailand Publishes Draft Personal Data Protection Master Plan 2028–2032",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ3Z1ajhpZVhKWW52amhsLVQ3bmE3MHpwUXZlMUhqYnZuME9VU2picV9xYXh0MEpmcUo2bEhpT0dLNnE2YTFFNS1wSkJCYXpRWXpXcWF0MmQtUkdBN2g2TWlHMjVMNTVjVjNncTF1UVNleE9QMFZOTkx5TmFRSlc0cDRucDMyWTk0LTBuZ1FMX01wd1VvS1VDVmJ1amQ1Wm9ZVTlfOFg5dm1RRC1UTTdYOXhaNU1RVzk2TXZuaS1rVHE0MFhY?oc=5",
-     "source": "Legal 500",
-     "published": "2026-11-20T08:00:00+00:00",
-     "summary": "",
-     "tags": [
-      "Consultation",
-      "Data protection"
-     ],
-     "countries": [
-      "Thailand"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Thailand Proposes Regulatory Overhaul For Digital Platforms",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaUl2VkRaNW1tVmtsQjliT0pqamc0bU0tZGdtNm1lRTZlNXp1YXhpRTRJRmh4U2MtTjdzekZ4TjZFWXozeXc4NDdLZFN6WjE1dWtVYWd0RjZ6NHNVYlZPaDdEbWlLTF81SlN1NnpYd1NHWUxGWHg4ZUpzU3lFVzJ6U2ZCelhMRU4tRzRsZ2pyWmxVQ0tUN1lLdG1JX2hOcDVDREJyb1lqVGNobnRBUzVVMG83ck41RjlFZEpGVFhnRXNSc09sRnVvMGpVUmlkdm1JeEJROQ?oc=5",
-     "source": "Legal 500",
-     "published": "2026-11-20T08:00:00+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Thailand"
-     ],
-     "also": [],
-     "closes": null
-    }
-   ]
+   "stories": []
   },
   {
    "name": "Philippines",
    "stories": [
     {
      "title": "Is AI Hiring Safe Under the Data Privacy Act? Eight Steps Philippine Employers Should Take",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNF9LT2ROYVFkbFFMc0NjM29IbmFaX0dGdVZaMHE0dzJlSU1fdUtCYkx6bXhxYjJ4eHJsdnVubVFocW5lTmtlMmpydDA0UUFfMHhVVXprUzhsYWdrbTZwMzJCUXN2OUptV1NVOF9lWFY1TDhKWDd2d1E1dFFqVk5ieHNPNEIxM2diSnFseWVjdzNvTktEcUpiNDZlUjZtQkMyaG0zSVJ4LV9ZeXFUR0JZTElVbUs0U3ZVNGNwcjRXT0FhUQ?oc=5",
-     "source": "Voice of ASIA",
-     "published": "2026-11-23T08:30:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jNzhxeTV4SEZ6cTN1VUZIc2UxY0VWRXUtSzZxMUk2VTlOb1RXRlM0LW1Md1hQQjMzRTg5WnprcVc2OFdvQjIwcmJLT0treGwwRlZPRllNQ3VqRnhHZmFqZjNROEI2ejZlaFo0TnRzRWh0VllNSFNNbnhVdw?oc=5",
+     "source": "Dugout Philippines",
+     "published": "2026-11-27T07:49:00+00:00",
      "summary": "",
      "tags": [
       "AI",
@@ -484,13 +471,30 @@
      "closes": null
     },
     {
-     "title": "CICC, Safe Schools PH partner to protect kids online By Raymond Carl M. Dela Cruz MANILA – The Cybercrime Investigation and Coordinating Center (CICC) and Safe Schools Philippines (SSP) have partnered to make digital spaces safer for Filipino childre",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNektsYXFNRTI5OHBtZUFmaGNkTVN1Mzduemp3NkN6NzB3WUtFLU1qUUF1OWhvRFJITnlfMlJiOGZadHVzdVlRZDEtZXVvejlEaFMyUnFibERqVXM0WWM4VFRZZV9zQmV5bUJiZzlfbEtOampPbVhsSnI2OEpxNFNEQ1h3UUhkbHUzM0JoTHNpRTdwcEdPREhaZWY0WkJBNjA1b1IwMDdRdWJ6WWpkMGJBMDNOVzJMQXhxN0hXVG9hTGpob1hjWVN0VFZoUjM1Z0h4MmVFRQ?oc=5",
+     "title": "WATCH: DICT Sec. Robert Joseph De Claro said he has no information so far indicating monetary losses from data breaches at government agencies. The DICT is still investigating the incidents, including the reported breach at the BIR. | via JP Soriano/GMA N",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU1RENFBKUWNnTVI2ckJLdWhqbWRhdExrNW13WXlHNXpFaFVQdXdtX28xY3F5UjExOFI2NW1YX0VoSG1yanlOWjJJN0U0Tk1KQTNCR1NyTjl0SWtRS0RLZWlGU2FSQWs0SzNRQnNGdk9Ya2VYQkJGQ0djakxyOWVNaVdtaDBGbUNZOEFjZ0htUnJfM1M0Z0FxRTB1NTV3WTNzblFfNHZPWkVSazBkcEZQeDZYdVJQc004TWt6UTlvZ3RUd0xxYlBaVGdKa3VuenJ6RkVZ?oc=5",
      "source": "Facebook",
-     "published": "2026-11-20T11:12:02+00:00",
+     "published": "2026-11-27T05:41:32+00:00",
      "summary": "",
      "tags": [
+      "Data protection",
       "Enforcement"
+     ],
+     "countries": [
+      "Philippines"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "WATCH: A new agreement between the Department of Information and Communications Technology (DICT) and Meta aims to speed up the reporting and removal of content that violates Meta’s policies and strengthen efforts to combat online scams, privacy vi",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR1ZaVzJKQm5zbVdBcnhXSGFmRHFsRGdlQTE5R2tBRUFEcVlyeWNaMm0wd1J2Q0hOeEdNRFhudGFJMHJOLVNhYVFJR3E5MmVrZkhBdE0ybEY5SGlYc0JhVzZyS082d19KdFZfS2M4eUlkMDAwa0d1WjF1V1BBZFVRLTZXdTlqRjNrVTdUT1pKMERaQUJOZ0l5SGp3blhQdkpSQmpzU0NyRW5VYnFfVXVuWmU5U1U5RnU0Qjhfd0VmZ012RUNaWW50dlh1NE1Ja3VUWkpz?oc=5",
+     "source": "Facebook",
+     "published": "2026-11-27T05:21:11+00:00",
+     "summary": "",
+     "tags": [
+      "Data protection",
+      "Scams & fraud"
      ],
      "countries": [
       "Philippines"
@@ -550,23 +554,6 @@
    "name": "Australia",
    "stories": [
     {
-     "title": "Australia Passes Digital Duty of Care Bill, Ignoring Censorship Warnings",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONDU1NE5fQjh1azFDdEpmVmlNY0tZYkszMW1LX2toSkI1ZlUxYUVUbzJrR2R3NG1pNzdnaHNLaHRnaXRzM1BNNTNGQkZJaGxHajVwRWxBS3NfZmFxZHE4QlJ6ajU4dkVFYnFHMjdXZUctZE13UWNSUkdRek52Ukhpa3hOYWwxRW56Z1E?oc=5",
-     "source": "Reclaim The Net",
-     "published": "2026-11-26T15:23:19+00:00",
-     "summary": "",
-     "tags": [
-      "New law"
-     ],
-     "countries": [
-      "Australia"
-     ],
-     "also": [
-      "Dawan Africa"
-     ],
-     "closes": null
-    },
-    {
      "title": "Solomon Islands and Australia sign security treaty requiring consultation on critical infrastructure",
      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CSDRMN2FOTThaQ1VpM2Rqaml0cWZYWDh3T2hNd1pVSC1fN09aZmNPVl9UX0RjTm5fd3RObWdoNkRYb0FJSDdHVWVaX3ktN2xXOFFPUnVmbDVWR3hyTGRpSmRuQlBjcXI5OU9QMjVDNGVObkRWTEJHUVVSNWs?oc=5",
      "source": "Digital Watch Observatory",
@@ -575,21 +562,6 @@
      "tags": [
       "Consultation",
       "Critical infrastructure"
-     ],
-     "countries": [
-      "Australia"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "eSafety Chief Warns AI Harms Outpace Regulation",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjlWT2xwTHlsMks3Q3FCN2FRN21OcFV6Qk1lemEtWUhsdGdLd01sVDZxX28xRFBNTk1MS29xOVU2OXJPOEg4V0RSdGJEaEMwMDFOSWxUTGh2N3R3M2NsYXhYLVlKWTdwdklfVUtWWmVGd0FfRnFnRHFCVnhvT2lqcDUwUEZQdWUwOTBEUE5JNFo0RTN0?oc=5",
-     "source": "Wisevoter",
-     "published": "2026-11-26T06:08:15+00:00",
-     "summary": "",
-     "tags": [
-      "AI"
      ],
      "countries": [
       "Australia"
@@ -613,14 +585,13 @@
      "closes": null
     },
     {
-     "title": "AP: Australia passes online safety law with fines up to 5% of tech companies’ global revenue",
-     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5NVzlFUEcwSi1nQUJBN284OXRfUHM4MHZjS3B4R1FFZWhGN2lYWTEzYjZPVHBXWjJjbWFzN0ptZTcyQzAx?oc=5",
-     "source": "Digg",
-     "published": "2026-11-25T11:17:53+00:00",
+     "title": "Australia Privacy Act Reform: What the Second Tranche Means for Your Business",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZU5XU3dRSHVzNnBfa05FY1l4MVRBdDI2V3ZHSzBXcXpickRYLTJfUHl4ZnBkV2Q3ZVMwR1AwYk1NYmIwclh2OWhKWkNlLUV4bWxIOGpQUXFDTWhGY1ZXVE0xbEMtd2NQNTVBMW9PTzFiaE5hZG1saElqMGpXYmtGUVNpWjBrUnMxREl6R3VUajRSb3BDM0E?oc=5",
+     "source": "Global Advisory Experts",
+     "published": "2026-11-24T08:53:04+00:00",
      "summary": "",
      "tags": [
-      "New law",
-      "Enforcement"
+      "Data protection"
      ],
      "countries": [
       "Australia"
@@ -662,10 +633,25 @@
    "name": "India",
    "stories": [
     {
-     "title": "India, UAE agree to expand defence cooperation in AI, cybersecurity, advanced technologies",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaGlVYWZmbC0zakhxRWtkSkZqVHN1TnFlclBza3BCdkNLb0JLMGV2MDJyX0wxLVNUWmhwUnB3NS1IVlltME9hUm8xT1pHUDZGNE5PblpSSG1odF9kSy1LZHFoZXl4ajY2S1pvaVhmM1Z4RThfWU5QTFVkMXk5S1h3cGI2YXB1SFhGcU5sTGk0Q2YyT3djZFpfNndlbS1zN2xFeWFqODNlcDRJX0JnbTZOR0FDUmxMNVBOQTMyMF93?oc=5",
-     "source": "Connected to India",
-     "published": "2026-11-27T04:25:05+00:00",
+     "title": "Enterprise Resource Planning Software Development: A CIO’s Data Residency Checklist for India’s DPDP Act",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOREdtOUowcWF2blN6aUs4R2VGYmlYUXB4Mnp4TTZoSFV1NGtlX3RuTFBDV3lzQVprS0V0eVo2c1VzS05YTUt1ZGRqLU9qUGdDaDl1V012LUUtS3JKSGh3ZzZpRm0xRzFIeG5FdUxkdTNacE1xZVptdkdQa2JHZ1NBbjRweFVwTnQxTklwOEpEZ2F3ejVVTDlhNEFGcVl6T25fU05xbU5KNzlpVFEzbGFRX2hsVFYtQWJsc01oeUZ0NThjZF85RklWRUpBZDV3RDUzLUQteXh4aWNOaDhuckxyVmtR?oc=5",
+     "source": "Inter Press Service",
+     "published": "2026-11-27T12:44:18+00:00",
+     "summary": "",
+     "tags": [
+      "Data protection"
+     ],
+     "countries": [
+      "India"
+     ],
+     "also": [],
+     "closes": null
+    },
+    {
+     "title": "India and UAE Agree to Jointly Develop Next-Generation Defence Equipment; Expand Cooperation in AI and Cybersecurity",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTZtek9NRHEyMFF6VDA5b0lTejBZTV9tRzdzeTRldERNandFOHppZW9MRGVnOXNzckQyWjVZTi1YYTVyS0ltUGR6aDFiOXpyRFFyeFdsU2cwY2tlNXVfRW42MEVGRlhrZGhvUnVSRTdzcHlLRU1jWWZsajQ4RHJvbkpGMEE4M1ZzTV9LcDROTl9LQlRfV2JfWk5ULXNSQ2M?oc=5",
+     "source": "Indian Masterminds",
+     "published": "2026-11-27T05:04:57+00:00",
      "summary": "",
      "tags": [
       "AI"
@@ -673,7 +659,9 @@
      "countries": [
       "India"
      ],
-     "also": [],
+     "also": [
+      "Connected to India"
+     ],
      "closes": null
     },
     {
@@ -733,36 +721,6 @@
      "summary": "",
      "tags": [
       "AI"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Unnati Digi Services Launches JotKite School, a Privacy-First School Website Designed With India's DPDP Act in Mind",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMmlaX1J3T3ZweTFEWHlfUnVUN2ZuY2VNQW11MFVzWkxzRURqWTRKa1hFeG5Tcm1OM0h3VTFMWkRDelVrcHIxWDlTRUNMa0FLYV92U0hIZUdKSXZWWXg4S1NZTVh6cmh4Um9YNDgyWE9BcjhwZ0lXZW5keENod2lDYV8xNVNpWlA2c0J0VkFnQTFod1gtWEozZjBHRUdOUndzUmhvTGJWSDEzdUcwMDNjVFRRMHViWTJ2OFo1NW4tMGUwT0dUUm9SZEtkWUEzVkVNcXRsUExZNWcwOUpDU1FicDloS3JrS09nZnJNSndnZk53VUU?oc=5",
-     "source": "EIN Presswire",
-     "published": "2026-11-25T18:05:00+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
-     ],
-     "countries": [
-      "India"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "India Moves To Secure Government Data As MoSPI, DSCI Sign Privacy Agreement",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWlNTSUtsUEJ5NUVBaUtDeFA4MGRGamoyZV9rbVozaXplSE1Hc1Q2NDBvNDRyQUgxRlotbjNDRlpQVjgwRVZLdFJFU01yRTBBalFNaFUwNW5zeGdEcFZkRTFOUmQ5UkVSUHRrSTJkazBtV3FWSEV1UUYyNl9LNHZSLWZfYmhlb3JfYjNCZ3RmWWJ6Z2FxSlZuWA?oc=5",
-     "source": "The 420.in",
-     "published": "2026-11-25T18:01:48+00:00",
-     "summary": "",
-     "tags": [
-      "Data protection"
      ],
      "countries": [
       "India"
@@ -873,61 +831,6 @@
       "Scams & fraud"
      ],
      "countries": [
-      "ASEAN"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "APEC summit ends with a declaration, a historic Trump-Xi-Putin meeting and no agreement on who should govern AI",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdVVuUlM0dlV4RHU3UWVZdk0waExZREhuV05yNkcydWJkYW53bkFhV3ZqQjdTTkVfLTYxTGdUTVl6azlGS0kzcTdXaUlFMnBON3RITHFTVXpBcnBfMjlzRGtqNUZ2dWhVWTVreFA0c3BISktfYVh0Tmx3X2kwVjZOYnhfLWhxNktiTHc?oc=5",
-     "source": "Latin Times",
-     "published": "2026-11-20T15:49:32+00:00",
-     "summary": "",
-     "tags": [
-      "AI"
-     ],
-     "countries": [],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "AI governance in Asia must move beyond regulation to build institutions and regional capability",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObnkwTERDcktBOERHYUZYeVJRdUJtTkVuankzVDRjXzUxcHBhMGdoZXp2aGtjOUhUcXg3NUdrS0FzYkxEbEtvN1YwU0VzZ2xqY3cyRmlJQXp2M2hDREwyTlpOWjZjUWNRb1pkYTJHTXBWaUk4c1phbVlXcEtodWFXUkJwMmRRcUZuV2JVNGRGY3lUSThvM2FqczZRRWp5bjJDX0tBQ0lYWHFEcnNjWHRHQ1JVeEpzVFZCZ3U0YlVwYjZ1b2gwSFBBSVo4bVJhby1WNzMwS1hkSQ?oc=5",
-     "source": "Eco-Business",
-     "published": "2026-11-20T09:36:00+00:00",
-     "summary": "",
-     "tags": [
-      "AI"
-     ],
-     "countries": [],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Philippine News Agency. . WATCH: PNA HEADLINES - 1 (2026.11.20) • Marcos pushes AI adoption, regional cooperation vs. illegal fishing at APEC • PH expands trade ties with Chile, Peru • PBBM explores PH investments in PNG fisheries, port infrastructure",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZWV4dzdvRkl6eG81ZHhaM2VCUkhUVF9hbTljakphS3h0VjYyOWxXcDhkOTFvV0xCTUctZmx6NE9aYjVWN095dmI4QmhUeXFOQUVwMGN2dTl1TVc5U2p2TlVhQmdlRlVGaHN2WV9KS1IySGhjNnJTNC1sSHhpTmRVVEhrTWtFVkxFbVI5cWFKSTNBa01acDAwOTNrcm1EOVE0VTN2U0Z5bXY0NmdkRnJidUNMWkFKSkctNUF5WVZscDhCdWVNQ1BYMElsbG9xeVFzaFd4QVhn?oc=5",
-     "source": "Facebook",
-     "published": "2026-11-20T08:00:10+00:00",
-     "summary": "",
-     "tags": [
-      "AI"
-     ],
-     "countries": [
-      "Philippines"
-     ],
-     "also": [],
-     "closes": null
-    },
-    {
-     "title": "Philippine Startups to Benefit from ASEAN Digital Economy Agreement",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONXBaa0pGcDU1YVNlRmNUUC1OUUc1TTdObUZ5bEs4WllyZEVfMERIMk1ZcEFEZWVPelFGZjNfSjdVSVozekVlOXZqTk9pM0paRG5qUUZ6Tm81RzFOenBnUkJYOHJJNW5FY0lkRHlMSkZudEU4MnRqSGhTYzBMdGVWTF80R3JVTTdT?oc=5",
-     "source": "Daily Tribune",
-     "published": "2026-11-20T06:06:42+00:00",
-     "summary": "",
-     "tags": [],
-     "countries": [
-      "Philippines",
       "ASEAN"
      ],
      "also": [],
